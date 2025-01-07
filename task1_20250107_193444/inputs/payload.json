@@ -1,0 +1,10 @@
+{
+  "payload": "#{\n  \"invoice\": {\n    \"id\": \"INV001\",\n    \"customer\": {\n      \"name\": \"John Doe\",\n      \"address\": \"123 Main St, Anytown, USA\"\n    },\n    \"items\": [\n      {\n        \"description\": \"Widget A\",\n        \"quantity\": 5,\n        \"price\": 10.00\n      },\n      {\n        \"description\": \"Widget B\",\n        \"quantity\": 3,\n        \"price\": 20.00\n      }\n    ]\n  }\n}",
+  "output": "#{\n  \"invoice_id\": \"INV001\",\n  \"customer_name\": \"John Doe\",\n  \"customer_address\": \"123 Main St, Anytown, USA\",\n  \"line_items\": [\n    {\n      \"product\": \"Widget A\",\n      \"quantity\": 5,\n      \"unit_price\": 10.00\n    },\n    {\n      \"product\": \"Widget B\",\n      \"quantity\": 3,\n      \"unit_price\": 20.00\n    }\n  ]\n}",
+  "requirements": [
+    "Transform the data structure to match the target format",
+    "Rename keys to match the target naming conventions",
+    "Flatten nested objects to a single level",
+    "Preserve array structure in transformation"
+  ]
+}
