@@ -1,0 +1,20 @@
+{
+  "userId": 1,
+  "userName": "John Doe",
+  "activeSubscriptions": [
+    {
+      "planType": "Premium",
+      "durationInMonths": 12,
+      "nextRenewalDue": "2023-12-15T00:00:00Z",
+      "renewalStatus": "Pending",
+      "totalPaidAmount": 120
+    },
+    {
+      "planType": "Basic",
+      "durationInMonths": 12,
+      "nextRenewalDue": "2023-11-10T00:00:00Z",
+      "renewalStatus": "Completed",
+      "totalPaidAmount": 60
+    }
+  ]
+}
