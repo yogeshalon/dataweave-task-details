@@ -1,0 +1,1 @@
+{ "products": [{ "id": "P001", "name": "Laptop", "price": 1200, "quantity": 30 }, { "id": "P002", "name": "Smartphone", "price": 800, "quantity": 50 }] }
