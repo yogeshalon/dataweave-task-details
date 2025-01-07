@@ -1,0 +1,1 @@
+{ "patients": [{ "id": "001", "name": "John Doe", "birthdate": "1980-05-15", "visits": [{ "date": "2023-01-10", "diagnosis": "Flu" }, { "date": "2023-03-20", "diagnosis": "Cold" }] }] }
