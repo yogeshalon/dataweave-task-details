@@ -1,0 +1,1 @@
+{ "patients": [{ "patientId": "123", "fullName": "John Doe", "ageYears": 30, "condition": "Flu" }] }
