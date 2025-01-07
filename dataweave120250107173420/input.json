@@ -1,0 +1,1 @@
+{ "transactions": [{ "transactionId": "T12345", "amount": 200.50, "date": "2023-09-15", "currency": "USD" }, { "transactionId": "T12346", "amount": 150.75, "date": "2023-09-16", "currency": "EUR" }] }
