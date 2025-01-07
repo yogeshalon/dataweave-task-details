@@ -1,0 +1,9 @@
+{
+  "payload": "{  \"patient\": {    \"name\": \"John Doe\",    \"age\": 45,    \"diagnosis\": \"Hypertension\"  }}",
+  "output": "{  \"patient_info\": {    \"full_name\": \"John Doe\",    \"age_in_years\": 45,    \"medical_condition\": \"Hypertension\"  }}",
+  "requirements": [
+    "Transform the data structure to match the target format",
+    "Rename the fields according to the target structure",
+    "No value transformation is required"
+  ]
+}
