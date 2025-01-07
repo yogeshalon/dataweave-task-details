@@ -1,0 +1,4 @@
+#%dw 2.0
+output application/dw
+---
+{ "product": { "id": "P123", "name": "Laptop", "price": 1500, "category": "Electronics" } }
