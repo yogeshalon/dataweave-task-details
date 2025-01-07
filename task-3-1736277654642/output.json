@@ -1,0 +1,9 @@
+#%dw 2.0
+output application/xml
+---
+<product>
+  <productId>P123</productId>
+  <productName>Laptop</productName>
+  <productPrice>1500</productPrice>
+  <productCategory>Electronics</productCategory>
+</product>
