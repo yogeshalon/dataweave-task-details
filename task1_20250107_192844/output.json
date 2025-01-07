@@ -1,0 +1,5 @@
+#---
+[
+  { "name": "John", "averageGrade": 80 },
+  { "name": "Jane", "averageGrade": 93.33 }
+]
