@@ -2,12 +2,12 @@
 output application/json
 
 /* Requirements:
- * Separate transactions based on the type
- * Calculate the total amount for each type
- * Present the result in the target structure
+ * Transform the data structure to match the target format
+ * Calculate Body Mass Index (BMI) from height and weight
+ * Remove height and weight from the output
  *
  * Expected Output:
- * {  "totalDebit": 400.0,  "totalCredit": 200.0}
+ * {  "patient": {    "name": "John Doe",    "age": 35,    "bmi": 27.76  }}
  */
 ---
 payload
