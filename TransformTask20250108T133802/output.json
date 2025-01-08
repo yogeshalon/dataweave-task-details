@@ -1,0 +1,1 @@
+{  "machineEfficiency": [    {      "machineId": "Machine 1",      "maxOperatingTime": 8,      "minOperatingTime": 3,      "averageOperatingTime": 5.8    },    {      "machineId": "Machine 2",      "maxOperatingTime": 15,      "minOperatingTime": 8,      "averageOperatingTime": 11.8    }  ]}
