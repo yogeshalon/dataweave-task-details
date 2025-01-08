@@ -1,0 +1,1 @@
+{  "patient": {    "id": "9876",    "name": "John Doe",    "dob": "1980-05-22",    "vitalSigns": {      "temperature": "98.6",      "pulse": "72",      "respiration": "16"    }  }}
