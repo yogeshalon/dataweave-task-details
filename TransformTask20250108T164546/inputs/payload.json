@@ -1,0 +1,7 @@
+{
+  "reservation": {
+    "guestName": "John Doe",
+    "checkIn": "2023-10-01T15:00:00Z",
+    "checkOut": "2023-10-05T11:00:00Z"
+  }
+}
