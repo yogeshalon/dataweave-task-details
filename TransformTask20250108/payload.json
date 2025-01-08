@@ -1,1 +1,1 @@
-{  "patient": {    "id": "98765",    "name": "John Doe",    "age": 35,    "symptoms": ["fever", "cough", "loss of taste"]  }}
+{  "transactions": [    {      "id": "1",      "type": "debit",      "amount": 100.0    },    {      "id": "2",      "type": "credit",      "amount": 200.0    },    {      "id": "3",      "type": "debit",      "amount": 300.0    }  ]}
