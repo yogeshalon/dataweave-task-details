@@ -1,0 +1,1 @@
+{  "properties": [    {      "address": "123 Main St, Springfield",      "price": "$250,000",      "description": "Beautiful home in a great neighborhood."    },    {      "address": "456 Elm St, Springfield",      "price": "$300,000",      "description": "Spacious and modern with a large backyard."    }  ]}
