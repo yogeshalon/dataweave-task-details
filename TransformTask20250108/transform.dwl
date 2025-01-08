@@ -2,12 +2,12 @@
 output application/json
 
 /* Requirements:
- * Transform the data structure to match the target format
- * Rename the keys to match the target format
- * Maintain the order of elements in the array
+ * Separate transactions based on the type
+ * Calculate the total amount for each type
+ * Present the result in the target structure
  *
  * Expected Output:
- * {  "patientInfo": {    "patientId": "98765",    "patientName": "John Doe",    "patientAge": 35,    "patientSymptoms": ["fever", "cough", "loss of taste"]  }}
+ * {  "totalDebit": 400.0,  "totalCredit": 200.0}
  */
 ---
 payload
