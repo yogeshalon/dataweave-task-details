@@ -1,9 +1,9 @@
 // DataWeave Transform Logic Requirements:
 // - Transform the data structure to match the target format
-// - Calculate age and years of service based on the current date
-// - Handle null values for employmentEndDate
+// - Calculate the age based on the DOB
+// - Calculate the total spent based on the purchases
 
 // Expected Output:
 /*
-"{  \"employeeDetails\": {    \"empId\": \"001\",    \"empName\": \"John Doe\",    \"age\": \"41\",    \"yearsOfService\": \"16\"  }}"
+{  "customerDetails": {    "fullName": "John Doe",    "age": 41,    "totalSpent": 161.97  }}
 */
