@@ -1,0 +1,1 @@
+{  "patient": {    "id": "456",    "name": "John Doe",    "age": 30,    "medicalHistory": [      {        "condition": "Hypertension",        "diagnosedDate": "2020-01-15"      },      {        "condition": "Diabetes",        "diagnosedDate": "2019-06-20"      }    ]  }}
