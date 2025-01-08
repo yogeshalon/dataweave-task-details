@@ -1,1 +1,1 @@
-"{  \"employeeDetails\": {    \"empId\": \"001\",    \"empName\": \"John Doe\",    \"age\": \"41\",    \"yearsOfService\": \"16\"  }}"
+{  "customerDetails": {    "fullName": "John Doe",    "age": 41,    "totalSpent": 161.97  }}
