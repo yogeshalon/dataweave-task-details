@@ -1,1 +1,1 @@
-"{  \"employee\": {    \"id\": \"001\",    \"name\": \"John Doe\",    \"dob\": \"1980-01-01\",    \"employmentStartDate\": \"2005-01-01\",    \"employmentEndDate\": \"null\"  }}"
+{  "customer": {    "name": "John Doe",    "DOB": "1980-12-12",    "purchases": [      {"item": "Shirt", "price": 35.99, "quantity": 2},      {"item": "Shoes", "price": 89.99, "quantity": 1}    ]  }}
