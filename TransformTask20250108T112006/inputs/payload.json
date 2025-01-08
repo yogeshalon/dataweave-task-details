@@ -1,0 +1,1 @@
+{  "equityData": {    "stocks": [      {        "ticker": "AAPL",        "price": 150.75,        "volume": 1000,        "date": "2023-10-01"      },      {        "ticker": "GOOGL",        "price": 2800.50,        "volume": 500,        "date": "2023-10-01"      }    ]  }}
