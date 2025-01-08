@@ -1,0 +1,1 @@
+{  "customer": {    "id": "C001",    "name": "John Doe",    "phoneNumbers": ["123-456-7890", "098-765-4321"],    "balance": "100.50"  }}
