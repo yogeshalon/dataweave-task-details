@@ -1,0 +1,1 @@
+{  "reservations": [    {      "reservationId": "R001",      "guestName": "John Doe",      "roomType": "Suite",      "nights": 3    },    {      "reservationId": "R002",      "guestName": "Jane Smith",      "roomType": "Deluxe",      "nights": 2    }  ]}
