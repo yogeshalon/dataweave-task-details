@@ -1,0 +1,1 @@
+{  "patient": {    "id": "98765",    "name": "John Doe",    "age": 35,    "symptoms": ["fever", "cough", "loss of taste"]  }}
