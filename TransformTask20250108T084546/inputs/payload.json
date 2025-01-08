@@ -1,0 +1,1 @@
+{  "patient": {    "id": "789",    "diagnosis": [      {        "disease": "Diabetes",        "severity": "Moderate"      },      {        "disease": "Hypertension",        "severity": "High"      }    ]  }}
