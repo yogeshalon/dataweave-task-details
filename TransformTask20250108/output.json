@@ -1,1 +1,1 @@
-{  "patientInfo": {    "patientId": "98765",    "patientName": "John Doe",    "patientAge": 35,    "patientSymptoms": ["fever", "cough", "loss of taste"]  }}
+{  "totalDebit": 400.0,  "totalCredit": 200.0}
