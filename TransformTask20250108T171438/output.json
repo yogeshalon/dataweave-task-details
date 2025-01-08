@@ -1,0 +1,14 @@
+{
+  "shipmentReference": "S123",
+  "deliveryLocation": "Warehouse A",
+  "cargoDetails": [
+    {
+      "id": "I001",
+      "totalWeight": 20
+    },
+    {
+      "id": "I002",
+      "totalWeight": 15
+    }
+  ]
+}
