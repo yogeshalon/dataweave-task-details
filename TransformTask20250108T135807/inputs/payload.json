@@ -1,0 +1,1 @@
+{  "products": [    {      "productId": "A001",      "name": "Widget A",      "quantity": 100,      "price": 9.99    },    {      "productId": "A002",      "name": "Widget B",      "quantity": 200,      "price": 14.99    }  ]}
