@@ -1,0 +1,1 @@
+{  "patientId": "456",  "fullName": "John Doe",  "age": 30,  "conditions": [    {      "conditionName": "Hypertension",      "diagnosisDate": "2020-01-15"    },    {      "conditionName": "Diabetes",      "diagnosisDate": "2019-06-20"    }  ]}
