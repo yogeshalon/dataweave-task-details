@@ -1,0 +1,1 @@
+[  {    "id": "T001",    "totalAmount": "100.50",    "transactionDate": "2023-10-01",    "summary": "Payment for invoice 1234"  },  {    "id": "T002",    "totalAmount": "250.00",    "transactionDate": "2023-10-02",    "summary": "Refund for order 5678"  }]
