@@ -1,0 +1,1 @@
+{ "patient": { "id": "123", "medications": [{ "name": "Ibuprofen", "dose": "200mg"}, { "name": "Paracetamol", "dose": "500mg"}]}}
