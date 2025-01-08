@@ -1,0 +1,1 @@
+{  "policyholders": [    {      "name": " John Doe ",      "age": 30,      "premium": 1200.75    },    {      "name": "Jane Smith ",      "age": 25,      "premium": 950.50    },    {      "name": " Alice Johnson ",      "age": 35,      "premium": 1500.00    }  ]}
