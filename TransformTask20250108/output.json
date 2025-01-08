@@ -1,1 +1,1 @@
-{  "totalDebit": 400.0,  "totalCredit": 200.0}
+{  "patient": {    "name": "John Doe",    "age": 35,    "bmi": 27.76  }}
