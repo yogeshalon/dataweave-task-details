@@ -1,0 +1,1 @@
+{  "shipment": {    "trackingNumber": "TN123456",    "status": "In Transit",    "items": [      {        "itemId": "A1",        "quantity": 5      },      {        "itemId": "B2",        "quantity": 0      }    ]  }}
