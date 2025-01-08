@@ -1,0 +1,16 @@
+{
+  "transportationData": {
+    "shipmentId": "S123",
+    "destination": "Warehouse A",
+    "items": [
+      {
+        "itemId": "I001",
+        "weight": 20
+      },
+      {
+        "itemId": "I002",
+        "weight": 15
+      }
+    ]
+  }
+}
