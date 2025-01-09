@@ -1,0 +1,12 @@
+{
+  "activeShipments": [
+    {
+      "id": "002",
+      "status": "in transit"
+    },
+    {
+      "id": "003",
+      "status": "pending"
+    }
+  ]
+}
