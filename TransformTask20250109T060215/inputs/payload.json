@@ -1,0 +1,18 @@
+{
+  "customer": {
+    "id": "C001",
+    "name": "John Doe",
+    "subscriptions": [
+      {
+        "service": "Mobile",
+        "plan": "Unlimited",
+        "status": "Active"
+      },
+      {
+        "service": "Internet",
+        "plan": "Fiber 100Mbps",
+        "status": "Active"
+      }
+    ]
+  }
+}
