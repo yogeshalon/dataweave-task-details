@@ -1,0 +1,9 @@
+{
+  "callRecords": [
+    {
+      "callerId": "555-1234",
+      "duration": 120,
+      "timestamp": "2023-10-01T10:00:00Z"
+    }
+  ]
+}
