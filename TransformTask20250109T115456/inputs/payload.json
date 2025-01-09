@@ -1,0 +1,18 @@
+{
+  "energy": {
+    "sources": [
+      {
+        "type": "solar",
+        "capacity": 100
+      },
+      {
+        "type": "wind",
+        "capacity": 200
+      },
+      {
+        "type": "coal",
+        "capacity": 300
+      }
+    ]
+  }
+}
