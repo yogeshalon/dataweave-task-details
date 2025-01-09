@@ -1,0 +1,18 @@
+{
+  "logistics": {
+    "shipments": [
+      {
+        "id": "001",
+        "status": "delivered"
+      },
+      {
+        "id": "002",
+        "status": "in transit"
+      },
+      {
+        "id": "003",
+        "status": "pending"
+      }
+    ]
+  }
+}
