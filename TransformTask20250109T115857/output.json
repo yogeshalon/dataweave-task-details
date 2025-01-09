@@ -1,0 +1,12 @@
+{
+  "availableVehicles": [
+    {
+      "type": "bus",
+      "capacity": 50
+    },
+    {
+      "type": "truck",
+      "capacity": 20
+    }
+  ]
+}
