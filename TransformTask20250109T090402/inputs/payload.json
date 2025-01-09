@@ -1,0 +1,16 @@
+{
+  "farm": {
+    "name": "Green Valley",
+    "location": "California",
+    "crops": [
+      {
+        "type": "Corn",
+        "yield": 1500
+      },
+      {
+        "type": "Wheat",
+        "yield": 2000
+      }
+    ]
+  }
+}
