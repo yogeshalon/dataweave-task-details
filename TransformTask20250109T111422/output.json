@@ -1,0 +1,16 @@
+{
+  "products": [
+    {
+      "sku": "P1001",
+      "productName": "Widget A",
+      "unitPrice": 10,
+      "availabilityStatus": "In Stock"
+    },
+    {
+      "sku": "P1002",
+      "productName": "Widget B",
+      "unitPrice": 20,
+      "availabilityStatus": "In Stock"
+    }
+  ]
+}
