@@ -1,0 +1,18 @@
+{
+  "transportation": {
+    "vehicles": [
+      {
+        "type": "car",
+        "model": "Toyota"
+      },
+      {
+        "type": "bike",
+        "model": "Yamaha"
+      },
+      {
+        "type": "bus",
+        "model": "Mercedes"
+      }
+    ]
+  }
+}
