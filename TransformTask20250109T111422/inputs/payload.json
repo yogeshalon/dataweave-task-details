@@ -1,0 +1,16 @@
+{
+  "productList": [
+    {
+      "sku": "P1001",
+      "name": "Widget A",
+      "price": 10,
+      "stock": 100
+    },
+    {
+      "sku": "P1002",
+      "name": "Widget B",
+      "price": 20,
+      "stock": 50
+    }
+  ]
+}
