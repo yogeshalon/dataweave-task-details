@@ -1,0 +1,8 @@
+{
+  "reservation": {
+    "confirmationNumber": "R456",
+    "guestName": "Alice Johnson",
+    "roomType": "Suite",
+    "nights": 3
+  }
+}
