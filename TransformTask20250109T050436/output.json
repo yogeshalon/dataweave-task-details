@@ -1,0 +1,11 @@
+{
+  "policyId": "POL123456",
+  "insuredPerson": {
+    "fullName": "John Doe",
+    "ageYears": 30
+  },
+  "coverageDetails": {
+    "coverageType": "Health",
+    "coverageAmount": 100000
+  }
+}
