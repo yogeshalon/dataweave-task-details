@@ -1,0 +1,17 @@
+{
+  "logistics": {
+    "shipmentId": "SH123",
+    "items": [
+      {
+        "itemId": "ITEM001",
+        "quantity": 10,
+        "weight": 5.5
+      },
+      {
+        "itemId": "ITEM002",
+        "quantity": 0,
+        "weight": 3
+      }
+    ]
+  }
+}
