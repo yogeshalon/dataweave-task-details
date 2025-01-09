@@ -1,0 +1,16 @@
+{
+  "equityMarkets": {
+    "stocks": [
+      {
+        "symbol": "AAPL",
+        "price": 150,
+        "quantity": 10
+      },
+      {
+        "symbol": "GOOGL",
+        "price": 2800,
+        "quantity": 5
+      }
+    ]
+  }
+}
