@@ -1,0 +1,8 @@
+{
+  "patient": {
+    "id": "P001",
+    "name": "John Doe",
+    "age": 30,
+    "diagnosis": "Flu"
+  }
+}
