@@ -1,0 +1,15 @@
+{
+  "patientId": "P001",
+  "fullName": "John Doe",
+  "age": 30,
+  "healthConditions": [
+    {
+      "conditionName": "Hypertension",
+      "conditionSeverity": "Moderate"
+    },
+    {
+      "conditionName": "Diabetes",
+      "conditionSeverity": "Mild"
+    }
+  ]
+}
