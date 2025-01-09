@@ -1,0 +1,14 @@
+{
+  "customerId": "C001",
+  "customerName": "John Doe",
+  "activeSubscriptions": [
+    {
+      "serviceType": "Mobile",
+      "planType": "Unlimited"
+    },
+    {
+      "serviceType": "Internet",
+      "planType": "Fiber 100Mbps"
+    }
+  ]
+}
