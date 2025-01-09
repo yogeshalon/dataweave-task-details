@@ -1,0 +1,8 @@
+{
+  "policyData": {
+    "policyNumber": "123456",
+    "insuredName": "John Doe",
+    "coverageAmount": 100000,
+    "premium": 1200
+  }
+}
