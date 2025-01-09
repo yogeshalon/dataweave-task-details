@@ -1,0 +1,14 @@
+{
+  "studentId": "456",
+  "fullName": "John Doe",
+  "courseGrades": [
+    {
+      "courseIdentifier": "C101",
+      "courseGrade": "A"
+    },
+    {
+      "courseIdentifier": "C102",
+      "courseGrade": "B"
+    }
+  ]
+}
