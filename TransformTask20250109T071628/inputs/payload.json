@@ -1,0 +1,19 @@
+{
+  "properties": [
+    {
+      "price": 300000,
+      "area": 1500,
+      "location": "City A"
+    },
+    {
+      "price": 450000,
+      "area": 2000,
+      "location": "City B"
+    },
+    {
+      "price": 250000,
+      "area": 1200,
+      "location": "City A"
+    }
+  ]
+}
