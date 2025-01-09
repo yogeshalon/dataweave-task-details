@@ -1,0 +1,6 @@
+{
+  "patientId": "P001",
+  "fullName": "John Doe",
+  "age": 30,
+  "condition": "Flu"
+}
