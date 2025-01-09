@@ -1,0 +1,28 @@
+{
+  "orders": [
+    {
+      "orderId": "001",
+      "items": [
+        {
+          "productId": "A",
+          "quantity": 2
+        },
+        {
+          "productId": "B",
+          "quantity": 1
+        }
+      ],
+      "orderDate": "2023-01-15"
+    },
+    {
+      "orderId": "002",
+      "items": [
+        {
+          "productId": "C",
+          "quantity": 3
+        }
+      ],
+      "orderDate": "2023-01-20"
+    }
+  ]
+}
