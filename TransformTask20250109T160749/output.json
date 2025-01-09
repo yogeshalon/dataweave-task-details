@@ -1,0 +1,9 @@
+{
+  "listings": [
+    {
+      "location": "123 Main St",
+      "cost": 250000,
+      "rooms": 3
+    }
+  ]
+}
