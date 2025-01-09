@@ -1,0 +1,20 @@
+{
+  "averageScores": [
+    {
+      "name": "Alice",
+      "averageScore": 84.33
+    },
+    {
+      "name": "Bob",
+      "averageScore": 91.67
+    },
+    {
+      "name": "Charlie",
+      "averageScore": 75
+    }
+  ],
+  "highestAverageScore": {
+    "name": "Bob",
+    "averageScore": 91.67
+  }
+}
