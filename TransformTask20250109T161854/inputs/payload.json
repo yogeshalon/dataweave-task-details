@@ -1,0 +1,15 @@
+{
+  "energy": {
+    "consumption": [
+      {
+        "region": "North",
+        "value": 1500
+      },
+      {
+        "region": "South",
+        "value": 2000
+      }
+    ],
+    "source": "renewable"
+  }
+}
