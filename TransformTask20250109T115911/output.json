@@ -1,0 +1,12 @@
+{
+  "affordableProducts": [
+    {
+      "name": "shirt",
+      "price": 20
+    },
+    {
+      "name": "hat",
+      "price": 15
+    }
+  ]
+}
