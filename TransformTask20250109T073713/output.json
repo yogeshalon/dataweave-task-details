@@ -1,0 +1,12 @@
+{
+  "highestVolumeSymbol": "MSFT",
+  "highestPriceSymbol": "GOOGL",
+  "averagePrice": 1166.83,
+  "evenVolumeSymbols": [
+    "AAPL",
+    "MSFT"
+  ],
+  "oddVolumeSymbols": [
+    "GOOGL"
+  ]
+}
