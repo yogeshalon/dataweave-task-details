@@ -1,0 +1,16 @@
+{
+  "guests": [
+    {
+      "name": "john doe",
+      "roomType": "deluxe"
+    },
+    {
+      "name": "jane smith",
+      "roomType": "standard"
+    },
+    {
+      "name": "alice johnson",
+      "roomType": "suite"
+    }
+  ]
+}
