@@ -1,0 +1,12 @@
+{
+  "student": {
+    "studentId": "S123",
+    "firstName": "Jane",
+    "lastName": "Smith",
+    "grades": [
+      90,
+      85,
+      88
+    ]
+  }
+}
