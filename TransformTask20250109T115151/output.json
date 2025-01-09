@@ -1,0 +1,12 @@
+{
+  "selectedVehicles": [
+    {
+      "type": "car",
+      "model": "Toyota"
+    },
+    {
+      "type": "bike",
+      "model": "Yamaha"
+    }
+  ]
+}
