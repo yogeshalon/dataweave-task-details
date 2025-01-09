@@ -1,0 +1,20 @@
+{
+  "equityMarketData": {
+    "stocks": [
+      {
+        "symbol": "AAPL",
+        "price": 150,
+        "volume": 1000
+      },
+      {
+        "symbol": "GOOGL",
+        "price": 2800,
+        "volume": 500
+      }
+    ],
+    "marketIndex": {
+      "name": "S&P 500",
+      "value": 4500
+    }
+  }
+}
