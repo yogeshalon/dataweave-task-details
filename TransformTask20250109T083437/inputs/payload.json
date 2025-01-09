@@ -1,0 +1,19 @@
+{
+  "equityMarkets": [
+    {
+      "symbol": "AAPL",
+      "price": 150.25,
+      "volume": 1000
+    },
+    {
+      "symbol": "GOOGL",
+      "price": 2800.5,
+      "volume": 500
+    },
+    {
+      "symbol": "AMZN",
+      "price": 3400.75,
+      "volume": 300
+    }
+  ]
+}
