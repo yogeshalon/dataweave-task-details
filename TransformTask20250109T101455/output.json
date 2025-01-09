@@ -1,0 +1,12 @@
+{
+  "customerId": "C001",
+  "customerName": "John Doe",
+  "customerEmail": "john.doe@example.com",
+  "orderSummary": [
+    {
+      "orderId": "O001",
+      "totalItems": 3,
+      "totalAmount": 55
+    }
+  ]
+}
