@@ -1,0 +1,19 @@
+{
+  "patientRecords": [
+    {
+      "id": "001",
+      "name": "John Doe",
+      "age": 30,
+      "medicalHistory": [
+        "diabetes",
+        "hypertension"
+      ]
+    },
+    {
+      "id": "002",
+      "name": "Jane Smith",
+      "age": 25,
+      "medicalHistory": []
+    }
+  ]
+}
