@@ -1,0 +1,12 @@
+{
+  "patientsWithConditions": [
+    {
+      "patientId": "001",
+      "patientName": "John Doe",
+      "conditions": [
+        "diabetes",
+        "hypertension"
+      ]
+    }
+  ]
+}
