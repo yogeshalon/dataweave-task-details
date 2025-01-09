@@ -1,0 +1,14 @@
+{
+  "fullName": "John Doe",
+  "age": 20,
+  "enrolledCourses": [
+    {
+      "subject": "Mathematics",
+      "score": "A"
+    },
+    {
+      "subject": "History",
+      "score": "B"
+    }
+  ]
+}
