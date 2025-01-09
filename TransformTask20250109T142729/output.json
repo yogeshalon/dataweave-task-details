@@ -1,0 +1,16 @@
+{
+  "formattedGuests": [
+    {
+      "name": "John Doe",
+      "roomType": "Deluxe"
+    },
+    {
+      "name": "Jane Smith",
+      "roomType": "Standard"
+    },
+    {
+      "name": "Alice Johnson",
+      "roomType": "Suite"
+    }
+  ]
+}
