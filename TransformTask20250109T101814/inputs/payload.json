@@ -1,0 +1,16 @@
+{
+  "energyConsumption": [
+    {
+      "type": "solar",
+      "consumption": 2500
+    },
+    {
+      "type": "wind",
+      "consumption": 1800
+    },
+    {
+      "type": "coal",
+      "consumption": 3200
+    }
+  ]
+}
