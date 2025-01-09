@@ -1,0 +1,8 @@
+{
+  "stockTrade": {
+    "tradeId": "TRADE123",
+    "symbol": "AAPL",
+    "quantity": 10,
+    "pricePerShare": 150
+  }
+}
