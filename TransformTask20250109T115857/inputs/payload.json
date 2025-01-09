@@ -1,0 +1,18 @@
+{
+  "transportation": {
+    "vehicles": [
+      {
+        "type": "bus",
+        "capacity": 50
+      },
+      {
+        "type": "truck",
+        "capacity": 20
+      },
+      {
+        "type": "van",
+        "capacity": 10
+      }
+    ]
+  }
+}
