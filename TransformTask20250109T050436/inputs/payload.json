@@ -1,0 +1,13 @@
+{
+  "policy": {
+    "policyNumber": "POL123456",
+    "holder": {
+      "name": "John Doe",
+      "age": 30
+    },
+    "coverage": {
+      "type": "Health",
+      "amount": 100000
+    }
+  }
+}
