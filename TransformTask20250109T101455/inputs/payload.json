@@ -1,0 +1,25 @@
+{
+  "customer": {
+    "id": "C001",
+    "name": "John Doe",
+    "email": "john.doe@example.com",
+    "orders": [
+      {
+        "orderId": "O001",
+        "items": [
+          {
+            "productId": "P001",
+            "quantity": 2,
+            "price": 20
+          },
+          {
+            "productId": "P002",
+            "quantity": 1,
+            "price": 15
+          }
+        ],
+        "totalAmount": 55
+      }
+    ]
+  }
+}
