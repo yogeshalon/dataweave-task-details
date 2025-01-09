@@ -1,0 +1,16 @@
+{
+  "trackingId": "ABC123",
+  "fromLocation": "New York, NY",
+  "toLocation": "Los Angeles, CA",
+  "totalWeight": 14,
+  "lineItems": [
+    {
+      "productCode": "ITEM001",
+      "amount": 2
+    },
+    {
+      "productCode": "ITEM002",
+      "amount": 1
+    }
+  ]
+}
