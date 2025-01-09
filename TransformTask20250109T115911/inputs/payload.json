@@ -1,0 +1,18 @@
+{
+  "retail": {
+    "products": [
+      {
+        "name": "shirt",
+        "price": 20
+      },
+      {
+        "name": "pants",
+        "price": 30
+      },
+      {
+        "name": "hat",
+        "price": 15
+      }
+    ]
+  }
+}
