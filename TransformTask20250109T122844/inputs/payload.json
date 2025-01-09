@@ -1,0 +1,16 @@
+{
+  "student": {
+    "id": "456",
+    "name": "John Doe",
+    "courses": [
+      {
+        "courseId": "C101",
+        "grade": "A"
+      },
+      {
+        "courseId": "C102",
+        "grade": "B"
+      }
+    ]
+  }
+}
