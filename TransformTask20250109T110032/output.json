@@ -1,0 +1,11 @@
+{
+  "totalPrice": 179.94,
+  "averagePrice": 33.32,
+  "highestPriceProduct": "Product C",
+  "lowestPriceProduct": "Product B",
+  "productNamesUppercase": [
+    "PRODUCT A",
+    "PRODUCT B",
+    "PRODUCT C"
+  ]
+}
