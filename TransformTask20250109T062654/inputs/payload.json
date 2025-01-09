@@ -1,0 +1,19 @@
+{
+  "transactions": [
+    {
+      "transactionId": "T001",
+      "amount": 150.75,
+      "currency": "USD"
+    },
+    {
+      "transactionId": "T002",
+      "amount": 200,
+      "currency": "USD"
+    },
+    {
+      "transactionId": "T003",
+      "amount": 50.5,
+      "currency": "USD"
+    }
+  ]
+}
