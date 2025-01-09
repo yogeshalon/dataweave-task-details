@@ -1,0 +1,7 @@
+{
+  "energy": {
+    "consumption": 1500,
+    "source": "solar",
+    "region": "California"
+  }
+}
