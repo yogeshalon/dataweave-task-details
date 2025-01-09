@@ -1,0 +1,10 @@
+{
+  "property": {
+    "listingId": "456",
+    "price": "300000",
+    "location": {
+      "city": "New York",
+      "state": "NY"
+    }
+  }
+}
