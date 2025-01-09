@@ -1,0 +1,10 @@
+{
+  "propertyId": "P001",
+  "address": "New York",
+  "listingPrice": 1000000,
+  "details": {
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "areaInSqFt": 1500
+  }
+}
