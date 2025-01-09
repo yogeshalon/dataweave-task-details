@@ -1,0 +1,18 @@
+{
+  "equities": [
+    {
+      "ticker": "AAPL",
+      "currentPrice": 150,
+      "tradedVolume": 1000
+    },
+    {
+      "ticker": "GOOGL",
+      "currentPrice": 2800,
+      "tradedVolume": 500
+    }
+  ],
+  "index": {
+    "indexName": "S&P 500",
+    "indexValue": 4500
+  }
+}
