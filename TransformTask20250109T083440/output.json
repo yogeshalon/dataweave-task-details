@@ -1,0 +1,14 @@
+{
+  "farmName": "Green Valley",
+  "farmLocation": "California",
+  "cropDetails": [
+    {
+      "cropType": "Corn",
+      "cropYield": 1500
+    },
+    {
+      "cropType": "Wheat",
+      "cropYield": 2000
+    }
+  ]
+}
