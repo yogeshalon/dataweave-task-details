@@ -1,0 +1,8 @@
+{
+  "policy": {
+    "policyNumber": "INS789",
+    "holderName": "Bob Brown",
+    "coverageAmount": 100000,
+    "premium": 1200
+  }
+}
