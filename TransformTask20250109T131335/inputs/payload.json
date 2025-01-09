@@ -1,0 +1,25 @@
+{
+  "shipment": {
+    "trackingNumber": "ABC123",
+    "origin": {
+      "city": "New York",
+      "state": "NY"
+    },
+    "destination": {
+      "city": "Los Angeles",
+      "state": "CA"
+    },
+    "items": [
+      {
+        "sku": "ITEM001",
+        "quantity": 2,
+        "weight": 5.5
+      },
+      {
+        "sku": "ITEM002",
+        "quantity": 1,
+        "weight": 3
+      }
+    ]
+  }
+}
