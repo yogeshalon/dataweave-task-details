@@ -1,0 +1,12 @@
+{
+  "topEnergySources": [
+    {
+      "type": "solar",
+      "capacity": 100
+    },
+    {
+      "type": "wind",
+      "capacity": 200
+    }
+  ]
+}
