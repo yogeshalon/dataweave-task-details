@@ -1,0 +1,25 @@
+{
+  "products": [
+    {
+      "id": "001",
+      "name": "T-shirt",
+      "price": 19.99,
+      "category": "Apparel",
+      "stock": 50
+    },
+    {
+      "id": "002",
+      "name": "Jeans",
+      "price": 39.99,
+      "category": "Apparel",
+      "stock": 30
+    },
+    {
+      "id": "003",
+      "name": "Sneakers",
+      "price": 59.99,
+      "category": "Footwear",
+      "stock": 20
+    }
+  ]
+}
