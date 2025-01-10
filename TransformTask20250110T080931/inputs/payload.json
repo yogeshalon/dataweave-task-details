@@ -1,0 +1,17 @@
+{
+  "farmData": {
+    "farmId": "FARM001",
+    "crops": [
+      {
+        "cropName": "Wheat",
+        "area": 50,
+        "yield": 2000
+      },
+      {
+        "cropName": "Corn",
+        "area": 30,
+        "yield": 1500
+      }
+    ]
+  }
+}
