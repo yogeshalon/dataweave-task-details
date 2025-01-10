@@ -1,0 +1,17 @@
+{
+  "transportation": {
+    "vehicleId": "V123",
+    "route": {
+      "start": "Location A",
+      "end": "Location B",
+      "stops": [
+        "Stop 1",
+        "Stop 2"
+      ]
+    },
+    "schedule": {
+      "departure": "2023-10-01T08:00:00Z",
+      "arrival": "2023-10-01T10:00:00Z"
+    }
+  }
+}
