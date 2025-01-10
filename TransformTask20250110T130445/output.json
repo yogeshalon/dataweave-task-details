@@ -1,0 +1,13 @@
+{
+  "dailyUsage": [
+    {
+      "date": "2023-01-01",
+      "totalUsage": 150
+    },
+    {
+      "date": "2023-01-02",
+      "totalUsage": 200
+    }
+  ],
+  "averageUsage": 175
+}
