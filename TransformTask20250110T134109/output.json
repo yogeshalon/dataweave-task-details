@@ -1,0 +1,25 @@
+{
+  "financial_summary": {
+    "total_income": 1500.75,
+    "total_expenses": 200,
+    "net_balance": 1300.75,
+    "transactions_by_type": {
+      "CREDIT": [
+        {
+          "id": "T001",
+          "amount": 1500.75,
+          "description": "Salary Payment",
+          "attachments_count": 2
+        }
+      ],
+      "DEBIT": [
+        {
+          "id": "T002",
+          "amount": -200,
+          "description": "Utility Bill",
+          "attachments_count": 1
+        }
+      ]
+    }
+  }
+}
