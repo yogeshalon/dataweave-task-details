@@ -1,0 +1,21 @@
+{
+  "manufacturingOrder": {
+    "orderId": "MFG-456",
+    "products": [
+      {
+        "productId": "P001",
+        "quantity": 10,
+        "unitPrice": 15.5
+      },
+      {
+        "productId": "P002",
+        "quantity": 5,
+        "unitPrice": 20
+      }
+    ],
+    "customer": {
+      "name": "ABC Corp",
+      "address": "123 Industrial Rd"
+    }
+  }
+}
