@@ -1,0 +1,23 @@
+{
+  "manufacturingOrder": {
+    "orderId": "MO-456",
+    "products": [
+      {
+        "productId": "P-001",
+        "quantity": 10,
+        "specifications": {
+          "color": "red",
+          "size": "M"
+        }
+      },
+      {
+        "productId": "P-002",
+        "quantity": 5,
+        "specifications": {
+          "color": "blue",
+          "size": "L"
+        }
+      }
+    ]
+  }
+}
