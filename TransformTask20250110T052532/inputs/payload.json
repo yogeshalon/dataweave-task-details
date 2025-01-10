@@ -1,0 +1,16 @@
+{
+  "salesData": [
+    {
+      "item": "A",
+      "amount": 150
+    },
+    {
+      "item": "B",
+      "amount": 200
+    },
+    {
+      "item": "C",
+      "amount": 50
+    }
+  ]
+}
