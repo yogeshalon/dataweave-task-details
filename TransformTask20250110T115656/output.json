@@ -1,0 +1,18 @@
+{
+  "orderReference": "MFG-456",
+  "items": [
+    {
+      "id": "P001",
+      "amount": 155
+    },
+    {
+      "id": "P002",
+      "amount": 100
+    }
+  ],
+  "clientDetails": {
+    "companyName": "ABC Corp",
+    "location": "123 Industrial Rd"
+  },
+  "totalAmount": 255
+}
