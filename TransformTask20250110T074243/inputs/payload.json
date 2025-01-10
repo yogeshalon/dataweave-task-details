@@ -1,0 +1,34 @@
+{
+  "properties": [
+    {
+      "id": "1",
+      "address": {
+        "street": "123 Main St",
+        "city": "Springfield",
+        "state": "IL",
+        "zip": "62701"
+      },
+      "price": 250000,
+      "features": {
+        "bedrooms": 3,
+        "bathrooms": 2,
+        "squareFeet": 1500
+      }
+    },
+    {
+      "id": "2",
+      "address": {
+        "street": "456 Elm St",
+        "city": "Springfield",
+        "state": "IL",
+        "zip": "62702"
+      },
+      "price": 300000,
+      "features": {
+        "bedrooms": 4,
+        "bathrooms": 3,
+        "squareFeet": 2000
+      }
+    }
+  ]
+}
