@@ -1,0 +1,16 @@
+{
+  "items": [
+    {
+      "productId": "001",
+      "productName": "Widget A",
+      "formattedPrice": "$19.99",
+      "encodedUrl": "http%3A%2F%2Fexample.com%2Fwidget-a"
+    },
+    {
+      "productId": "002",
+      "productName": "Widget B",
+      "formattedPrice": "$29.99",
+      "encodedUrl": "http%3A%2F%2Fexample.com%2Fwidget-b"
+    }
+  ]
+}
