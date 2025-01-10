@@ -1,0 +1,40 @@
+{
+  "transactions": [
+    {
+      "id": "T001",
+      "amount": 1500.75,
+      "currency": "USD",
+      "date": "2024-03-01",
+      "details": {
+        "type": "CREDIT",
+        "description": "Salary Payment"
+      },
+      "attachments": [
+        {
+          "fileName": "paystub.pdf",
+          "fileType": "application/pdf"
+        },
+        {
+          "fileName": "bonus.pdf",
+          "fileType": "application/pdf"
+        }
+      ]
+    },
+    {
+      "id": "T002",
+      "amount": -200,
+      "currency": "USD",
+      "date": "2024-03-05",
+      "details": {
+        "type": "DEBIT",
+        "description": "Utility Bill"
+      },
+      "attachments": [
+        {
+          "fileName": "utility_bill.pdf",
+          "fileType": "application/pdf"
+        }
+      ]
+    }
+  ]
+}
