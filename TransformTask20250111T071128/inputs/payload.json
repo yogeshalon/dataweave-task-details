@@ -1,0 +1,55 @@
+[
+  {
+    "patientId": "P001",
+    "name": "John Doe",
+    "dob": "1985-06-15",
+    "visits": [
+      {
+        "visitId": "V001",
+        "date": "2024-03-01",
+        "diagnosis": "Hypertension",
+        "medications": [
+          {
+            "medicationName": "Lisinopril",
+            "dosage": "10mg",
+            "quantity": 30,
+            "refills": 2
+          }
+        ]
+      },
+      {
+        "visitId": "V002",
+        "date": "2024-03-15",
+        "diagnosis": "Diabetes",
+        "medications": [
+          {
+            "medicationName": "Metformin",
+            "dosage": "500mg",
+            "quantity": 60,
+            "refills": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "patientId": "P002",
+    "name": "Jane Smith",
+    "dob": "1990-11-20",
+    "visits": [
+      {
+        "visitId": "V003",
+        "date": "2024-03-10",
+        "diagnosis": "Asthma",
+        "medications": [
+          {
+            "medicationName": "Albuterol",
+            "dosage": "90mcg",
+            "quantity": 18,
+            "refills": 3
+          }
+        ]
+      }
+    ]
+  }
+]
