@@ -1,0 +1,50 @@
+{
+  "reservations": [
+    {
+      "id": "RES-001",
+      "customer": {
+        "name": "Alice",
+        "email": "alice@example.com"
+      },
+      "travel_dates": {
+        "departure": "2024-06-01",
+        "return": "2024-06-10"
+      },
+      "details": {
+        "flight": {
+          "number": "FL123",
+          "price": 300,
+          "currency": "USD"
+        },
+        "hotel": {
+          "name": "Grand Hotel",
+          "price_per_night": 150,
+          "nights": 9
+        }
+      }
+    },
+    {
+      "id": "RES-002",
+      "customer": {
+        "name": "Bob",
+        "email": "bob@example.com"
+      },
+      "travel_dates": {
+        "departure": "2024-06-05",
+        "return": "2024-06-15"
+      },
+      "details": {
+        "flight": {
+          "number": "FL456",
+          "price": 400,
+          "currency": "USD"
+        },
+        "hotel": {
+          "name": "Luxury Inn",
+          "price_per_night": 200,
+          "nights": 10
+        }
+      }
+    }
+  ]
+}
