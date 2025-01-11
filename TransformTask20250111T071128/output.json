@@ -1,0 +1,33 @@
+[
+  {
+    "patientId": "P001",
+    "fullName": "John Doe",
+    "age": 38,
+    "medicationSummary": [
+      {
+        "medicationName": "Lisinopril",
+        "totalDosage": 300,
+        "totalRefills": 2
+      },
+      {
+        "medicationName": "Metformin",
+        "totalDosage": 3000,
+        "totalRefills": 1
+      }
+    ],
+    "visitCount": 2
+  },
+  {
+    "patientId": "P002",
+    "fullName": "Jane Smith",
+    "age": 33,
+    "medicationSummary": [
+      {
+        "medicationName": "Albuterol",
+        "totalDosage": 1620,
+        "totalRefills": 3
+      }
+    ],
+    "visitCount": 1
+  }
+]
