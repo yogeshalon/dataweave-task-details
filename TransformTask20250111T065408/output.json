@@ -1,0 +1,12 @@
+{
+  "orderDetails": {
+    "baseUrl": "https://api.supplychain.com/v1/orders",
+    "queryParameters": {
+      "status": "shipped",
+      "region": "APAC",
+      "date": "2024-03-15"
+    },
+    "totalOrders": 150,
+    "processedDate": "2024-03-15"
+  }
+}
