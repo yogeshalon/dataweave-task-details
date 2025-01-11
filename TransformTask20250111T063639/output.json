@@ -1,0 +1,25 @@
+{
+  "productionSummary": [
+    {
+      "productId": "P001",
+      "totalUnitsProduced": 100,
+      "defectiveRate": 5,
+      "netProduction": 95,
+      "totalMaterialCost": 215,
+      "averageMaterialCostPerUnit": 2.15
+    },
+    {
+      "productId": "P002",
+      "totalUnitsProduced": 200,
+      "defectiveRate": 5,
+      "netProduction": 190,
+      "totalMaterialCost": 370,
+      "averageMaterialCostPerUnit": 1.85
+    }
+  ],
+  "overallMetrics": {
+    "totalUnitsProduced": 300,
+    "averageDefectiveRate": 5,
+    "totalMaterialCost": 585
+  }
+}
