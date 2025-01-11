@@ -1,0 +1,35 @@
+{
+  "groupedEmployees": {
+    "HR": [
+      {
+        "name": "Alice",
+        "averageSalary": 72500,
+        "tenureYears": 3
+      },
+      {
+        "name": "Eve",
+        "averageSalary": 72500,
+        "tenureYears": 1
+      }
+    ],
+    "IT": [
+      {
+        "name": "Bob",
+        "averageSalary": 90000,
+        "tenureYears": 4
+      },
+      {
+        "name": "Charlie",
+        "averageSalary": 90000,
+        "tenureYears": 2
+      }
+    ],
+    "Finance": [
+      {
+        "name": "David",
+        "averageSalary": 60000,
+        "tenureYears": 5
+      }
+    ]
+  }
+}
