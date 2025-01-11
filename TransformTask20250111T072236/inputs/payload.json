@@ -1,0 +1,19 @@
+{
+  "transactions": [
+    {
+      "property_id": "P001",
+      "sale_price": 300000,
+      "agent_fee_percentage": 0.05
+    },
+    {
+      "property_id": "P002",
+      "sale_price": 450000,
+      "agent_fee_percentage": 0.06
+    },
+    {
+      "property_id": "P003",
+      "sale_price": 250000,
+      "agent_fee_percentage": 0.04
+    }
+  ]
+}
