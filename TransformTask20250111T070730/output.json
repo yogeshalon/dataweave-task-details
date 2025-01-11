@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<weatherReport>
+  <reportDate>2024-03-15</reportDate>
+  <dailyData>
+    <day>
+      <date>2024-03-15</date>
+      <averageTemperature>23.46</averageTemperature>
+      <averageHumidity>45.67</averageHumidity>
+      <averageWindSpeed>10.50</averageWindSpeed>
+    </day>
+    <day>
+      <date>2024-03-16</date>
+      <averageTemperature>25.79</averageTemperature>
+      <averageHumidity>50.12</averageHumidity>
+      <averageWindSpeed>12.30</averageWindSpeed>
+    </day>
+  </dailyData>
+</weatherReport>
