@@ -1,0 +1,43 @@
+{
+  "manufacturingData": [
+    {
+      "productId": "P001",
+      "productionDate": "2023-01-01",
+      "unitsProduced": 100,
+      "defectiveUnits": 5,
+      "shift": "A",
+      "materialsUsed": [
+        {
+          "materialId": "M001",
+          "quantity": 50
+        },
+        {
+          "materialId": "M002",
+          "quantity": 30
+        }
+      ]
+    },
+    {
+      "productId": "P002",
+      "productionDate": "2023-01-02",
+      "unitsProduced": 200,
+      "defectiveUnits": 10,
+      "shift": "B",
+      "materialsUsed": [
+        {
+          "materialId": "M001",
+          "quantity": 70
+        },
+        {
+          "materialId": "M003",
+          "quantity": 40
+        }
+      ]
+    }
+  ],
+  "materialCosts": {
+    "M001": 2.5,
+    "M002": 3,
+    "M003": 4
+  }
+}
