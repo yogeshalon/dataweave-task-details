@@ -1,0 +1,9 @@
+{
+  "summary": {
+    "order_id": "ORD-001",
+    "total_items": 3,
+    "subtotal": 129.97,
+    "discount": 12.99,
+    "total_amount": 116.98
+  }
+}
