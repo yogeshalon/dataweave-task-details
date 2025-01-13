@@ -1,0 +1,60 @@
+{
+  "vehicles": [
+    {
+      "id": "V001",
+      "type": "Truck",
+      "capacity": 10000,
+      "current_load": 8000,
+      "location": {
+        "latitude": 34.0522,
+        "longitude": -118.2437
+      },
+      "maintenance_records": [
+        {
+          "date": "2024-01-15",
+          "status": "completed",
+          "cost": 300
+        },
+        {
+          "date": "2024-02-20",
+          "status": "pending",
+          "cost": 0
+        }
+      ]
+    },
+    {
+      "id": "V002",
+      "type": "Van",
+      "capacity": 5000,
+      "current_load": 2000,
+      "location": {
+        "latitude": 34.0522,
+        "longitude": -118.2437
+      },
+      "maintenance_records": [
+        {
+          "date": "2024-01-10",
+          "status": "completed",
+          "cost": 150
+        }
+      ]
+    }
+  ],
+  "routes": [
+    {
+      "vehicle_id": "V001",
+      "destination": "Warehouse A",
+      "distance_km": 50,
+      "estimated_time_hours": 1.5
+    },
+    {
+      "vehicle_id": "V002",
+      "destination": "Warehouse B",
+      "distance_km": 30,
+      "estimated_time_hours": 0.5
+    }
+  ],
+  "fuel_prices": {
+    "USD_per_liter": 1.2
+  }
+}
