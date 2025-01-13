@@ -1,0 +1,24 @@
+{
+  "campaigns": [
+    {
+      "id": "CAMP-001",
+      "name": "Spring Sale",
+      "description": "Discounts on all items",
+      "start_date": "2024-03-01",
+      "end_date": "2024-03-31",
+      "target_audience": "young adults",
+      "budget": 5000,
+      "spend": 3000
+    },
+    {
+      "id": "CAMP-002",
+      "name": "Summer Blast",
+      "description": "Hot deals for summer",
+      "start_date": "2024-06-01",
+      "end_date": "2024-06-30",
+      "target_audience": "families",
+      "budget": 7000,
+      "spend": 2000
+    }
+  ]
+}
