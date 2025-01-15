@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<transactions>
+    <transaction>
+        <id>TX12345</id>
+        <amount>1500.00</amount>
+        <currency>USD</currency>
+        <date>2023-10-01</date>
+        <customer>
+            <name>John Doe</name>
+            <accountNumber>123456789</accountNumber>
+        </customer>
+    </transaction>
+    <transaction>
+        <id>TX12346</id>
+        <amount>2500.00</amount>
+        <currency>USD</currency>
+        <date>2023-10-02</date>
+        <customer>
+            <name>Jane Smith</name>
+            <accountNumber>987654321</accountNumber>
+        </customer>
+    </transaction>
+</transactions>
