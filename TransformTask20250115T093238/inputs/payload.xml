@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<claims>
+    <claim>
+        <id>CLM123456</id>
+        <policyNumber>PN987654321</policyNumber>
+        <amount>1500.00</amount>
+        <status>submitted</status>
+        <customer>
+            <name>Jane Doe</name>
+            <email>jane.doe@example.com</email>
+            <region>CA</region>
+        </customer>
+    </claim>
+</claims>
