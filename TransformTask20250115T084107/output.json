@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<reservation>
+    <id>RES987654</id>
+    <customer>
+        <name>Alice Johnson</name>
+        <email>alice.johnson@example.com</email>
+    </customer>
+    <flight>
+        <departure>2023-12-01T10:00:00Z</departure>
+        <arrival>2023-12-01T14:00:00Z</arrival>
+        <from>New York</from>
+        <to>Los Angeles</to>
+    </flight>
+</reservation>
