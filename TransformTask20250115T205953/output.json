@@ -1,0 +1,9 @@
+{
+  "activeVehicles": [
+    {
+      "vehicleId": "V001",
+      "vehicleType": "Truck",
+      "vehicleMileage": 15000
+    }
+  ]
+}
