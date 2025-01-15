@@ -1,0 +1,15 @@
+{
+    "reservation": {
+        "id": "RES987654",
+        "customer": {
+            "name": "Alice Johnson",
+            "email": "alice.johnson@example.com"
+        },
+        "flight": {
+            "departure": "2023-12-01T10:00:00Z",
+            "arrival": "2023-12-01T14:00:00Z",
+            "from": "New York",
+            "to": "Los Angeles"
+        }
+    }
+}
