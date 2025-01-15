@@ -1,0 +1,3 @@
+transaction_id,customer_name,amount,currency,date,status
+TX12345,John Doe,1500.00,USD,2023-10-01,approved
+TX12346,Jane Smith,2500.00,USD,2023-10-02,pending
