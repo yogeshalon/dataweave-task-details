@@ -1,0 +1,14 @@
+{
+  "customers": [
+    {
+      "id": 1,
+      "name": "ALICE JOHNSON",
+      "phone": "2025550173"
+    },
+    {
+      "id": 2,
+      "name": "BOB SMITH",
+      "phone": "2025550198"
+    }
+  ]
+}
