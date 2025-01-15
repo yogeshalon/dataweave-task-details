@@ -1,0 +1,16 @@
+[
+  {
+    "customerId": "C001",
+    "name": "John Doe",
+    "phoneNumber": "+1234567890",
+    "subscriptionType": "Premium",
+    "active": true
+  },
+  {
+    "customerId": "C002",
+    "name": "Jane Smith",
+    "phoneNumber": "+0987654321",
+    "subscriptionType": "Basic",
+    "active": false
+  }
+]
