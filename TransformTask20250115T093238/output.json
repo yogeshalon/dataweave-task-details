@@ -1,0 +1,2 @@
+id,policyNumber,amount,status,customerName,customerEmail,region
+CLM123456,PN987654321,1500.00,submitted,Jane Doe,jane.doe@example.com,CA
