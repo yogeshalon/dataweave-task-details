@@ -1,0 +1,1 @@
+[{"campaignId":1,"name":"Spring Sale","budget":10000,"leads":[{"leadId":1,"source":"Email","conversionRate":0.2},{"leadId":2,"source":"Social Media","conversionRate":0.15}]},{"campaignId":2,"name":"Summer Promo","budget":15000,"leads":[{"leadId":3,"source":"Email","conversionRate":0.25},{"leadId":4,"source":"Social Media","conversionRate":0.1}]}]
