@@ -1,0 +1,12 @@
+[
+  {
+    "customerId": 1,
+    "totalSpent": 401,
+    "averageTransaction": 133.67
+  },
+  {
+    "customerId": 2,
+    "totalSpent": 400.5,
+    "averageTransaction": 200.25
+  }
+]
