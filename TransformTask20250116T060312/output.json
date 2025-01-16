@@ -1,0 +1,12 @@
+{
+  "campaigns": [
+    {
+      "name": "Spring Sale",
+      "roi": 6
+    },
+    {
+      "name": "Summer Promo",
+      "roi": 5.71
+    }
+  ]
+}
