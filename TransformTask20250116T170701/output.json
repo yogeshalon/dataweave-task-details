@@ -1,0 +1,9 @@
+{
+  "approvedClaims": [
+    {
+      "claimId": "C123",
+      "amount": 1500,
+      "dateFiled": "2023-01-15"
+    }
+  ]
+}
