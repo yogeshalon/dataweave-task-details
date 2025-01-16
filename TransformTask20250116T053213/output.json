@@ -1,0 +1,17 @@
+[
+  {
+    "productId": 101,
+    "productName": "Widget A",
+    "totalValue": 1250
+  },
+  {
+    "productId": 103,
+    "productName": "Gadget A",
+    "totalValue": 300
+  },
+  {
+    "productId": 104,
+    "productName": "Gadget B",
+    "totalValue": 200
+  }
+]
