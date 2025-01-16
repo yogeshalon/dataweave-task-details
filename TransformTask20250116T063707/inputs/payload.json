@@ -1,0 +1,26 @@
+[
+  {
+    "service": "a",
+    "usage": 100
+  },
+  {
+    "service": "a",
+    "usage": 150
+  },
+  {
+    "service": "a",
+    "usage": 200
+  },
+  {
+    "service": "b",
+    "usage": 250
+  },
+  {
+    "service": "b",
+    "usage": 300
+  },
+  {
+    "service": "c",
+    "usage": 350
+  }
+]
