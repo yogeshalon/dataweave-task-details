@@ -1,0 +1,22 @@
+{
+  "claims": [
+    {
+      "claimId": "C123",
+      "amount": 1500,
+      "status": "approved",
+      "dateFiled": "2023-01-15"
+    },
+    {
+      "claimId": "C124",
+      "amount": 2500,
+      "status": "pending",
+      "dateFiled": "2023-02-20"
+    },
+    {
+      "claimId": "C125",
+      "amount": 3000,
+      "status": "rejected",
+      "dateFiled": "2023-03-10"
+    }
+  ]
+}
