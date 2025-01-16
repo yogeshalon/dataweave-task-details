@@ -1,0 +1,32 @@
+{
+  "inventory": [
+    {
+      "itemId": "A001",
+      "itemName": "Laptop",
+      "quantity": 10,
+      "price": 1200,
+      "category": "Electronics"
+    },
+    {
+      "itemId": "A002",
+      "itemName": "Mouse",
+      "quantity": 50,
+      "price": 20,
+      "category": "Electronics"
+    },
+    {
+      "itemId": "B001",
+      "itemName": "Desk Chair",
+      "quantity": 15,
+      "price": 150,
+      "category": "Furniture"
+    },
+    {
+      "itemId": "B002",
+      "itemName": "Office Desk",
+      "quantity": 5,
+      "price": 300,
+      "category": "Furniture"
+    }
+  ]
+}
