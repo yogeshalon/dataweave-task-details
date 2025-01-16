@@ -1,0 +1,18 @@
+{
+  "patients": [
+    {
+      "id": 1,
+      "name": "John Doe",
+      "age": 45,
+      "daysSinceLastVisit": 30,
+      "averageBloodPressure": 100
+    },
+    {
+      "id": 2,
+      "name": "Jane Smith",
+      "age": 38,
+      "daysSinceLastVisit": 25,
+      "averageBloodPressure": 107.5
+    }
+  ]
+}
