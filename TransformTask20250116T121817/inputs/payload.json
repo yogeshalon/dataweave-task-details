@@ -1,0 +1,32 @@
+[
+  {
+    "customerId": 1,
+    "transactions": [
+      {
+        "amount": 150.75,
+        "date": "2023-01-15"
+      },
+      {
+        "amount": 200,
+        "date": "2023-02-20"
+      },
+      {
+        "amount": 50.25,
+        "date": "2023-03-05"
+      }
+    ]
+  },
+  {
+    "customerId": 2,
+    "transactions": [
+      {
+        "amount": 300.5,
+        "date": "2023-01-10"
+      },
+      {
+        "amount": 100,
+        "date": "2023-02-15"
+      }
+    ]
+  }
+]
