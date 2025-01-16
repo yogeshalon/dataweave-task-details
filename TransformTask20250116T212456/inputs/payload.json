@@ -1,0 +1,30 @@
+[
+  {
+    "campaignId": 1,
+    "name": "Summer Sale",
+    "status": "active",
+    "targetAudience": [
+      {
+        "ageGroup": "18-25",
+        "location": "USA"
+      },
+      {
+        "ageGroup": "26-35",
+        "location": "Canada"
+      }
+    ],
+    "budget": 5000
+  },
+  {
+    "campaignId": 2,
+    "name": "Winter Clearance",
+    "status": "inactive",
+    "targetAudience": [
+      {
+        "ageGroup": "36-45",
+        "location": "USA"
+      }
+    ],
+    "budget": 3000
+  }
+]
