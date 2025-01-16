@@ -1,0 +1,28 @@
+{
+  "transactions": [
+    {
+      "id": 1,
+      "property": "123 Main St",
+      "price": 250000,
+      "status": "sold"
+    },
+    {
+      "id": 2,
+      "property": "456 Elm St",
+      "price": 300000,
+      "status": "available"
+    },
+    {
+      "id": 3,
+      "property": "789 Oak St",
+      "price": 200000,
+      "status": "sold"
+    },
+    {
+      "id": 4,
+      "property": "101 Pine St",
+      "price": 400000,
+      "status": "available"
+    }
+  ]
+}
