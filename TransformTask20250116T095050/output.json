@@ -1,0 +1,24 @@
+{
+  "summary": [
+    {
+      "customerId": 1,
+      "name": "John Doe",
+      "totalUsage": {
+        "data": 15,
+        "calls": 120,
+        "texts": 50
+      },
+      "excessCharges": 30
+    },
+    {
+      "customerId": 2,
+      "name": "Jane Smith",
+      "totalUsage": {
+        "data": 5,
+        "calls": 80,
+        "texts": 30
+      },
+      "excessCharges": 0
+    }
+  ]
+}
