@@ -1,0 +1,20 @@
+{
+  "averageScores": [
+    {
+      "year": 2020,
+      "averageMath": 85,
+      "averageScience": 90,
+      "averageEnglish": 78
+    },
+    {
+      "year": 2021,
+      "averageMath": 92,
+      "averageScience": 88,
+      "averageEnglish": 95
+    }
+  ],
+  "topStudent": {
+    "name": "Bob Smith",
+    "overallScore": 91.67
+  }
+}
