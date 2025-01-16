@@ -1,0 +1,13 @@
+{
+  "monthlyConsumption": [
+    {
+      "customerId": "C001",
+      "averageKWh": 325
+    },
+    {
+      "customerId": "C002",
+      "averageKWh": 435
+    }
+  ],
+  "totalConsumption": 1300
+}
