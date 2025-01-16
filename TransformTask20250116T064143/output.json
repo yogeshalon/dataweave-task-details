@@ -1,0 +1,16 @@
+{
+  "summary": {
+    "totalInvestment": 4500,
+    "totalSavings": 2000,
+    "totalExpenses": 500,
+    "netBalance": 6000,
+    "monthlyBreakdown": [
+      {
+        "month": "October",
+        "investmentCount": 2,
+        "savingsCount": 1,
+        "expenseCount": 1
+      }
+    ]
+  }
+}
