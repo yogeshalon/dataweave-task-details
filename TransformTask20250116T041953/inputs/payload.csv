@@ -1,0 +1,5 @@
+process_id,process_name,duration,status
+P001,Assembly,120,Completed
+P002,Quality Check,30,In Progress
+P003,Packing,45,Completed
+P004,Shipping,60,Pending
