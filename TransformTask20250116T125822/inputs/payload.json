@@ -1,0 +1,32 @@
+{
+  "customers": [
+    {
+      "id": 1,
+      "name": "Alice Johnson",
+      "subscriptions": [
+        {
+          "type": "Mobile",
+          "status": "Active"
+        },
+        {
+          "type": "Internet",
+          "status": "Inactive"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Bob Smith",
+      "subscriptions": [
+        {
+          "type": "Mobile",
+          "status": "Active"
+        },
+        {
+          "type": "Internet",
+          "status": "Active"
+        }
+      ]
+    }
+  ]
+}
