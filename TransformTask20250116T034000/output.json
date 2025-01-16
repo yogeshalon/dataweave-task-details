@@ -1,0 +1,14 @@
+{
+  "totalConsumption": 10.5,
+  "consumptionDetails": [
+    {
+      "device": "Air Conditioner",
+      "dailyConsumption": 10
+    },
+    {
+      "device": "Refrigerator",
+      "dailyConsumption": 3.6
+    }
+  ],
+  "reportDate": "2023-10-01"
+}
