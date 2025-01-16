@@ -1,0 +1,16 @@
+{
+  "activeVehicles": [
+    {
+      "vehicleId": "V001",
+      "vehicleType": "Truck",
+      "plate": "ABC123",
+      "serviceDueDate": "2023-12-15"
+    },
+    {
+      "vehicleId": "V002",
+      "vehicleType": "Van",
+      "plate": "XYZ789",
+      "serviceDueDate": "2023-11-10"
+    }
+  ]
+}
