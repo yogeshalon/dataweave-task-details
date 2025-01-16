@@ -1,0 +1,24 @@
+{
+  "consumptionData": [
+    {
+      "customerId": "C001",
+      "month": "2023-01",
+      "kWh": 350
+    },
+    {
+      "customerId": "C002",
+      "month": "2023-01",
+      "kWh": 420
+    },
+    {
+      "customerId": "C001",
+      "month": "2023-02",
+      "kWh": 300
+    },
+    {
+      "customerId": "C002",
+      "month": "2023-02",
+      "kWh": 450
+    }
+  ]
+}
