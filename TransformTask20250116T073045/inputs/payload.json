@@ -1,0 +1,40 @@
+[
+  {
+    "orderId": 1,
+    "items": [
+      {
+        "productId": "A101",
+        "quantity": 10,
+        "price": 5
+      },
+      {
+        "productId": "B202",
+        "quantity": 5,
+        "price": 15
+      }
+    ],
+    "customer": {
+      "name": "John Doe",
+      "location": "New York"
+    }
+  },
+  {
+    "orderId": 2,
+    "items": [
+      {
+        "productId": "A101",
+        "quantity": 3,
+        "price": 5
+      },
+      {
+        "productId": "C303",
+        "quantity": 8,
+        "price": 20
+      }
+    ],
+    "customer": {
+      "name": "Jane Smith",
+      "location": "Los Angeles"
+    }
+  }
+]
