@@ -1,0 +1,12 @@
+{
+  "availableProperties": [
+    {
+      "property": "456 Elm St",
+      "price": "$300,000"
+    },
+    {
+      "property": "101 Pine St",
+      "price": "$400,000"
+    }
+  ]
+}
