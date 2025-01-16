@@ -1,0 +1,22 @@
+[
+  {
+    "customerId": 1,
+    "plan": "Basic",
+    "usage": 300
+  },
+  {
+    "customerId": 2,
+    "plan": "Premium",
+    "usage": 150
+  },
+  {
+    "customerId": 1,
+    "plan": "Basic",
+    "usage": 300
+  },
+  {
+    "customerId": 3,
+    "plan": "Standard",
+    "usage": 200
+  }
+]
