@@ -1,0 +1,23 @@
+[
+  {
+    "employeeId": 1,
+    "firstName": "John",
+    "lastName": "Doe",
+    "age": 30,
+    "department": "Sales"
+  },
+  {
+    "employeeId": 2,
+    "firstName": "Jane",
+    "lastName": "Smith",
+    "age": 25,
+    "department": "Marketing"
+  },
+  {
+    "employeeId": 3,
+    "firstName": "Emily",
+    "lastName": "Johnson",
+    "age": 35,
+    "department": "Sales"
+  }
+]
