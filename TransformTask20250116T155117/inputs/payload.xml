@@ -1,0 +1,1 @@
+<telecomData><customers><customer><id>C001</id><name>Mike Johnson</name><plans><plan><type>Unlimited</type><cost>70</cost></plan><plan><type>Family</type><cost>120</cost></plan></plans></customer><customer><id>C002</id><name>Lisa White</name><plans><plan><type>Basic</type><cost>40</cost></plan></plans></customer></customers></telecomData>
