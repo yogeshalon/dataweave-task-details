@@ -1,0 +1,18 @@
+{
+  "patients": [
+    {
+      "id": 1,
+      "name": "John Doe",
+      "age": 30,
+      "gender": "male",
+      "diagnosis": "Hypertension"
+    },
+    {
+      "id": 2,
+      "name": "Jane Smith",
+      "age": 25,
+      "gender": "female",
+      "diagnosis": "Diabetes"
+    }
+  ]
+}
