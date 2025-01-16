@@ -1,0 +1,16 @@
+{
+  "fleet": [
+    {
+      "vehicleId": "V001",
+      "driverName": "John Doe",
+      "location": "New York",
+      "status": "active"
+    },
+    {
+      "vehicleId": "V002",
+      "driverName": "Jane Smith",
+      "location": "Los Angeles",
+      "status": "inactive"
+    }
+  ]
+}
