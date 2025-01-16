@@ -1,0 +1,12 @@
+[
+  {
+    "vehicleId": "V001",
+    "driverName": "John Doe",
+    "isActive": true
+  },
+  {
+    "vehicleId": "V002",
+    "driverName": "Jane Smith",
+    "isActive": false
+  }
+]
