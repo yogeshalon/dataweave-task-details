@@ -1,0 +1,20 @@
+{
+  "summary": {
+    "totalPosts": 2,
+    "totalLikes": 350,
+    "totalShares": 80,
+    "topPost": {
+      "id": 2,
+      "user": "userB",
+      "engagementScore": 260
+    },
+    "commentsSummary": {
+      "totalComments": 4,
+      "mostLikedComment": {
+        "user": "userD",
+        "text": "Interesting perspective.",
+        "likes": 12
+      }
+    }
+  }
+}
