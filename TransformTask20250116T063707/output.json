@@ -1,0 +1,17 @@
+[
+  {
+    "service": "a",
+    "total_usage": 450,
+    "average_usage": 150
+  },
+  {
+    "service": "b",
+    "total_usage": 550,
+    "average_usage": 275
+  },
+  {
+    "service": "c",
+    "total_usage": 350,
+    "average_usage": 350
+  }
+]
