@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "fullName": "John Doe",
+    "isAdult": true
+  },
+  {
+    "id": 2,
+    "fullName": "Jane Smith",
+    "isAdult": true
+  },
+  {
+    "id": 3,
+    "fullName": "Emily Johnson",
+    "isAdult": true
+  }
+]
