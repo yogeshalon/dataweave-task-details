@@ -1,0 +1,25 @@
+{
+  "activeCustomers": [
+    {
+      "customerId": 1,
+      "customerName": "Alice Johnson",
+      "activeSubscriptions": [
+        {
+          "type": "Mobile"
+        }
+      ]
+    },
+    {
+      "customerId": 2,
+      "customerName": "Bob Smith",
+      "activeSubscriptions": [
+        {
+          "type": "Mobile"
+        },
+        {
+          "type": "Internet"
+        }
+      ]
+    }
+  ]
+}
