@@ -1,0 +1,18 @@
+{
+  "campaigns": [
+    {
+      "id": "C001",
+      "name": "Summer Sale",
+      "url": "http://example.com/summer-sale",
+      "startDate": "2023-06-01",
+      "endDate": "2023-06-30"
+    },
+    {
+      "id": "C002",
+      "name": "Winter Clearance",
+      "url": "http://example.com/winter-clearance",
+      "startDate": "2023-12-01",
+      "endDate": "2023-12-15"
+    }
+  ]
+}
