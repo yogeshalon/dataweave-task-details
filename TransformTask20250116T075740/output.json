@@ -1,0 +1,16 @@
+{
+  "availableProducts": [
+    {
+      "productId": "P001",
+      "productName": "Widget A",
+      "daysToExpiry": 60,
+      "weightInGrams": 1500
+    },
+    {
+      "productId": "P002",
+      "productName": "Widget B",
+      "daysToExpiry": 75,
+      "weightInGrams": 2000
+    }
+  ]
+}
