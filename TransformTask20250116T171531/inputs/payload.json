@@ -1,0 +1,19 @@
+{
+  "vehicles": [
+    {
+      "id": 1,
+      "mileage": 15000,
+      "fuelConsumption": 8.5
+    },
+    {
+      "id": 2,
+      "mileage": 25000,
+      "fuelConsumption": 7
+    },
+    {
+      "id": 3,
+      "mileage": 30000,
+      "fuelConsumption": 9
+    }
+  ]
+}
