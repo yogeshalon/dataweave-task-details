@@ -1,0 +1,10 @@
+[
+  {
+    "service": "a",
+    "total_usage": 450
+  },
+  {
+    "service": "b",
+    "total_usage": 550
+  }
+]
