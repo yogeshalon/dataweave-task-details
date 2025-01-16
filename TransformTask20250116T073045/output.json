@@ -1,0 +1,14 @@
+[
+  {
+    "orderId": 1,
+    "totalAmount": 85,
+    "customerName": "John Doe",
+    "itemCount": 2
+  },
+  {
+    "orderId": 2,
+    "totalAmount": 169,
+    "customerName": "Jane Smith",
+    "itemCount": 2
+  }
+]
