@@ -1,0 +1,50 @@
+[
+  {
+    "campaignId": 1,
+    "name": "Spring Sale",
+    "budget": 15000,
+    "startDate": "2023-03-01",
+    "endDate": "2023-03-31",
+    "responses": [
+      {
+        "customerId": 101,
+        "responseDate": "2023-03-05",
+        "amountSpent": 200
+      },
+      {
+        "customerId": 102,
+        "responseDate": "2023-03-10",
+        "amountSpent": 300
+      },
+      {
+        "customerId": 103,
+        "responseDate": "2023-03-15",
+        "amountSpent": 150
+      }
+    ]
+  },
+  {
+    "campaignId": 2,
+    "name": "Summer Blast",
+    "budget": 20000,
+    "startDate": "2023-06-01",
+    "endDate": "2023-06-30",
+    "responses": [
+      {
+        "customerId": 104,
+        "responseDate": "2023-06-05",
+        "amountSpent": 400
+      },
+      {
+        "customerId": 105,
+        "responseDate": "2023-06-10",
+        "amountSpent": 250
+      },
+      {
+        "customerId": 106,
+        "responseDate": "2023-06-15",
+        "amountSpent": 350
+      }
+    ]
+  }
+]
