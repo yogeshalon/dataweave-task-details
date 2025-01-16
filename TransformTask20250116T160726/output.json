@@ -1,0 +1,17 @@
+[
+  {
+    "claimId": "C12345",
+    "policyHolder": "John Doe",
+    "description": "Car accident on highway",
+    "status": "Pending"
+  },
+  {
+    "claimId": "C12346",
+    "policyHolder": "Jane Smith",
+    "description": "Home damage due to storm",
+    "status": "Approved"
+  },
+  {
+    "summary": "2 claims processed."
+  }
+]
