@@ -1,0 +1,26 @@
+{
+  "customers": [
+    {
+      "id": 1,
+      "name": "John Doe",
+      "phone": "555-1234",
+      "plan": "Premium",
+      "usage": {
+        "data": 15,
+        "calls": 120,
+        "texts": 50
+      }
+    },
+    {
+      "id": 2,
+      "name": "Jane Smith",
+      "phone": "555-5678",
+      "plan": "Basic",
+      "usage": {
+        "data": 5,
+        "calls": 80,
+        "texts": 30
+      }
+    }
+  ]
+}
