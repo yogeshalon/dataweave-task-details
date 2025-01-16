@@ -1,0 +1,16 @@
+{
+  "reservations": [
+    {
+      "id": "R123",
+      "customerName": "John Doe",
+      "destination": "NEW YORK",
+      "stayDuration": "9 days"
+    },
+    {
+      "id": "R124",
+      "customerName": "Jane Smith",
+      "destination": "LOS ANGELES",
+      "stayDuration": "10 days"
+    }
+  ]
+}
