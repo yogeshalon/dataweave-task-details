@@ -1,0 +1,27 @@
+{
+  "totalAmount": 400,
+  "averageAmount": 133.33,
+  "transactions": [
+    {
+      "id": 1,
+      "amount": 150,
+      "currency": "USD",
+      "date": "2023-01-15",
+      "status": "completed"
+    },
+    {
+      "id": 2,
+      "amount": 200,
+      "currency": "USD",
+      "date": "2023-01-20",
+      "status": "completed"
+    },
+    {
+      "id": 3,
+      "amount": 50,
+      "currency": "USD",
+      "date": "2023-02-10",
+      "status": "completed"
+    }
+  ]
+}
