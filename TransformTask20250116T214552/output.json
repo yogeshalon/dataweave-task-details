@@ -1,0 +1,38 @@
+{
+  "summary": [
+    {
+      "patientId": "P001",
+      "totalVisits": 2,
+      "totalCost": 350,
+      "conditions": [
+        {
+          "diagnosis": "Hypertension",
+          "treatmentCount": 1,
+          "averageCost": 150
+        },
+        {
+          "diagnosis": "Diabetes",
+          "treatmentCount": 1,
+          "averageCost": 200
+        }
+      ]
+    },
+    {
+      "patientId": "P002",
+      "totalVisits": 2,
+      "totalCost": 250,
+      "conditions": [
+        {
+          "diagnosis": "Hypertension",
+          "treatmentCount": 1,
+          "averageCost": 150
+        },
+        {
+          "diagnosis": "Routine Checkup",
+          "treatmentCount": 1,
+          "averageCost": 100
+        }
+      ]
+    }
+  ]
+}
