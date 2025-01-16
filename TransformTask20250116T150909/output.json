@@ -1,0 +1,22 @@
+{
+  "weatherSummary": [
+    {
+      "city": "New York",
+      "averageTemperature": 75,
+      "averageHumidity": 60,
+      "weatherCondition": "Moderate"
+    },
+    {
+      "city": "Los Angeles",
+      "averageTemperature": 85,
+      "averageHumidity": 30,
+      "weatherCondition": "Dry"
+    },
+    {
+      "city": "Chicago",
+      "averageTemperature": 70,
+      "averageHumidity": 65,
+      "weatherCondition": "Humid"
+    }
+  ]
+}
