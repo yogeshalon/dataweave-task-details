@@ -1,0 +1,42 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "user": "userA",
+      "likes": 150,
+      "shares": 30,
+      "comments": [
+        {
+          "user": "userB",
+          "text": "Great post!",
+          "likes": 10
+        },
+        {
+          "user": "userC",
+          "text": "Very informative.",
+          "likes": 5
+        }
+      ],
+      "date": "2023-10-01"
+    },
+    {
+      "id": 2,
+      "user": "userB",
+      "likes": 200,
+      "shares": 50,
+      "comments": [
+        {
+          "user": "userA",
+          "text": "Thanks for sharing!",
+          "likes": 8
+        },
+        {
+          "user": "userD",
+          "text": "Interesting perspective.",
+          "likes": 12
+        }
+      ],
+      "date": "2023-10-02"
+    }
+  ]
+}
