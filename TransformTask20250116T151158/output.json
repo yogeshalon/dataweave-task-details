@@ -1,0 +1,13 @@
+{
+  "totalSales": 85,
+  "ordersSummary": [
+    {
+      "orderId": "1001",
+      "totalAmount": 55
+    },
+    {
+      "orderId": "1002",
+      "totalAmount": 30
+    }
+  ]
+}
