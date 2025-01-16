@@ -1,0 +1,28 @@
+{
+  "subscriptions": [
+    {
+      "customerId": "C001",
+      "subscriptionType": "Premium",
+      "monthlyFee": 15.99,
+      "active": true
+    },
+    {
+      "customerId": "C002",
+      "subscriptionType": "Basic",
+      "monthlyFee": 9.99,
+      "active": true
+    },
+    {
+      "customerId": "C003",
+      "subscriptionType": "Premium",
+      "monthlyFee": 15.99,
+      "active": false
+    },
+    {
+      "customerId": "C004",
+      "subscriptionType": "Basic",
+      "monthlyFee": 9.99,
+      "active": true
+    }
+  ]
+}
