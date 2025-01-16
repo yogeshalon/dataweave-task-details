@@ -1,0 +1,18 @@
+{
+  "customers": [
+    {
+      "id": 1,
+      "name": "Alice Johnson",
+      "email": "alice.johnson@example.com",
+      "totalSpent": 150.75,
+      "loyaltyPoints": 15
+    },
+    {
+      "id": 2,
+      "name": "Bob Smith",
+      "email": "bob.smith@example.com",
+      "totalSpent": 200.5,
+      "loyaltyPoints": 20
+    }
+  ]
+}
