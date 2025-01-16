@@ -1,0 +1,16 @@
+{
+  "energyConsumption": [
+    {
+      "device": "Air Conditioner",
+      "usageHours": 5,
+      "powerRating": 2000,
+      "timestamp": "2023-10-01T08:00:00Z"
+    },
+    {
+      "device": "Refrigerator",
+      "usageHours": 24,
+      "powerRating": 150,
+      "timestamp": "2023-10-01T08:00:00Z"
+    }
+  ]
+}
