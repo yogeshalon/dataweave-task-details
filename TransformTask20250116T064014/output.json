@@ -1,0 +1,13 @@
+{
+  "totalAmount": 4001.25,
+  "transactions": [
+    {
+      "id": "T001",
+      "amount": 1500.5
+    },
+    {
+      "id": "T002",
+      "amount": 2500.75
+    }
+  ]
+}
