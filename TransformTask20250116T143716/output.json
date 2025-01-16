@@ -1,0 +1,14 @@
+{
+  "active_customers": [
+    {
+      "customer_id": 1,
+      "customer_name": "John Doe",
+      "contact_number": "+1234567890"
+    },
+    {
+      "customer_id": 3,
+      "customer_name": "Alice Johnson",
+      "contact_number": "+1122334455"
+    }
+  ]
+}
