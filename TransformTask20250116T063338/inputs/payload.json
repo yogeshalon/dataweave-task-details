@@ -1,0 +1,20 @@
+[
+  {
+    "vehicleId": "V001",
+    "driver": {
+      "name": "John Doe",
+      "age": 35,
+      "experience": 10
+    },
+    "status": "active"
+  },
+  {
+    "vehicleId": "V002",
+    "driver": {
+      "name": "Jane Smith",
+      "age": 28,
+      "experience": 5
+    },
+    "status": "inactive"
+  }
+]
