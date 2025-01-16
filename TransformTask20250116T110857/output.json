@@ -1,0 +1,14 @@
+{
+  "availableProducts": [
+    {
+      "id": 1,
+      "name": "Widget A",
+      "totalValue": 2500
+    },
+    {
+      "id": 2,
+      "name": "Widget B",
+      "totalValue": 750
+    }
+  ]
+}
