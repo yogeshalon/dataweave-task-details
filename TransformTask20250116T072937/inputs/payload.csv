@@ -1,0 +1,5 @@
+reservation_id,customer_name,flight_number,status
+1,John Doe,AA123,confirmed
+2,Jane Smith,DL456,cancelled
+3,Bob Johnson,UA789,confirmed
+4,Alice Brown,SW101,pending
