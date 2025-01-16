@@ -1,0 +1,30 @@
+[
+  {
+    "patientId": "P001",
+    "name": "John Doe",
+    "age": 30,
+    "gender": "Male",
+    "medicalHistory": [
+      {
+        "condition": "Hypertension",
+        "treatment": "Medication A"
+      },
+      {
+        "condition": "Diabetes",
+        "treatment": "Insulin"
+      }
+    ]
+  },
+  {
+    "patientId": "P002",
+    "name": "Jane Smith",
+    "age": 25,
+    "gender": "Female",
+    "medicalHistory": [
+      {
+        "condition": "Asthma",
+        "treatment": "Inhaler"
+      }
+    ]
+  }
+]
