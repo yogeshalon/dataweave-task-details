@@ -1,0 +1,24 @@
+{
+  "patients": [
+    {
+      "id": 1,
+      "name": "John Doe",
+      "age": 45,
+      "lastVisit": "2023-09-15T14:30:00Z",
+      "bloodPressure": [
+        120,
+        80
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Jane Smith",
+      "age": 38,
+      "lastVisit": "2023-09-20T09:00:00Z",
+      "bloodPressure": [
+        130,
+        85
+      ]
+    }
+  ]
+}
