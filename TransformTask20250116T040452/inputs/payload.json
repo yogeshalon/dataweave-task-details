@@ -1,0 +1,22 @@
+{
+  "transactions": [
+    {
+      "id": 1,
+      "amount": 150,
+      "currency": "USD",
+      "date": "2023-01-15"
+    },
+    {
+      "id": 2,
+      "amount": 200,
+      "currency": "USD",
+      "date": "2023-01-20"
+    },
+    {
+      "id": 3,
+      "amount": 50,
+      "currency": "USD",
+      "date": "2023-02-10"
+    }
+  ]
+}
