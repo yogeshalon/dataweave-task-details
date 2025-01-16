@@ -1,0 +1,16 @@
+[
+  {
+    "campaignId": 2,
+    "name": "Summer Blast",
+    "totalResponses": 3,
+    "totalRevenue": 1000,
+    "averageSpendPerResponse": 333.33
+  },
+  {
+    "campaignId": 1,
+    "name": "Spring Sale",
+    "totalResponses": 3,
+    "totalRevenue": 650,
+    "averageSpendPerResponse": 216.67
+  }
+]
