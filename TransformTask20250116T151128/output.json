@@ -1,0 +1,1 @@
+{"students":[{"studentId":1,"name":"John Doe","courses":[{"courseName":"Mathematics","grade":"A"}]},{"studentId":2,"name":"Jane Smith","courses":[{"courseName":"Science","grade":"B"}]},{"studentId":3,"name":"Bob Johnson","courses":[{"courseName":"Mathematics","grade":"C"}]},{"studentId":4,"name":"Alice Brown","courses":[{"courseName":"History","grade":"A"}]}]}
