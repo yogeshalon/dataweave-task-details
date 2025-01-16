@@ -1,0 +1,18 @@
+{
+  "products": [
+    {
+      "id": "P001",
+      "name": "Widget A",
+      "expiryDate": "2023-12-31T00:00:00Z",
+      "quantity": 100,
+      "weight": "1.5kg"
+    },
+    {
+      "id": "P002",
+      "name": "Widget B",
+      "expiryDate": "2024-01-15T00:00:00Z",
+      "quantity": 50,
+      "weight": "2.0kg"
+    }
+  ]
+}
