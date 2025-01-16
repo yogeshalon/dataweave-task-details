@@ -1,0 +1,16 @@
+{
+  "analytics": [
+    {
+      "postId": 1,
+      "engagementRate": 1.2
+    },
+    {
+      "postId": 2,
+      "engagementRate": 1.35
+    },
+    {
+      "postId": 3,
+      "engagementRate": 1.15
+    }
+  ]
+}
