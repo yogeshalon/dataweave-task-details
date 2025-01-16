@@ -1,0 +1,16 @@
+{
+  "campaigns": [
+    {
+      "id": "C001",
+      "name": "Summer Sale",
+      "shortUrl": "http://ex.co/summer-sale",
+      "active": true
+    },
+    {
+      "id": "C002",
+      "name": "Winter Clearance",
+      "shortUrl": "http://ex.co/winter-clearance",
+      "active": false
+    }
+  ]
+}
