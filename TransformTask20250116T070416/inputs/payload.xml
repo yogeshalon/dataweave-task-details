@@ -1,0 +1,14 @@
+<claims>
+  <claim>
+    <id>101</id>
+    <customerName>John Doe</customerName>
+    <amount>1500</amount>
+    <status>Pending</status>
+  </claim>
+  <claim>
+    <id>102</id>
+    <customerName>Jane Roe</customerName>
+    <amount>2500</amount>
+    <status>Approved</status>
+  </claim>
+</claims>
