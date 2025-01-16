@@ -1,0 +1,16 @@
+{
+  "monthly_totals": [
+    {
+      "month": "January",
+      "total_amount": 3500
+    },
+    {
+      "month": "February",
+      "total_amount": 2500
+    },
+    {
+      "month": "March",
+      "total_amount": 3000
+    }
+  ]
+}
