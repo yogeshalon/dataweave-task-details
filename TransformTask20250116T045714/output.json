@@ -1,0 +1,27 @@
+{
+  "totalValue": 13500,
+  "categories": [
+    {
+      "categoryName": "Electronics",
+      "totalQuantity": 60,
+      "totalValue": 12600
+    },
+    {
+      "categoryName": "Furniture",
+      "totalQuantity": 20,
+      "totalValue": 1350
+    }
+  ],
+  "highValueItems": [
+    {
+      "itemId": "A001",
+      "itemName": "Laptop",
+      "value": 12000
+    },
+    {
+      "itemId": "B002",
+      "itemName": "Office Desk",
+      "value": 1500
+    }
+  ]
+}
