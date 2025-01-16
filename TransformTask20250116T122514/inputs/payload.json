@@ -1,0 +1,22 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "likes": 150,
+      "shares": 30,
+      "comments": 10
+    },
+    {
+      "id": 2,
+      "likes": 200,
+      "shares": 50,
+      "comments": 20
+    },
+    {
+      "id": 3,
+      "likes": 100,
+      "shares": 10,
+      "comments": 5
+    }
+  ]
+}
