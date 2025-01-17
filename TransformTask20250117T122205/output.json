@@ -1,0 +1,1 @@
+<employees><department name="Engineering"><averageSalary>55000</averageSalary><employeesCount>2</employeesCount></department><department name="Marketing"><averageSalary>60000</averageSalary><employeesCount>2</employeesCount></department><department name="Sales"><averageSalary>80000</averageSalary><employeesCount>1</employeesCount></department></employees>
