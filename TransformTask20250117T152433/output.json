@@ -1,0 +1,17 @@
+[
+  {
+    "city": "New York",
+    "comfortIndex": 0.5,
+    "status": "Moderate"
+  },
+  {
+    "city": "Los Angeles",
+    "comfortIndex": 0.7,
+    "status": "Comfortable"
+  },
+  {
+    "city": "Chicago",
+    "comfortIndex": 0.6,
+    "status": "Moderate"
+  }
+]
