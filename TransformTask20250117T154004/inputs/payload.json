@@ -1,0 +1,37 @@
+{
+  "customers": [
+    {
+      "customerId": "C001",
+      "name": "John Doe",
+      "subscriptions": [
+        {
+          "subscriptionId": "S001",
+          "plan": "Premium",
+          "startDate": "2022-01-15",
+          "endDate": "2023-01-15",
+          "monthlyFee": 50
+        },
+        {
+          "subscriptionId": "S002",
+          "plan": "Basic",
+          "startDate": "2021-06-01",
+          "endDate": "2022-06-01",
+          "monthlyFee": 30
+        }
+      ]
+    },
+    {
+      "customerId": "C002",
+      "name": "Jane Smith",
+      "subscriptions": [
+        {
+          "subscriptionId": "S003",
+          "plan": "Standard",
+          "startDate": "2022-03-10",
+          "endDate": null,
+          "monthlyFee": 40
+        }
+      ]
+    }
+  ]
+}
