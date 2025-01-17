@@ -1,0 +1,14 @@
+{
+  "valid_customers": [
+    {
+      "customer_id": 1,
+      "full_name": "Alice Johnson",
+      "contact_email": "alice.johnson@example.com"
+    },
+    {
+      "customer_id": 2,
+      "full_name": "Bob Smith",
+      "contact_email": "bob.smith@example.com"
+    }
+  ]
+}
