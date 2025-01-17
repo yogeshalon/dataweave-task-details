@@ -1,0 +1,14 @@
+{
+  "aggregatedSuppliers": [
+    {
+      "supplierId": "S001",
+      "totalValue": 3300,
+      "averagePrice": 12.75
+    },
+    {
+      "supplierId": "S002",
+      "totalValue": 6900,
+      "averagePrice": 15.5
+    }
+  ]
+}
