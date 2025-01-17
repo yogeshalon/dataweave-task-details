@@ -1,0 +1,9 @@
+{
+  "approvedClaims": [
+    {
+      "claimId": "C124",
+      "policyHolder": "Jane Smith",
+      "amountClaimed": 2500
+    }
+  ]
+}
