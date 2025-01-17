@@ -1,0 +1,12 @@
+[
+  {
+    "customerId": 1,
+    "name": "Alice Smith",
+    "totalSpent": 1225
+  },
+  {
+    "customerId": 2,
+    "name": "Bob Johnson",
+    "totalSpent": 375
+  }
+]
