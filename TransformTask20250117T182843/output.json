@@ -1,0 +1,12 @@
+{
+  "activeSubscriptions": [
+    {
+      "customerName": "Alice Smith",
+      "monthlyFee": 29.99
+    },
+    {
+      "customerName": "Charlie Brown",
+      "monthlyFee": 39.99
+    }
+  ]
+}
