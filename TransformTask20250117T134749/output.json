@@ -1,0 +1,17 @@
+{
+  "totalConsumption": 12.5,
+  "consumptionDetails": [
+    {
+      "device": "Air Conditioner",
+      "consumption": 10
+    },
+    {
+      "device": "Refrigerator",
+      "consumption": 3.6
+    },
+    {
+      "device": "Washing Machine",
+      "consumption": 1
+    }
+  ]
+}
