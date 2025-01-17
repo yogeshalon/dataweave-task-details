@@ -1,0 +1,37 @@
+<inventory>
+  <item>
+    <itemId>I001</itemId>
+    <itemName>Widget A</itemName>
+    <totalValue>250.00</totalValue>
+    <quantity>100</quantity>
+    <price>2.50</price>
+  </item>
+  <item>
+    <itemId>I002</itemId>
+    <itemName>Widget B</itemName>
+    <totalValue>600.00</totalValue>
+    <quantity>200</quantity>
+    <price>3.00</price>
+  </item>
+  <item>
+    <itemId>I003</itemId>
+    <itemName>Widget C</itemName>
+    <totalValue>600.00</totalValue>
+    <quantity>150</quantity>
+    <price>4.00</price>
+  </item>
+  <item>
+    <itemId>I004</itemId>
+    <itemName>Widget D</itemName>
+    <totalValue>250.00</totalValue>
+    <quantity>50</quantity>
+    <price>5.00</price>
+  </item>
+  <item>
+    <itemId>I005</itemId>
+    <itemName>Widget E</itemName>
+    <totalValue>450.00</totalValue>
+    <quantity>300</quantity>
+    <price>1.50</price>
+  </item>
+</inventory>
