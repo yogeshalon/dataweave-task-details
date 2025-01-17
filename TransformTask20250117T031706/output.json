@@ -1,0 +1,23 @@
+{
+  "activeSubscriptions": [
+    {
+      "customerId": "C001",
+      "totalPaid": 359.88,
+      "planDetails": {
+        "plan": "Premium",
+        "monthlyFee": 29.99,
+        "durationMonths": 12
+      }
+    },
+    {
+      "customerId": "C003",
+      "totalPaid": 239.88,
+      "planDetails": {
+        "plan": "Standard",
+        "monthlyFee": 19.99,
+        "durationMonths": 12
+      }
+    }
+  ],
+  "inactiveSubscriptionsCount": 1
+}
