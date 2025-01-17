@@ -1,0 +1,36 @@
+{
+  "campaigns": [
+    {
+      "id": "C001",
+      "name": "Summer Sale",
+      "startDate": "2023-06-01",
+      "endDate": "2023-06-30",
+      "budget": 15000,
+      "targetAudience": [
+        "young adults",
+        "families"
+      ],
+      "performance": {
+        "clicks": 1200,
+        "impressions": 50000,
+        "conversions": 150
+      }
+    },
+    {
+      "id": "C002",
+      "name": "Back to School",
+      "startDate": "2023-08-01",
+      "endDate": "2023-08-31",
+      "budget": 20000,
+      "targetAudience": [
+        "students",
+        "parents"
+      ],
+      "performance": {
+        "clicks": 1800,
+        "impressions": 60000,
+        "conversions": 300
+      }
+    }
+  ]
+}
