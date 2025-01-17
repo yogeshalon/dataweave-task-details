@@ -1,0 +1,30 @@
+[
+  {
+    "customerId": 1,
+    "name": "Alice Smith",
+    "purchases": [
+      {
+        "item": "Laptop",
+        "amount": 1200
+      },
+      {
+        "item": "Mouse",
+        "amount": 25
+      }
+    ]
+  },
+  {
+    "customerId": 2,
+    "name": "Bob Johnson",
+    "purchases": [
+      {
+        "item": "Keyboard",
+        "amount": 75
+      },
+      {
+        "item": "Monitor",
+        "amount": 300
+      }
+    ]
+  }
+]
