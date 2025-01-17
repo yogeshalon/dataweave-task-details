@@ -1,0 +1,22 @@
+{
+  "subscriptions": [
+    {
+      "id": 1,
+      "customerName": "Alice Smith",
+      "status": "active",
+      "monthlyFee": "29.99"
+    },
+    {
+      "id": 2,
+      "customerName": "Bob Johnson",
+      "status": "inactive",
+      "monthlyFee": "19.99"
+    },
+    {
+      "id": 3,
+      "customerName": "Charlie Brown",
+      "status": "active",
+      "monthlyFee": "39.99"
+    }
+  ]
+}
