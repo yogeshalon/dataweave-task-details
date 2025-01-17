@@ -1,0 +1,4 @@
+BookingID|CustomerName|Destination|Date|Status
+101|John Doe|New York|2023-12-01|Confirmed
+102|Jane Smith|Los Angeles|2023-12-05|Pending
+103|Bob Johnson|Miami|2023-11-30|Cancelled
