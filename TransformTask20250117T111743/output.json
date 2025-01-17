@@ -1,0 +1,28 @@
+{
+  "summary": [
+    {
+      "productId": 1,
+      "totalRevenue": 2500,
+      "totalCost": 1000,
+      "profitMargin": 60
+    },
+    {
+      "productId": 2,
+      "totalRevenue": 4500,
+      "totalCost": 2250,
+      "profitMargin": 50
+    },
+    {
+      "productId": 3,
+      "totalRevenue": 9000,
+      "totalCost": 4000,
+      "profitMargin": 55.56
+    },
+    {
+      "productId": 4,
+      "totalRevenue": 4000,
+      "totalCost": 2000,
+      "profitMargin": 50
+    }
+  ]
+}
