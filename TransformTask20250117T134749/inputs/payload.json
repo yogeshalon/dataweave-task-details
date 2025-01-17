@@ -1,0 +1,19 @@
+{
+  "energyConsumption": [
+    {
+      "device": "Air Conditioner",
+      "usageHours": "5",
+      "powerRating": "2000"
+    },
+    {
+      "device": "Refrigerator",
+      "usageHours": "24",
+      "powerRating": "150"
+    },
+    {
+      "device": "Washing Machine",
+      "usageHours": "2",
+      "powerRating": "500"
+    }
+  ]
+}
