@@ -1,0 +1,16 @@
+{
+  "orders": [
+    {
+      "orderId": "1001",
+      "customerName": "John Doe",
+      "totalAmount": "150.00",
+      "status": "completed"
+    },
+    {
+      "orderId": "1002",
+      "customerName": "Jane Smith",
+      "totalAmount": "200.00",
+      "status": "pending"
+    }
+  ]
+}
