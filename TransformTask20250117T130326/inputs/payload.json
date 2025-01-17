@@ -1,0 +1,16 @@
+{
+  "vehicles": [
+    {
+      "id": "V001",
+      "type": "Truck",
+      "mileage": 12000,
+      "lastServiceDate": "2023-01-15"
+    },
+    {
+      "id": "V002",
+      "type": "Van",
+      "mileage": 8000,
+      "lastServiceDate": "2023-03-10"
+    }
+  ]
+}
