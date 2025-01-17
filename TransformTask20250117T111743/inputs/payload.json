@@ -1,0 +1,50 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Widget A",
+      "category": "Widgets",
+      "price": 25,
+      "quantity": 100
+    },
+    {
+      "id": 2,
+      "name": "Widget B",
+      "category": "Widgets",
+      "price": 30,
+      "quantity": 150
+    },
+    {
+      "id": 3,
+      "name": "Gadget A",
+      "category": "Gadgets",
+      "price": 45,
+      "quantity": 200
+    },
+    {
+      "id": 4,
+      "name": "Gadget B",
+      "category": "Gadgets",
+      "price": 50,
+      "quantity": 80
+    }
+  ],
+  "manufacturingCosts": [
+    {
+      "productId": 1,
+      "cost": 10
+    },
+    {
+      "productId": 2,
+      "cost": 15
+    },
+    {
+      "productId": 3,
+      "cost": 20
+    },
+    {
+      "productId": 4,
+      "cost": 25
+    }
+  ]
+}
