@@ -1,0 +1,22 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Widget A",
+      "quantity": 100,
+      "expiryDate": "2023-12-31"
+    },
+    {
+      "id": 2,
+      "name": "Widget B",
+      "quantity": 50,
+      "expiryDate": "2023-11-30"
+    },
+    {
+      "id": 3,
+      "name": "Widget C",
+      "quantity": 0,
+      "expiryDate": "2023-10-15"
+    }
+  ]
+}
