@@ -1,0 +1,14 @@
+{
+  "availableProducts": [
+    {
+      "productId": "101",
+      "productName": "Laptop",
+      "productPrice": 1200
+    },
+    {
+      "productId": "102",
+      "productName": "Smartphone",
+      "productPrice": 800
+    }
+  ]
+}
