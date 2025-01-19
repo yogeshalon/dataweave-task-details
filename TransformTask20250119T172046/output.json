@@ -1,0 +1,10 @@
+- subscriptionId: S001
+  userId: U001
+  plan: Basic
+  status: Active
+  renewalDate: 2024-10-01
+- subscriptionId: S002
+  userId: U002
+  plan: Premium
+  status: Inactive
+  renewalDate: N/A
