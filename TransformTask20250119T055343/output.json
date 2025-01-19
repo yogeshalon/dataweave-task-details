@@ -1,0 +1,18 @@
+{
+  "customers": [
+    {
+      "customerId": "C001",
+      "fullName": "John Doe",
+      "age": 30,
+      "emailAddress": "john.doe@example.com",
+      "totalSpent": 1225.5
+    },
+    {
+      "customerId": "C002",
+      "fullName": "Jane Smith",
+      "age": 25,
+      "emailAddress": "jane.smith@example.com",
+      "totalSpent": 75
+    }
+  ]
+}
