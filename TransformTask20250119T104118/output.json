@@ -1,0 +1,1 @@
+{"totalReservations":2,"totalCost":{"flights":550,"hotels":900,"grandTotal":1450},"reservations":[{"customerName":"John Doe","flightPrice":300,"hotelPrice":500},{"customerName":"Jane Smith","flightPrice":250,"hotelPrice":400}]}
