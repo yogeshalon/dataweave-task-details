@@ -1,0 +1,16 @@
+{
+  "transactions": [
+    {
+      "property_id": "P123",
+      "price": 350000,
+      "location": "New York",
+      "agent_email": "agent1@example.com"
+    },
+    {
+      "property_id": "P124",
+      "price": 450000,
+      "location": "Los Angeles",
+      "agent_email": "agent2@example.com"
+    }
+  ]
+}
