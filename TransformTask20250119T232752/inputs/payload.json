@@ -1,0 +1,19 @@
+{
+  "customers": [
+    {
+      "id": 1,
+      "name": "John Doe",
+      "monthly_spending": 120.5
+    },
+    {
+      "id": 2,
+      "name": "Jane Smith",
+      "monthly_spending": 80
+    },
+    {
+      "id": 3,
+      "name": "Alice Johnson",
+      "monthly_spending": 150.75
+    }
+  ]
+}
