@@ -1,0 +1,32 @@
+{
+  "customers": [
+    {
+      "id": "C001",
+      "name": "John Doe",
+      "age": "30",
+      "email": "john.doe@example.com",
+      "purchaseHistory": [
+        {
+          "item": "Laptop",
+          "amount": "1200.50"
+        },
+        {
+          "item": "Mouse",
+          "amount": "25.00"
+        }
+      ]
+    },
+    {
+      "id": "C002",
+      "name": "Jane Smith",
+      "age": "25",
+      "email": "jane.smith@example.com",
+      "purchaseHistory": [
+        {
+          "item": "Keyboard",
+          "amount": "75.00"
+        }
+      ]
+    }
+  ]
+}
