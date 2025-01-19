@@ -1,0 +1,16 @@
+{
+  "properties": [
+    {
+      "id": "P123",
+      "price": 350000,
+      "location": "New York",
+      "agent_contact": "mailto:agent1@example.com"
+    },
+    {
+      "id": "P124",
+      "price": 450000,
+      "location": "Los Angeles",
+      "agent_contact": "mailto:agent2@example.com"
+    }
+  ]
+}
