@@ -1,0 +1,12 @@
+{
+  "top_customers": [
+    {
+      "customer_name": "John Doe",
+      "spending": 120.5
+    },
+    {
+      "customer_name": "Alice Johnson",
+      "spending": 150.75
+    }
+  ]
+}
