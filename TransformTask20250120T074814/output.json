@@ -1,0 +1,19 @@
+{
+  "activeVehicles": [
+    {
+      "id": "V001",
+      "type": "Truck",
+      "totalMileage": 15000,
+      "totalServiceCost": 200,
+      "nextServiceDue": "2023-07-15"
+    },
+    {
+      "id": "V003",
+      "type": "Truck",
+      "totalMileage": 30000,
+      "totalServiceCost": 250,
+      "nextServiceDue": "2023-08-20"
+    }
+  ],
+  "inactiveVehiclesCount": 1
+}
