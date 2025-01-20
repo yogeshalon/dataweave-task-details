@@ -1,0 +1,16 @@
+{
+  "campaigns": [
+    {
+      "id": 1,
+      "name": "Summer Sale",
+      "durationDays": 29,
+      "budgetPerDay": 172.41
+    },
+    {
+      "id": 2,
+      "name": "Winter Clearance",
+      "durationDays": 14,
+      "budgetPerDay": 214.29
+    }
+  ]
+}
