@@ -1,0 +1,6 @@
+data:text/plain;charset=utf-8,vehicleId,vehicleType,driverName,mileage
+1,Truck,John Doe,15000
+2,Van,Jane Smith,12000
+3,SUV,Bob Johnson,18000
+4,Truck,Alice Brown,20000
+5,Van,Charlie Davis,16000
