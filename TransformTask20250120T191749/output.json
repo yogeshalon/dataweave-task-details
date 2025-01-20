@@ -1,0 +1,14 @@
+{
+  "totalSales": 85,
+  "salesByCustomer": [
+    {
+      "customerId": "C001",
+      "totalSpent": 55
+    },
+    {
+      "customerId": "C002",
+      "totalSpent": 45
+    }
+  ],
+  "orderCount": 2
+}
