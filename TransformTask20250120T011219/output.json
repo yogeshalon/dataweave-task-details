@@ -1,0 +1,3 @@
+order_id|customer_name|status|total_amount
+1|John Doe|Shipped|150.00
+2|Jane Smith|Pending|200.00
