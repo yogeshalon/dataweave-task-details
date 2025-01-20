@@ -1,0 +1,5 @@
+product_id,quantity,defect_rate
+P001,100,0.05
+P002,200,0.02
+P003,150,0.03
+P004,300,0.01
