@@ -1,0 +1,4 @@
+account_id,name,balance,status
+1,John Doe,1500.50,active
+2,Jane Smith,2500.75,inactive
+3,Bob Johnson,3000.00,active
