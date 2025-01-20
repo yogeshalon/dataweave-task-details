@@ -1,0 +1,21 @@
+[
+  {
+    "campaignId": 101,
+    "campaignName": "Summer Sale",
+    "participants": [
+      "John Doe",
+      "Jane Smith",
+      "Emily Johnson"
+    ],
+    "totalBudget": 5000
+  },
+  {
+    "campaignId": 102,
+    "campaignName": "Winter Clearance",
+    "participants": [
+      "Michael Brown",
+      "Sarah Davis"
+    ],
+    "totalBudget": 3000
+  }
+]
