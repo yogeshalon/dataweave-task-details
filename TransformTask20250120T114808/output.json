@@ -1,0 +1,20 @@
+{
+  "totalValue": 118500,
+  "products": [
+    {
+      "id": "P001",
+      "name": "Laptop",
+      "totalValue": 60000
+    },
+    {
+      "id": "P002",
+      "name": "Smartphone",
+      "totalValue": 80000
+    },
+    {
+      "id": "P003",
+      "name": "Desk Chair",
+      "totalValue": 4500
+    }
+  ]
+}
