@@ -1,0 +1,1 @@
+<patientSummary><totalPatients>2</totalPatients><averageAge>37.5</averageAge><diagnosisCount><diagnosis name="Hypertension">1</diagnosis><diagnosis name="Diabetes">1</diagnosis></diagnosisCount><visitSummary><patient id="P001"><visitCount>1</visitCount></patient><patient id="P002"><visitCount>2</visitCount></patient></visitSummary></patientSummary>
