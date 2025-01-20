@@ -1,0 +1,16 @@
+{
+  "completedTransactions": [
+    {
+      "transactionId": "T001",
+      "amount": 1500,
+      "currency": "USD",
+      "date": "2023-10-01"
+    },
+    {
+      "transactionId": "T003",
+      "amount": 300.75,
+      "currency": "USD",
+      "date": "2023-10-03"
+    }
+  ]
+}
