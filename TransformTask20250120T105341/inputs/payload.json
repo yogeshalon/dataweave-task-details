@@ -1,0 +1,22 @@
+{
+  "transactions": [
+    {
+      "id": "T001",
+      "amount": 1500.75,
+      "description": "Payment for services",
+      "date": "2023-10-01"
+    },
+    {
+      "id": "T002",
+      "amount": 250,
+      "description": "Refund",
+      "date": "2023-10-02"
+    },
+    {
+      "id": "T003",
+      "amount": 300.5,
+      "description": "Payment for goods",
+      "date": "2023-10-03"
+    }
+  ]
+}
