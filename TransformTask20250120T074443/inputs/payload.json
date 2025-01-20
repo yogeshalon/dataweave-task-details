@@ -1,0 +1,41 @@
+[
+  {
+    "campaignId": 101,
+    "campaignName": "Summer Sale",
+    "targetAudience": [
+      {
+        "name": "John Doe",
+        "age": 30,
+        "location": "New York"
+      },
+      {
+        "name": "Jane Smith",
+        "age": 25,
+        "location": "Los Angeles"
+      },
+      {
+        "name": "Emily Johnson",
+        "age": 35,
+        "location": "Chicago"
+      }
+    ],
+    "budget": 5000
+  },
+  {
+    "campaignId": 102,
+    "campaignName": "Winter Clearance",
+    "targetAudience": [
+      {
+        "name": "Michael Brown",
+        "age": 40,
+        "location": "Houston"
+      },
+      {
+        "name": "Sarah Davis",
+        "age": 28,
+        "location": "Phoenix"
+      }
+    ],
+    "budget": 3000
+  }
+]
