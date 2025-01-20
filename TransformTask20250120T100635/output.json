@@ -1,0 +1,12 @@
+{
+  "summary": {
+    "totalIncome": 3000,
+    "totalExpense": 700,
+    "netSavings": 2300,
+    "transactionsByCategory": {
+      "Investment": 1500,
+      "Expense": 700,
+      "Income": 3000
+    }
+  }
+}
