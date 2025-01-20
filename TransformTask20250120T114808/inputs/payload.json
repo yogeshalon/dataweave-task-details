@@ -1,0 +1,25 @@
+{
+  "products": [
+    {
+      "id": "P001",
+      "name": "Laptop",
+      "category": "Electronics",
+      "quantity": 50,
+      "price": 1200
+    },
+    {
+      "id": "P002",
+      "name": "Smartphone",
+      "category": "Electronics",
+      "quantity": 100,
+      "price": 800
+    },
+    {
+      "id": "P003",
+      "name": "Desk Chair",
+      "category": "Furniture",
+      "quantity": 30,
+      "price": 150
+    }
+  ]
+}
