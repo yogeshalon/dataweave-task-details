@@ -1,0 +1,10 @@
+{
+  "confirmedReservations": [
+    {
+      "reservationId": "R001",
+      "travelerName": "John Doe",
+      "travelDestination": "Paris",
+      "travelDate": "2023-10-15"
+    }
+  ]
+}
