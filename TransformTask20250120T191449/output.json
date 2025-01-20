@@ -1,0 +1,7 @@
+<monthlyConsumption>
+  <totalUsage>530</totalUsage>
+  <usageByCustomer>
+    <customer id="C001" totalUsage="330" />
+    <customer id="C002" totalUsage="200" />
+  </usageByCustomer>
+</monthlyConsumption>
