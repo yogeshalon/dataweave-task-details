@@ -1,0 +1,39 @@
+{
+  "transactions": [
+    {
+      "transactionId": "T001",
+      "customerId": "C001",
+      "amount": 150.75,
+      "date": "2023-10-01",
+      "category": "Deposit"
+    },
+    {
+      "transactionId": "T002",
+      "customerId": "C002",
+      "amount": 200,
+      "date": "2023-10-02",
+      "category": "Withdrawal"
+    },
+    {
+      "transactionId": "T003",
+      "customerId": "C001",
+      "amount": 50.25,
+      "date": "2023-10-03",
+      "category": "Deposit"
+    },
+    {
+      "transactionId": "T004",
+      "customerId": "C003",
+      "amount": 300,
+      "date": "2023-10-04",
+      "category": "Withdrawal"
+    },
+    {
+      "transactionId": "T005",
+      "customerId": "C002",
+      "amount": 100.5,
+      "date": "2023-10-05",
+      "category": "Deposit"
+    }
+  ]
+}
