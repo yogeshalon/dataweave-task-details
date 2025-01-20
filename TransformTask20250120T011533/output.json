@@ -1,0 +1,16 @@
+{
+  "campaigns_summary": [
+    {
+      "name": "Summer Sale",
+      "roi": 1,
+      "conversionRate": 12.5,
+      "durationDays": 30
+    },
+    {
+      "name": "Winter Promo",
+      "roi": 0.75,
+      "conversionRate": 12.5,
+      "durationDays": 31
+    }
+  ]
+}
