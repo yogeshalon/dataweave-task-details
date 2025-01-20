@@ -1,0 +1,18 @@
+{
+  "orders": [
+    {
+      "orderId": "1001",
+      "customerName": "John Doe",
+      "orderDate": "2023-10-01",
+      "totalAmount": 150.75,
+      "status": "Shipped"
+    },
+    {
+      "orderId": "1002",
+      "customerName": "Jane Smith",
+      "orderDate": "2023-10-02",
+      "totalAmount": 200,
+      "status": "Pending"
+    }
+  ]
+}
