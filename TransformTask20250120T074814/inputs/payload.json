@@ -1,0 +1,42 @@
+{
+  "vehicles": [
+    {
+      "id": "V001",
+      "type": "Truck",
+      "mileage": 15000,
+      "lastServiceDate": "2023-01-15",
+      "status": "Active"
+    },
+    {
+      "id": "V002",
+      "type": "Van",
+      "mileage": 25000,
+      "lastServiceDate": "2023-03-10",
+      "status": "Inactive"
+    },
+    {
+      "id": "V003",
+      "type": "Truck",
+      "mileage": 30000,
+      "lastServiceDate": "2023-02-20",
+      "status": "Active"
+    }
+  ],
+  "serviceRecords": [
+    {
+      "vehicleId": "V001",
+      "serviceDate": "2023-01-15",
+      "cost": 200
+    },
+    {
+      "vehicleId": "V002",
+      "serviceDate": "2023-03-10",
+      "cost": 150
+    },
+    {
+      "vehicleId": "V003",
+      "serviceDate": "2023-02-20",
+      "cost": 250
+    }
+  ]
+}
