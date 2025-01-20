@@ -1,0 +1,19 @@
+{
+  "availableProducts": [
+    {
+      "productId": "P001",
+      "productName": "Widget A",
+      "totalValue": 2550
+    },
+    {
+      "productId": "P002",
+      "productName": "Widget B",
+      "totalValue": 3150
+    },
+    {
+      "productId": "P003",
+      "productName": "Gadget C",
+      "totalValue": 4500
+    }
+  ]
+}
