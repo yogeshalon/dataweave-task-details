@@ -1,0 +1,19 @@
+<energyConsumption>
+  <records>
+    <record>
+      <date>2023-10-01</date>
+      <usage>150</usage>
+      <customerId>C001</customerId>
+    </record>
+    <record>
+      <date>2023-10-01</date>
+      <usage>200</usage>
+      <customerId>C002</customerId>
+    </record>
+    <record>
+      <date>2023-10-02</date>
+      <usage>180</usage>
+      <customerId>C001</customerId>
+    </record>
+  </records>
+</energyConsumption>
