@@ -1,0 +1,22 @@
+{
+  "campaigns": [
+    {
+      "id": 1,
+      "name": "Summer Sale",
+      "budget": 15000,
+      "startDate": "2023-06-01",
+      "endDate": "2023-06-30",
+      "clicks": 1200,
+      "conversions": 150
+    },
+    {
+      "id": 2,
+      "name": "Winter Promo",
+      "budget": 20000,
+      "startDate": "2023-12-01",
+      "endDate": "2023-12-31",
+      "clicks": 800,
+      "conversions": 100
+    }
+  ]
+}
