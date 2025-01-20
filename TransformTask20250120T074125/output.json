@@ -1,0 +1,12 @@
+{
+  "travelers": [
+    {
+      "name": "John Doe",
+      "tripDuration": 9
+    },
+    {
+      "name": "Jane Smith",
+      "tripDuration": 7
+    }
+  ]
+}
