@@ -1,0 +1,18 @@
+{
+  "fleetSummary": {
+    "totalVehicles": 2,
+    "averageMileage": 13500,
+    "totalFuelConsumption": 700,
+    "averageFuelEfficiency": 19.29,
+    "vehiclesDueForService": [
+      {
+        "vehicleId": "V001",
+        "daysSinceLastService": 365
+      },
+      {
+        "vehicleId": "V002",
+        "daysSinceLastService": 210
+      }
+    ]
+  }
+}
