@@ -1,0 +1,9 @@
+{
+  "totalExpenses": 801.5,
+  "expensesByCategory": {
+    "Groceries": 201.25,
+    "Utilities": 200,
+    "Rent": 300,
+    "Entertainment": 100.25
+  }
+}
