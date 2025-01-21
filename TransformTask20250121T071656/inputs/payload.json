@@ -1,0 +1,34 @@
+{
+  "students": [
+    {
+      "id": 1,
+      "name": "Alice Johnson",
+      "grades": [
+        85,
+        92,
+        78
+      ],
+      "enrollmentDate": "2022-09-01"
+    },
+    {
+      "id": 2,
+      "name": "Bob Smith",
+      "grades": [
+        88,
+        76,
+        90
+      ],
+      "enrollmentDate": "2021-09-01"
+    },
+    {
+      "id": 3,
+      "name": "Charlie Brown",
+      "grades": [
+        95,
+        89,
+        92
+      ],
+      "enrollmentDate": "2023-01-15"
+    }
+  ]
+}
