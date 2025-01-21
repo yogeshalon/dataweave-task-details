@@ -1,0 +1,22 @@
+{
+  "students": [
+    {
+      "id": 1,
+      "name": "Alice Johnson",
+      "averageGrade": 85,
+      "status": "Active"
+    },
+    {
+      "id": 2,
+      "name": "Bob Smith",
+      "averageGrade": 84.67,
+      "status": "Active"
+    },
+    {
+      "id": 3,
+      "name": "Charlie Brown",
+      "averageGrade": 92,
+      "status": "Active"
+    }
+  ]
+}
