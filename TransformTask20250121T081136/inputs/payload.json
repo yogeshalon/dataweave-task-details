@@ -1,0 +1,19 @@
+{
+  "devices": [
+    {
+      "id": "D001",
+      "temperature": "22.5",
+      "humidity": "45"
+    },
+    {
+      "id": "D002",
+      "temperature": "23.0",
+      "humidity": "50"
+    },
+    {
+      "id": "D003",
+      "temperature": "21.0",
+      "humidity": "40"
+    }
+  ]
+}
