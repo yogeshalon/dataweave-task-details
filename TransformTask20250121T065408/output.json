@@ -1,0 +1,18 @@
+{
+  "totalValue": 3648.5,
+  "products": [
+    {
+      "productId": "P12345",
+      "name": "Wireless Mouse",
+      "finalPrice": 23.39,
+      "quantitySold": 80
+    },
+    {
+      "productId": "P67890",
+      "name": "Mechanical Keyboard",
+      "finalPrice": 42.49,
+      "quantitySold": 30
+    }
+  ],
+  "currency": "USD"
+}
