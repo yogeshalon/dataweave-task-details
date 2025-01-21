@@ -1,0 +1,29 @@
+{
+  "transactions": [
+    {
+      "id": "T001",
+      "amount": 150.75,
+      "category": "Groceries"
+    },
+    {
+      "id": "T002",
+      "amount": 200,
+      "category": "Utilities"
+    },
+    {
+      "id": "T003",
+      "amount": 50.5,
+      "category": "Groceries"
+    },
+    {
+      "id": "T004",
+      "amount": 300,
+      "category": "Rent"
+    },
+    {
+      "id": "T005",
+      "amount": 100.25,
+      "category": "Entertainment"
+    }
+  ]
+}
