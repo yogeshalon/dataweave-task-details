@@ -1,0 +1,16 @@
+{
+  "patients": [
+    {
+      "id": "P001",
+      "name": "John Doe",
+      "dob": "1985-05-15",
+      "encryptedSSN": "U2FsdGVkX1+4e3J7H0g8gQ=="
+    },
+    {
+      "id": "P002",
+      "name": "Jane Smith",
+      "dob": "1990-10-20",
+      "encryptedSSN": "U2FsdGVkX1+4e3J7H0g8gQ=="
+    }
+  ]
+}
