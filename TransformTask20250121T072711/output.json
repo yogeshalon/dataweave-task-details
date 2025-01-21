@@ -1,0 +1,17 @@
+<products>
+  <product>
+    <id>101</id>
+    <name>Widget A</name>
+    <totalValue>125.00</totalValue>
+  </product>
+  <product>
+    <id>102</id>
+    <name>Widget B</name>
+    <totalValue>90.00</totalValue>
+  </product>
+  <product>
+    <id>103</id>
+    <name>Widget C</name>
+    <totalValue>80.00</totalValue>
+  </product>
+</products>
