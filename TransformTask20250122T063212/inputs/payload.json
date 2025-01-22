@@ -1,0 +1,36 @@
+{
+  "customers": [
+    {
+      "customerId": "C001",
+      "name": "John Doe",
+      "age": 30,
+      "plans": [
+        {
+          "planId": "P001",
+          "planName": "Unlimited Data",
+          "monthlyFee": 70,
+          "usage": 15
+        },
+        {
+          "planId": "P002",
+          "planName": "Family Plan",
+          "monthlyFee": 120,
+          "usage": 50
+        }
+      ]
+    },
+    {
+      "customerId": "C002",
+      "name": "Jane Smith",
+      "age": 45,
+      "plans": [
+        {
+          "planId": "P001",
+          "planName": "Unlimited Data",
+          "monthlyFee": 70,
+          "usage": 25
+        }
+      ]
+    }
+  ]
+}
