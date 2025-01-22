@@ -1,0 +1,22 @@
+{
+  "students": [
+    {
+      "name": "Alice",
+      "averageGrade": 84.33,
+      "isEvenAge": true,
+      "daysSinceEnrollment": 785
+    },
+    {
+      "name": "Bob",
+      "averageGrade": 75,
+      "isEvenAge": true,
+      "daysSinceEnrollment": 1095
+    },
+    {
+      "name": "Charlie",
+      "averageGrade": 95.67,
+      "isEvenAge": true,
+      "daysSinceEnrollment": 785
+    }
+  ]
+}
