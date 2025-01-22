@@ -1,0 +1,24 @@
+<campaigns>
+  <campaign>
+    <id>CMP001</id>
+    <name>Spring Sale</name>
+    <budget>5000</budget>
+    <responses>
+      <response>
+        <customerId>C001</customerId>
+        <conversion>true</conversion>
+        <amountSpent>150</amountSpent>
+      </response>
+      <response>
+        <customerId>C002</customerId>
+        <conversion>false</conversion>
+        <amountSpent>0</amountSpent>
+      </response>
+      <response>
+        <customerId>C003</customerId>
+        <conversion>true</conversion>
+        <amountSpent>200</amountSpent>
+      </response>
+    </responses>
+  </campaign>
+</campaigns>
