@@ -1,0 +1,10 @@
+<campaignResults>
+  <campaign>
+    <id>CMP001</id>
+    <totalResponses>3</totalResponses>
+    <totalConversions>2</totalConversions>
+    <conversionRate>66.67</conversionRate>
+    <totalRevenue>350</totalRevenue>
+    <roi>7%</roi>
+  </campaign>
+</campaignResults>
