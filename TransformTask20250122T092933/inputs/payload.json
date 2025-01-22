@@ -1,0 +1,20 @@
+{
+  "reservations": [
+    {
+      "reservationId": "R12345",
+      "customerName": "John Doe",
+      "travelDate": "2023-12-15",
+      "numberOfGuests": 3,
+      "roomType": "Deluxe",
+      "pricePerNight": 150.75
+    },
+    {
+      "reservationId": "R12346",
+      "customerName": "Jane Smith",
+      "travelDate": "2023-11-20",
+      "numberOfGuests": 2,
+      "roomType": "Standard",
+      "pricePerNight": 100
+    }
+  ]
+}
