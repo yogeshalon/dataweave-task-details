@@ -1,0 +1,12 @@
+{
+  "groupedByPropertyType": {
+    "Apartment": {
+      "totalSales": 1050000,
+      "averagePrice": 350000
+    },
+    "House": {
+      "totalSales": 1100000,
+      "averagePrice": 550000
+    }
+  }
+}
