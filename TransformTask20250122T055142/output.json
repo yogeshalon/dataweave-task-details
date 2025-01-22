@@ -1,0 +1,14 @@
+{
+  "deviceMetrics": [
+    {
+      "deviceId": "device001",
+      "tempInFahrenheit": 72.5,
+      "isActive": true
+    },
+    {
+      "deviceId": "device002",
+      "tempInFahrenheit": 75.2,
+      "isActive": false
+    }
+  ]
+}
