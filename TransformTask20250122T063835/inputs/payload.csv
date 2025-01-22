@@ -1,0 +1,7 @@
+item_id,quantity,warehouse
+1,100,A
+2,200,B
+1,150,A
+3,300,C
+2,100,B
+3,250,C
