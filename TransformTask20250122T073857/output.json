@@ -1,0 +1,14 @@
+{
+  "pendingClaims": [
+    {
+      "claimId": "C12345",
+      "amount": 1500.75,
+      "daysSinceFiled": 241
+    },
+    {
+      "claimId": "C12347",
+      "amount": 3000.5,
+      "daysSinceFiled": 240
+    }
+  ]
+}
