@@ -1,0 +1,20 @@
+{
+  "totalReservations": 2,
+  "averagePricePerNight": 125.375,
+  "reservationsDetails": [
+    {
+      "reservationId": "R12345",
+      "isWeekend": true,
+      "isHighSeason": true,
+      "daysUntilTravel": 30,
+      "priceCategory": "Premium"
+    },
+    {
+      "reservationId": "R12346",
+      "isWeekend": false,
+      "isHighSeason": false,
+      "daysUntilTravel": 5,
+      "priceCategory": "Standard"
+    }
+  ]
+}
