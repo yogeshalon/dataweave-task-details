@@ -1,0 +1,22 @@
+{
+  "customerAnalytics": [
+    {
+      "customerId": "C001",
+      "totalSpent": 1225,
+      "averagePurchaseAmount": 612.5,
+      "purchaseCount": 2
+    },
+    {
+      "customerId": "C002",
+      "totalSpent": 815,
+      "averagePurchaseAmount": 407.5,
+      "purchaseCount": 2
+    },
+    {
+      "customerId": "C003",
+      "totalSpent": 350,
+      "averagePurchaseAmount": 175,
+      "purchaseCount": 2
+    }
+  ]
+}
