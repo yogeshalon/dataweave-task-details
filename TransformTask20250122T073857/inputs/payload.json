@@ -1,0 +1,22 @@
+{
+  "claims": [
+    {
+      "claimId": "C12345",
+      "amount": 1500.75,
+      "dateFiled": "2023-02-28",
+      "isSettled": false
+    },
+    {
+      "claimId": "C12346",
+      "amount": 2500,
+      "dateFiled": "2023-03-01",
+      "isSettled": true
+    },
+    {
+      "claimId": "C12347",
+      "amount": 3000.5,
+      "dateFiled": "2023-03-02",
+      "isSettled": false
+    }
+  ]
+}
