@@ -1,0 +1,16 @@
+{
+  "summary": [
+    {
+      "customerId": "C001",
+      "totalMonthlyFee": 190,
+      "averageUsage": 32.5,
+      "eligibleForDiscount": true
+    },
+    {
+      "customerId": "C002",
+      "totalMonthlyFee": 70,
+      "averageUsage": 25,
+      "eligibleForDiscount": false
+    }
+  ]
+}
