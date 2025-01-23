@@ -1,0 +1,26 @@
+{
+  "campaigns": [
+    {
+      "id": 1,
+      "name": "Summer Sale",
+      "startDate": "2023-06-01",
+      "endDate": "2023-08-31",
+      "budget": 50000,
+      "targetAudience": [
+        "young adults",
+        "families"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Winter Clearance",
+      "startDate": "2023-12-01",
+      "endDate": "2023-12-31",
+      "budget": 30000,
+      "targetAudience": [
+        "seniors",
+        "bargain hunters"
+      ]
+    }
+  ]
+}
