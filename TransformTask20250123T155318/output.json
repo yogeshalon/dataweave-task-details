@@ -1,0 +1,18 @@
+{
+  "campaigns": [
+    {
+      "id": 1,
+      "name": "Summer Sale",
+      "duration": 91,
+      "budgetPerDay": 549.45,
+      "targetAudienceCount": 2
+    },
+    {
+      "id": 2,
+      "name": "Winter Clearance",
+      "duration": 31,
+      "budgetPerDay": 967.74,
+      "targetAudienceCount": 2
+    }
+  ]
+}
