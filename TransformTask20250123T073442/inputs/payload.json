@@ -1,0 +1,32 @@
+{
+  "reservations": [
+    {
+      "id": 1,
+      "customer": {
+        "name": "John Doe",
+        "email": "john.doe@example.com"
+      },
+      "flight": {
+        "departure": "2023-10-15T10:00:00Z",
+        "arrival": "2023-10-15T14:00:00Z",
+        "from": "JFK",
+        "to": "LAX"
+      },
+      "status": "confirmed"
+    },
+    {
+      "id": 2,
+      "customer": {
+        "name": "Jane Smith",
+        "email": "jane.smith@example.com"
+      },
+      "flight": {
+        "departure": "2023-10-16T11:00:00Z",
+        "arrival": "2023-10-16T15:00:00Z",
+        "from": "ORD",
+        "to": "SFO"
+      },
+      "status": "pending"
+    }
+  ]
+}
