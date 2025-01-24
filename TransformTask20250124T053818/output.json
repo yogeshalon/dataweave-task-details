@@ -1,0 +1,28 @@
+{
+  "billingSummary": [
+    {
+      "customerId": "C001",
+      "name": "John Doe",
+      "totalPayments": 1025,
+      "daysSinceLastPayment": 30,
+      "subscriptionDurationMonths": 21,
+      "nextBillingDate": "2023-10-01"
+    },
+    {
+      "customerId": "C002",
+      "name": "Jane Smith",
+      "totalPayments": 1650,
+      "daysSinceLastPayment": 31,
+      "subscriptionDurationMonths": 26,
+      "nextBillingDate": "2023-09-15"
+    },
+    {
+      "customerId": "C003",
+      "name": "Alice Johnson",
+      "totalPayments": 1860,
+      "daysSinceLastPayment": 7,
+      "subscriptionDurationMonths": 34,
+      "nextBillingDate": "2023-10-10"
+    }
+  ]
+}
