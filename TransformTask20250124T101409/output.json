@@ -1,0 +1,16 @@
+{
+  "total_value": 850,
+  "products": [
+    {
+      "id": "P001",
+      "name": "Widget A",
+      "total_value": 250
+    },
+    {
+      "id": "P002",
+      "name": "Widget B",
+      "total_value": 600
+    }
+  ],
+  "manufacturing_date": "2023-10-01"
+}
