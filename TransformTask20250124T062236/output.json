@@ -1,0 +1,7 @@
+<claims>
+  <statusSummary>
+    <status type="approved" totalAmount="4500" count="2"/>
+    <status type="pending" totalAmount="4500" count="2"/>
+    <status type="rejected" totalAmount="500" count="1"/>
+  </statusSummary>
+</claims>
