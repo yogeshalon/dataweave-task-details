@@ -1,0 +1,25 @@
+{
+  "customers": [
+    {
+      "customerId": "C001",
+      "name": "John Doe",
+      "subscriptionStartDate": "2022-01-15",
+      "lastPaymentDate": "2023-09-01",
+      "monthlyBill": 50
+    },
+    {
+      "customerId": "C002",
+      "name": "Jane Smith",
+      "subscriptionStartDate": "2021-06-20",
+      "lastPaymentDate": "2023-08-15",
+      "monthlyBill": 75
+    },
+    {
+      "customerId": "C003",
+      "name": "Alice Johnson",
+      "subscriptionStartDate": "2020-11-05",
+      "lastPaymentDate": "2023-09-10",
+      "monthlyBill": 60
+    }
+  ]
+}
