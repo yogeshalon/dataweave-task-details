@@ -1,0 +1,16 @@
+{
+  "inventory": [
+    {
+      "itemId": "A001",
+      "itemName": "Laptop",
+      "quantity": 50,
+      "lastUpdated": "2023-10-01T10:00:00Z"
+    },
+    {
+      "itemId": "A002",
+      "itemName": "Mouse",
+      "quantity": 150,
+      "lastUpdated": "2023-10-02T12:30:00Z"
+    }
+  ]
+}
