@@ -1,0 +1,27 @@
+{
+  "summary": {
+    "totalOrders": 4,
+    "totalRevenue": 1450,
+    "completedOrders": [
+      {
+        "orderId": "ORD001",
+        "totalPrice": 500
+      },
+      {
+        "orderId": "ORD003",
+        "totalPrice": 750
+      },
+      {
+        "orderId": "ORD004",
+        "totalPrice": 500
+      }
+    ],
+    "inProgressOrders": [
+      {
+        "orderId": "ORD002",
+        "estimatedCompletionDate": "2023-10-10"
+      }
+    ],
+    "averageOrderValue": 362.5
+  }
+}
