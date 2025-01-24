@@ -1,0 +1,6 @@
+claimId,claimAmount,claimDate,status
+C001,1500,2023-09-15,approved
+C002,2000,2023-09-16,pending
+C003,500,2023-09-17,rejected
+C004,3000,2023-09-18,approved
+C005,2500,2023-09-19,pending
