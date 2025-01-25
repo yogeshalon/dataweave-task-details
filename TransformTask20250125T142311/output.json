@@ -1,0 +1,35 @@
+{
+  "averageTemperature": 21.2,
+  "highHumidityDays": [
+    {
+      "date": "2023-10-03",
+      "humidity": 70
+    },
+    {
+      "date": "2023-10-04",
+      "humidity": 80
+    }
+  ],
+  "temperatureTrend": [
+    {
+      "date": "2023-10-01",
+      "trend": "increasing"
+    },
+    {
+      "date": "2023-10-02",
+      "trend": "increasing"
+    },
+    {
+      "date": "2023-10-03",
+      "trend": "decreasing"
+    },
+    {
+      "date": "2023-10-04",
+      "trend": "increasing"
+    },
+    {
+      "date": "2023-10-05",
+      "trend": "increasing"
+    }
+  ]
+}
