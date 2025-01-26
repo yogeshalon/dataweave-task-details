@@ -1,0 +1,32 @@
+{
+  "orders": [
+    {
+      "orderId": "001",
+      "customerName": "Alice Johnson",
+      "items": [
+        {
+          "product": "Laptop",
+          "price": 1200
+        },
+        {
+          "product": "Mouse",
+          "price": 25
+        }
+      ]
+    },
+    {
+      "orderId": "002",
+      "customerName": "Bob Smith",
+      "items": [
+        {
+          "product": "Smartphone",
+          "price": 800
+        },
+        {
+          "product": "Charger",
+          "price": 15
+        }
+      ]
+    }
+  ]
+}
