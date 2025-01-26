@@ -1,0 +1,15 @@
+{
+  "totalSales": 2060,
+  "customerSummary": [
+    {
+      "customerName": "Alice Johnson",
+      "totalSpent": 1225,
+      "itemCount": 2
+    },
+    {
+      "customerName": "Bob Smith",
+      "totalSpent": 815,
+      "itemCount": 2
+    }
+  ]
+}
