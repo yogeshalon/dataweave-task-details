@@ -1,0 +1,52 @@
+{
+  "suppliers": [
+    {
+      "id": "S001",
+      "name": "Supplier A",
+      "location": "New York",
+      "products": [
+        {
+          "productId": "P001",
+          "quantity": 100,
+          "price": 10
+        },
+        {
+          "productId": "P002",
+          "quantity": 200,
+          "price": 15
+        }
+      ]
+    },
+    {
+      "id": "S002",
+      "name": "Supplier B",
+      "location": "California",
+      "products": [
+        {
+          "productId": "P001",
+          "quantity": 150,
+          "price": 12
+        },
+        {
+          "productId": "P003",
+          "quantity": 300,
+          "price": 20
+        }
+      ]
+    }
+  ],
+  "orders": [
+    {
+      "orderId": "O001",
+      "supplierId": "S001",
+      "productId": "P001",
+      "orderQuantity": 50
+    },
+    {
+      "orderId": "O002",
+      "supplierId": "S002",
+      "productId": "P003",
+      "orderQuantity": 100
+    }
+  ]
+}
