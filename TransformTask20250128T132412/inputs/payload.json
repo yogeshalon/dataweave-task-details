@@ -1,0 +1,27 @@
+{
+  "patients": [
+    {
+      "id": "P001",
+      "name": "John Doe",
+      "age": 30,
+      "gender": "Male",
+      "medicalHistory": [
+        {
+          "condition": "Hypertension",
+          "diagnosisDate": "2020-01-15"
+        },
+        {
+          "condition": "Diabetes",
+          "diagnosisDate": "2019-06-20"
+        }
+      ]
+    },
+    {
+      "id": "P002",
+      "name": "Jane Smith",
+      "age": 25,
+      "gender": "Female",
+      "medicalHistory": []
+    }
+  ]
+}
