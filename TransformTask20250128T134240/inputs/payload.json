@@ -1,0 +1,25 @@
+{
+  "inventory": [
+    {
+      "itemId": "A001",
+      "itemName": "Laptop",
+      "quantity": 50,
+      "price": 1200,
+      "category": "Electronics"
+    },
+    {
+      "itemId": "A002",
+      "itemName": "Smartphone",
+      "quantity": 100,
+      "price": 800,
+      "category": "Electronics"
+    },
+    {
+      "itemId": "B001",
+      "itemName": "Desk Chair",
+      "quantity": 30,
+      "price": 150,
+      "category": "Furniture"
+    }
+  ]
+}
