@@ -1,0 +1,55 @@
+{
+  "customers": [
+    {
+      "id": 1,
+      "name": "Alice Johnson",
+      "age": 34,
+      "purchaseHistory": [
+        {
+          "item": "Laptop",
+          "amount": 1200,
+          "date": "2023-01-15"
+        },
+        {
+          "item": "Mouse",
+          "amount": 25,
+          "date": "2023-02-10"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Bob Smith",
+      "age": 28,
+      "purchaseHistory": [
+        {
+          "item": "Smartphone",
+          "amount": 800,
+          "date": "2023-03-05"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Charlie Brown",
+      "age": 45,
+      "purchaseHistory": [
+        {
+          "item": "Tablet",
+          "amount": 400,
+          "date": "2023-01-20"
+        },
+        {
+          "item": "Keyboard",
+          "amount": 50,
+          "date": "2023-02-15"
+        },
+        {
+          "item": "Laptop",
+          "amount": 1200,
+          "date": "2023-03-10"
+        }
+      ]
+    }
+  ]
+}
