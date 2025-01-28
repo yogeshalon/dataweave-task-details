@@ -1,0 +1,18 @@
+{
+  "reservations": [
+    {
+      "id": 1,
+      "customerName": "John Doe",
+      "flightNumber": "AA123",
+      "departureDate": "2023-10-15",
+      "status": "confirmed"
+    },
+    {
+      "id": 2,
+      "customerName": "Jane Smith",
+      "flightNumber": "AA456",
+      "departureDate": "2023-10-16",
+      "status": "pending"
+    }
+  ]
+}
