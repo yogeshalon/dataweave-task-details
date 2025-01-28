@@ -1,0 +1,20 @@
+{
+  "totalValue": 105000,
+  "itemsInStock": [
+    {
+      "itemId": "A001",
+      "itemName": "Laptop",
+      "totalValue": 60000
+    },
+    {
+      "itemId": "A002",
+      "itemName": "Smartphone",
+      "totalValue": 80000
+    },
+    {
+      "itemId": "B001",
+      "itemName": "Desk Chair",
+      "totalValue": 4500
+    }
+  ]
+}
