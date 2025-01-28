@@ -1,0 +1,4 @@
+property_id,owner_name,address,price,bedrooms,bathrooms
+1,Alice Johnson,123 Elm St,350000,3,2
+2,Bob Brown,456 Oak St,450000,4,3
+3,Charlie Davis,789 Pine St,275000,2,1
