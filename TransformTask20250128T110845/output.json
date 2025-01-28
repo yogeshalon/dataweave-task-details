@@ -1,0 +1,22 @@
+{
+  "customerAnalytics": [
+    {
+      "customerId": 1,
+      "totalSpent": 1225,
+      "averageAge": 34,
+      "mostFrequentPurchase": "Laptop"
+    },
+    {
+      "customerId": 2,
+      "totalSpent": 800,
+      "averageAge": 28,
+      "mostFrequentPurchase": "Smartphone"
+    },
+    {
+      "customerId": 3,
+      "totalSpent": 1650,
+      "averageAge": 45,
+      "mostFrequentPurchase": "Laptop"
+    }
+  ]
+}
