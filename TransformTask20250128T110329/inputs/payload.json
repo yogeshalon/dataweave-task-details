@@ -1,0 +1,22 @@
+{
+  "reservations": [
+    {
+      "id": 1,
+      "customerName": "John Doe",
+      "destination": "Paris",
+      "checkIn": "2023-10-15",
+      "checkOut": "2023-10-20",
+      "adults": 2,
+      "children": 0
+    },
+    {
+      "id": 2,
+      "customerName": "Jane Smith",
+      "destination": "New York",
+      "checkIn": "2023-11-01",
+      "checkOut": "2023-11-05",
+      "adults": 1,
+      "children": 2
+    }
+  ]
+}
