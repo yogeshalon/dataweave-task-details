@@ -1,0 +1,36 @@
+{
+  "subscriptions": [
+    {
+      "customerId": "C001",
+      "subscriptionType": "Premium",
+      "startDate": "2023-01-15",
+      "endDate": "2024-01-15",
+      "monthlyFee": 29.99,
+      "status": "Active"
+    },
+    {
+      "customerId": "C002",
+      "subscriptionType": "Basic",
+      "startDate": "2023-03-10",
+      "endDate": "2024-03-10",
+      "monthlyFee": 9.99,
+      "status": "Active"
+    },
+    {
+      "customerId": "C003",
+      "subscriptionType": "Premium",
+      "startDate": "2022-12-01",
+      "endDate": "2023-12-01",
+      "monthlyFee": 29.99,
+      "status": "Cancelled"
+    },
+    {
+      "customerId": "C004",
+      "subscriptionType": "Basic",
+      "startDate": "2023-05-20",
+      "endDate": "2024-05-20",
+      "monthlyFee": 9.99,
+      "status": "Active"
+    }
+  ]
+}
