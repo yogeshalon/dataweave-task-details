@@ -1,0 +1,25 @@
+{
+  "summary": {
+    "totalActiveSubscriptions": 3,
+    "totalCancelledSubscriptions": 1,
+    "totalMonthlyRevenue": 69.97,
+    "averageMonthlyFee": 23.32,
+    "activeCustomers": [
+      {
+        "customerId": "C001",
+        "subscriptionType": "Premium",
+        "remainingDays": 180
+      },
+      {
+        "customerId": "C002",
+        "subscriptionType": "Basic",
+        "remainingDays": 300
+      },
+      {
+        "customerId": "C004",
+        "subscriptionType": "Basic",
+        "remainingDays": 365
+      }
+    ]
+  }
+}
