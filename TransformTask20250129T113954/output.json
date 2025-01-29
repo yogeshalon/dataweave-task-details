@@ -1,0 +1,18 @@
+{
+  "totalConsumption": 4700,
+  "averageUsage": 1566.67,
+  "devices": [
+    {
+      "deviceId": "A123",
+      "usage": 1500
+    },
+    {
+      "deviceId": "B456",
+      "usage": 2000
+    },
+    {
+      "deviceId": "C789",
+      "usage": 1200
+    }
+  ]
+}
