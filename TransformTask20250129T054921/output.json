@@ -1,0 +1,24 @@
+{
+  "filteredCustomers": [
+    {
+      "id": 1,
+      "name": "John Doe",
+      "email": "john.doe@example.com",
+      "purchases": [
+        "Electronics",
+        "Books",
+        "Clothing"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Alice Johnson",
+      "email": "alice.johnson@example.com",
+      "purchases": [
+        "Electronics",
+        "Home Decor",
+        "Clothing"
+      ]
+    }
+  ]
+}
