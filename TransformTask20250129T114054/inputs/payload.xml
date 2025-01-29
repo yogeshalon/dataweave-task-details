@@ -1,0 +1,1 @@
+<patients><patient><id>P001</id><name>John Doe</name><age>30</age><diagnosis>Flu</diagnosis></patient><patient><id>P002</id><name>Jane Smith</name><age>25</age><diagnosis>Cold</diagnosis></patient></patients>
