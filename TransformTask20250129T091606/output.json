@@ -1,0 +1,22 @@
+<transactions>
+  <transaction>
+    <transaction_id>1</transaction_id>
+    <net_amount>150.00</net_amount>
+  </transaction>
+  <transaction>
+    <transaction_id>2</transaction_id>
+    <net_amount>-50.00</net_amount>
+  </transaction>
+  <transaction>
+    <transaction_id>3</transaction_id>
+    <net_amount>200.00</net_amount>
+  </transaction>
+  <transaction>
+    <transaction_id>4</transaction_id>
+    <net_amount>-100.00</net_amount>
+  </transaction>
+  <transaction>
+    <transaction_id>5</transaction_id>
+    <net_amount>300.00</net_amount>
+  </transaction>
+</transactions>
