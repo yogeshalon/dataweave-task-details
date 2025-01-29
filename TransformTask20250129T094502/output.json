@@ -1,0 +1,24 @@
+{
+  "summary": {
+    "totalOrders": 2,
+    "totalRevenue": 85,
+    "completedOrders": [
+      {
+        "orderId": "ORD001",
+        "customerId": "CUST001",
+        "totalAmount": 55
+      }
+    ],
+    "pendingOrders": [
+      {
+        "orderId": "ORD002",
+        "customerId": "CUST002",
+        "totalAmount": 30
+      }
+    ],
+    "mostPopularProduct": {
+      "productId": "PROD001",
+      "totalSold": 2
+    }
+  }
+}
