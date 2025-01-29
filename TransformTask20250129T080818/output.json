@@ -1,0 +1,17 @@
+{
+  "shippedOrdersTotalAmount": 900,
+  "pendingOrdersByCustomerId": {
+    "1": [],
+    "2": [
+      {
+        "orderId": 102,
+        "amount": 150
+      },
+      {
+        "orderId": 105,
+        "amount": 200
+      }
+    ],
+    "3": []
+  }
+}
