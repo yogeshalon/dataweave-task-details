@@ -1,0 +1,17 @@
+{
+  "averageGrades": [
+    {
+      "name": "Alice Johnson",
+      "averageGrade": 85
+    },
+    {
+      "name": "Bob Smith",
+      "averageGrade": 91
+    },
+    {
+      "name": "Charlie Brown",
+      "averageGrade": 75
+    }
+  ],
+  "totalStudents": 3
+}
