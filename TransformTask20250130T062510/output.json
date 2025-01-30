@@ -1,0 +1,27 @@
+{
+  "summary": [
+    {
+      "clientId": "C001",
+      "totalInvestment": 1500,
+      "totalSavings": 0,
+      "totalExpenses": 500,
+      "netBalance": 1000
+    },
+    {
+      "clientId": "C002",
+      "totalInvestment": 0,
+      "totalSavings": 2500,
+      "totalExpenses": 1200,
+      "netBalance": 1300
+    },
+    {
+      "clientId": "C003",
+      "totalInvestment": 3000,
+      "totalSavings": 0,
+      "totalExpenses": 0,
+      "netBalance": 3000
+    }
+  ],
+  "totalTransactions": 5,
+  "reportDate": "2023-10-06"
+}
