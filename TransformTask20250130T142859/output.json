@@ -1,0 +1,34 @@
+{
+  "totalInventoryValue": 103000,
+  "categorySummary": [
+    {
+      "category": "Electronics",
+      "totalItems": 2,
+      "totalQuantity": 150,
+      "totalValue": 96000
+    },
+    {
+      "category": "Furniture",
+      "totalItems": 1,
+      "totalQuantity": 30,
+      "totalValue": 4500
+    }
+  ],
+  "suppliers": [
+    {
+      "supplierId": "S001",
+      "supplierName": "Tech Supplies Co.",
+      "totalSuppliedValue": 60000
+    },
+    {
+      "supplierId": "S002",
+      "supplierName": "Mobile World Inc.",
+      "totalSuppliedValue": 80000
+    },
+    {
+      "supplierId": "S003",
+      "supplierName": "Office Essentials Ltd.",
+      "totalSuppliedValue": 4500
+    }
+  ]
+}
