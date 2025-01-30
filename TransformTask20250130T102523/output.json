@@ -1,0 +1,8 @@
+{
+  "summary": {
+    "totalIncome": 3000,
+    "totalExpense": 200,
+    "netSavings": 2800,
+    "currency": "USD"
+  }
+}
