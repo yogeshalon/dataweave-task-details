@@ -1,0 +1,44 @@
+{
+  "transactions": [
+    {
+      "transactionId": "T001",
+      "amount": 1500,
+      "currency": "USD",
+      "date": "2023-10-01",
+      "category": "Investment",
+      "clientId": "C001"
+    },
+    {
+      "transactionId": "T002",
+      "amount": 2500,
+      "currency": "USD",
+      "date": "2023-10-02",
+      "category": "Savings",
+      "clientId": "C002"
+    },
+    {
+      "transactionId": "T003",
+      "amount": 500,
+      "currency": "USD",
+      "date": "2023-10-03",
+      "category": "Expense",
+      "clientId": "C001"
+    },
+    {
+      "transactionId": "T004",
+      "amount": 3000,
+      "currency": "USD",
+      "date": "2023-10-04",
+      "category": "Investment",
+      "clientId": "C003"
+    },
+    {
+      "transactionId": "T005",
+      "amount": 1200,
+      "currency": "USD",
+      "date": "2023-10-05",
+      "category": "Expense",
+      "clientId": "C002"
+    }
+  ]
+}
