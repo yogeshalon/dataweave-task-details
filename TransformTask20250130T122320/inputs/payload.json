@@ -1,0 +1,38 @@
+{
+  "orders": [
+    {
+      "orderId": "ORD001",
+      "customer": "Acme Corp",
+      "items": [
+        {
+          "productId": "PROD001",
+          "quantity": 10,
+          "price": 15
+        },
+        {
+          "productId": "PROD002",
+          "quantity": 5,
+          "price": 20
+        }
+      ],
+      "status": "shipped"
+    },
+    {
+      "orderId": "ORD002",
+      "customer": "Beta LLC",
+      "items": [
+        {
+          "productId": "PROD001",
+          "quantity": 2,
+          "price": 15
+        },
+        {
+          "productId": "PROD003",
+          "quantity": 1,
+          "price": 30
+        }
+      ],
+      "status": "pending"
+    }
+  ]
+}
