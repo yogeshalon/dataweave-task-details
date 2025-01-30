@@ -1,0 +1,16 @@
+{
+  "summary": [
+    {
+      "customer": "Acme Corp",
+      "totalSpent": 90,
+      "orderCount": 1
+    },
+    {
+      "customer": "Beta LLC",
+      "totalSpent": 60,
+      "orderCount": 1
+    }
+  ],
+  "totalOrders": 2,
+  "totalRevenue": 150
+}
