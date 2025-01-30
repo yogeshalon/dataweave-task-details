@@ -1,0 +1,40 @@
+{
+  "inventory": [
+    {
+      "itemId": "A001",
+      "itemName": "Laptop",
+      "quantity": 50,
+      "price": 1200,
+      "category": "Electronics",
+      "supplier": {
+        "supplierId": "S001",
+        "supplierName": "Tech Supplies Co.",
+        "contact": "contact@techsupplies.com"
+      }
+    },
+    {
+      "itemId": "A002",
+      "itemName": "Smartphone",
+      "quantity": 100,
+      "price": 800,
+      "category": "Electronics",
+      "supplier": {
+        "supplierId": "S002",
+        "supplierName": "Mobile World Inc.",
+        "contact": "info@mobileworld.com"
+      }
+    },
+    {
+      "itemId": "B001",
+      "itemName": "Office Chair",
+      "quantity": 30,
+      "price": 150,
+      "category": "Furniture",
+      "supplier": {
+        "supplierId": "S003",
+        "supplierName": "Office Essentials Ltd.",
+        "contact": "support@officeessentials.com"
+      }
+    }
+  ]
+}
