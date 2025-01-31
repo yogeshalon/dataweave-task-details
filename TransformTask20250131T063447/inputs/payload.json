@@ -1,0 +1,48 @@
+{
+  "manufacturingProcesses": [
+    {
+      "processId": 1,
+      "processName": "Welding",
+      "duration": 120,
+      "status": "Completed",
+      "materials": [
+        {
+          "materialId": "M001",
+          "materialName": "Steel",
+          "quantity": 50
+        },
+        {
+          "materialId": "M002",
+          "materialName": "Aluminum",
+          "quantity": 30
+        }
+      ]
+    },
+    {
+      "processId": 2,
+      "processName": "Painting",
+      "duration": 90,
+      "status": "In Progress",
+      "materials": [
+        {
+          "materialId": "M003",
+          "materialName": "Paint",
+          "quantity": 20
+        }
+      ]
+    },
+    {
+      "processId": 3,
+      "processName": "Assembly",
+      "duration": 150,
+      "status": "Completed",
+      "materials": [
+        {
+          "materialId": "M004",
+          "materialName": "Screws",
+          "quantity": 100
+        }
+      ]
+    }
+  ]
+}
