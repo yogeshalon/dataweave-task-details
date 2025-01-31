@@ -1,0 +1,13 @@
+{
+  "totalCost": 850,
+  "categorySummary": {
+    "Gadgets": {
+      "totalQuantity": 300,
+      "averageCost": 2.75
+    },
+    "Tools": {
+      "totalQuantity": 150,
+      "averageCost": 4
+    }
+  }
+}
