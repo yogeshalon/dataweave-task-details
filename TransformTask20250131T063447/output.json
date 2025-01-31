@@ -1,0 +1,12 @@
+{
+  "completedProcesses": [
+    {
+      "processId": 1,
+      "processName": "Welding"
+    },
+    {
+      "processId": 3,
+      "processName": "Assembly"
+    }
+  ]
+}
