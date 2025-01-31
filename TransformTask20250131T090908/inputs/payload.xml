@@ -1,0 +1,23 @@
+<ManufacturingProcesses>
+  <Process>
+    <ProcessID>P001</ProcessID>
+    <Product>Widget A</Product>
+    <Quantity>100</Quantity>
+    <CostPerUnit>5.00</CostPerUnit>
+    <ProductionDate>2023-04-01</ProductionDate>
+  </Process>
+  <Process>
+    <ProcessID>P002</ProcessID>
+    <Product>Widget B</Product>
+    <Quantity>200</Quantity>
+    <CostPerUnit>7.50</CostPerUnit>
+    <ProductionDate>2023-04-02</ProductionDate>
+  </Process>
+  <Process>
+    <ProcessID>P003</ProcessID>
+    <Product>Widget A</Product>
+    <Quantity>150</Quantity>
+    <CostPerUnit>5.00</CostPerUnit>
+    <ProductionDate>2023-04-03</ProductionDate>
+  </Process>
+</ManufacturingProcesses>
