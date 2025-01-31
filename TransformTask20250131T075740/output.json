@@ -1,0 +1,8 @@
+<AggregatedProduction>
+  <TotalQuantity>250</TotalQuantity>
+  <TotalCost>1875.00</TotalCost>
+  <Products>
+    <Product name="Widget A" totalProduced="250"/>
+    <Product name="Widget B" totalProduced="200"/>
+  </Products>
+</AggregatedProduction>
