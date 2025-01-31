@@ -1,0 +1,10 @@
+{
+  "activeCampaigns": [
+    {
+      "id": 1,
+      "name": "Summer Sale",
+      "duration": 30,
+      "budget": 10000
+    }
+  ]
+}
