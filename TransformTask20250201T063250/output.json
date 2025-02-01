@@ -1,0 +1,15 @@
+{
+  "activeVehicles": [
+    {
+      "vehicleId": "V001",
+      "driver": "John Doe",
+      "location": "New York"
+    },
+    {
+      "vehicleId": "V003",
+      "driver": "Emily Johnson",
+      "location": "Chicago"
+    }
+  ],
+  "inactiveVehiclesCount": 1
+}
