@@ -1,0 +1,6 @@
+userId,transactionDate,amount,status
+1,2023-01-10,150.00,Completed
+2,2023-01-12,200.00,Pending
+1,2023-01-15,50.00,Completed
+3,2023-01-20,300.00,Failed
+2,2023-01-22,100.00,Completed
