@@ -1,0 +1,6 @@
+vehicle_id,vehicle_type,driver_name,mileage,fuel_consumed
+V001,Truck,John Doe,1500,200
+V002,VAN,Jane Smith,1200,150
+V003,Truck,Bob Johnson,1800,250
+V004,VAN,Alice Brown,900,100
+V005,SUV,Charlie Davis,1100,130
