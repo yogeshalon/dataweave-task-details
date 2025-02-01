@@ -1,0 +1,10 @@
+{
+  "activeSubscriptions": [
+    {
+      "userId": 1,
+      "userName": "Alice Johnson",
+      "subscriptionType": "Premium",
+      "startDate": "2023-01-15"
+    }
+  ]
+}
