@@ -1,0 +1,23 @@
+{
+  "aggregatedData": [
+    {
+      "deviceId": "D001",
+      "averageTemperature": 22.75,
+      "averageHumidity": 47.5,
+      "minimumBatteryLevel": 70
+    },
+    {
+      "deviceId": "D002",
+      "averageTemperature": 21.25,
+      "averageHumidity": 41,
+      "minimumBatteryLevel": 78
+    }
+  ],
+  "alerts": [
+    {
+      "deviceId": "D001",
+      "alertType": "Battery Low",
+      "timestamp": "2023-10-01T09:00:00Z"
+    }
+  ]
+}
