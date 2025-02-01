@@ -1,0 +1,22 @@
+{
+  "customer_summary": [
+    {
+      "customer_id": 1,
+      "name": "Alice Johnson",
+      "total_spent": 1225,
+      "is_loyal_customer": true
+    },
+    {
+      "customer_id": 2,
+      "name": "Bob Smith",
+      "total_spent": 675,
+      "is_loyal_customer": false
+    },
+    {
+      "customer_id": 3,
+      "name": "Charlie Brown",
+      "total_spent": 820,
+      "is_loyal_customer": true
+    }
+  ]
+}
