@@ -1,0 +1,18 @@
+{
+  "claims": [
+    {
+      "claimId": "C12345",
+      "policyNumber": "P98765",
+      "amountClaimed": 1500,
+      "status": "Pending",
+      "dateOfClaim": "2023-10-01"
+    },
+    {
+      "claimId": "C12346",
+      "policyNumber": "P98766",
+      "amountClaimed": 2500,
+      "status": "Approved",
+      "dateOfClaim": "2023-10-02"
+    }
+  ]
+}
