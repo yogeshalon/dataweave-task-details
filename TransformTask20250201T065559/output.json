@@ -1,0 +1,25 @@
+{
+  "employees": [
+    {
+      "id": 1,
+      "name": "John Doe",
+      "department": "Sales",
+      "annualSalary": 600000,
+      "yearsAtCompany": 3
+    },
+    {
+      "id": 2,
+      "name": "Jane Smith",
+      "department": "Marketing",
+      "annualSalary": 720000,
+      "yearsAtCompany": 4
+    },
+    {
+      "id": 3,
+      "name": "Emily Johnson",
+      "department": "Sales",
+      "annualSalary": 660000,
+      "yearsAtCompany": 2
+    }
+  ]
+}
