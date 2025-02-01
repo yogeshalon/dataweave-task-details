@@ -1,0 +1,49 @@
+{
+  "customers": [
+    {
+      "id": 1,
+      "name": "Alice Johnson",
+      "age": 30,
+      "purchases": [
+        {
+          "item": "Laptop",
+          "amount": 1200
+        },
+        {
+          "item": "Mouse",
+          "amount": 25
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Bob Smith",
+      "age": 45,
+      "purchases": [
+        {
+          "item": "Tablet",
+          "amount": 600
+        },
+        {
+          "item": "Keyboard",
+          "amount": 75
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Charlie Brown",
+      "age": 25,
+      "purchases": [
+        {
+          "item": "Smartphone",
+          "amount": 800
+        },
+        {
+          "item": "Charger",
+          "amount": 20
+        }
+      ]
+    }
+  ]
+}
