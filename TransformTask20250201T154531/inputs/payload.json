@@ -1,0 +1,31 @@
+{
+  "customers": [
+    {
+      "customerId": "C001",
+      "name": "Alice Johnson",
+      "subscription": {
+        "type": "Premium",
+        "monthlyFee": 50,
+        "dataUsage": 20
+      }
+    },
+    {
+      "customerId": "C002",
+      "name": "Bob Smith",
+      "subscription": {
+        "type": "Basic",
+        "monthlyFee": 30,
+        "dataUsage": 15
+      }
+    },
+    {
+      "customerId": "C003",
+      "name": "Charlie Brown",
+      "subscription": {
+        "type": "Premium",
+        "monthlyFee": 50,
+        "dataUsage": 25
+      }
+    }
+  ]
+}
