@@ -1,0 +1,16 @@
+{
+  "totalRevenue": 130,
+  "premiumCustomers": [
+    {
+      "customerId": "C001",
+      "name": "Alice Johnson",
+      "dataUsage": 20
+    },
+    {
+      "customerId": "C003",
+      "name": "Charlie Brown",
+      "dataUsage": 25
+    }
+  ],
+  "averageDataUsage": 20
+}
