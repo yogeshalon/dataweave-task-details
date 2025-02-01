@@ -1,0 +1,20 @@
+{
+  "totalInventoryValue": 850,
+  "products": [
+    {
+      "id": "P001",
+      "name": "Widget A",
+      "totalValue": 250
+    },
+    {
+      "id": "P002",
+      "name": "Widget B",
+      "totalValue": 600
+    },
+    {
+      "id": "P003",
+      "name": "Gadget C",
+      "totalValue": 750
+    }
+  ]
+}
