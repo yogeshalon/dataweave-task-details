@@ -1,0 +1,24 @@
+{
+  "students": [
+    {
+      "id": 1,
+      "name": "Alice Johnson",
+      "age": 20,
+      "enrolled": true,
+      "grades": {
+        "math": 85,
+        "science": 90
+      }
+    },
+    {
+      "id": 2,
+      "name": "Bob Smith",
+      "age": 22,
+      "enrolled": false,
+      "grades": {
+        "math": 78,
+        "science": 82
+      }
+    }
+  ]
+}
