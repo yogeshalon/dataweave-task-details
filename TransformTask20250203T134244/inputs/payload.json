@@ -1,0 +1,28 @@
+{
+  "vehicles": [
+    {
+      "id": 1,
+      "type": "Truck",
+      "mileage": 15000,
+      "fuelConsumption": 8
+    },
+    {
+      "id": 2,
+      "type": "Van",
+      "mileage": 20000,
+      "fuelConsumption": 10
+    },
+    {
+      "id": 3,
+      "type": "Truck",
+      "mileage": 30000,
+      "fuelConsumption": 7
+    },
+    {
+      "id": 4,
+      "type": "Car",
+      "mileage": 25000,
+      "fuelConsumption": 6
+    }
+  ]
+}
