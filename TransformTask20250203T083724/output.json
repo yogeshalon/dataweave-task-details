@@ -1,0 +1,16 @@
+{
+  "activeCustomers": [
+    {
+      "customerId": 1,
+      "fullName": "Alice Johnson",
+      "contactEmail": "alice.johnson@example.com",
+      "totalSpent": 1225
+    },
+    {
+      "customerId": 2,
+      "fullName": "Bob Smith",
+      "contactEmail": "bob.smith@example.com",
+      "totalSpent": 150
+    }
+  ]
+}
