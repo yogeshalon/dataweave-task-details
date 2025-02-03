@@ -1,0 +1,31 @@
+{
+  "devices": [
+    {
+      "deviceId": "D001",
+      "location": "Warehouse A",
+      "metrics": {
+        "temperature": 22.5,
+        "humidity": 45,
+        "batteryLevel": 75
+      }
+    },
+    {
+      "deviceId": "D002",
+      "location": "Warehouse B",
+      "metrics": {
+        "temperature": 24,
+        "humidity": 50,
+        "batteryLevel": 60
+      }
+    },
+    {
+      "deviceId": "D003",
+      "location": "Warehouse A",
+      "metrics": {
+        "temperature": 21,
+        "humidity": 40,
+        "batteryLevel": 80
+      }
+    }
+  ]
+}
