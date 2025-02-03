@@ -1,0 +1,4 @@
+claim_id,claimant_name,claim_amount,claim_date,status
+C001,Emily Johnson,1500.00,2023-09-15,Pending
+C002,Michael Brown,2500.00,2023-09-20,Approved
+C003,Sarah Davis,1000.00,2023-09-25,Denied
