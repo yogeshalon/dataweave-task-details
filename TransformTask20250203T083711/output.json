@@ -1,0 +1,37 @@
+{
+  "averageMetrics": {
+    "averageTemperature": 22.5,
+    "averageHumidity": 45,
+    "averageBatteryLevel": 71.67
+  },
+  "groupedByLocation": {
+    "Warehouse A": [
+      {
+        "deviceId": "D001",
+        "metrics": {
+          "temperature": 22.5,
+          "humidity": 45,
+          "batteryLevel": 75
+        }
+      },
+      {
+        "deviceId": "D003",
+        "metrics": {
+          "temperature": 21,
+          "humidity": 40,
+          "batteryLevel": 80
+        }
+      }
+    ],
+    "Warehouse B": [
+      {
+        "deviceId": "D002",
+        "metrics": {
+          "temperature": 24,
+          "humidity": 50,
+          "batteryLevel": 60
+        }
+      }
+    ]
+  }
+}
