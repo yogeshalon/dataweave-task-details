@@ -1,0 +1,9 @@
+{
+  "activeStudents": [
+    {
+      "studentId": 1,
+      "fullName": "Alice Johnson",
+      "averageGrade": 87.5
+    }
+  ]
+}
