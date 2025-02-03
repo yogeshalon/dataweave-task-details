@@ -1,0 +1,14 @@
+{
+  "customerAnalytics": [
+    {
+      "customerId": 1,
+      "totalSpent": 1225,
+      "averagePurchase": 612.5
+    },
+    {
+      "customerId": 2,
+      "totalSpent": 950,
+      "averagePurchase": 475
+    }
+  ]
+}
