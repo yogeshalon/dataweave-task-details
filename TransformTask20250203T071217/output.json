@@ -1,0 +1,23 @@
+<claims>
+  <claim>
+    <id>C001</id>
+    <name>Emily Johnson</name>
+    <amount>1500.00</amount>
+    <date>2023-09-15</date>
+    <status>Pending</status>
+  </claim>
+  <claim>
+    <id>C002</id>
+    <name>Michael Brown</name>
+    <amount>2500.00</amount>
+    <date>2023-09-20</date>
+    <status>Approved</status>
+  </claim>
+  <claim>
+    <id>C003</id>
+    <name>Sarah Davis</name>
+    <amount>1000.00</amount>
+    <date>2023-09-25</date>
+    <status>Denied</status>
+  </claim>
+</claims>
