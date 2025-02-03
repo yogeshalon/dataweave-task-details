@@ -1,0 +1,36 @@
+{
+  "customers": [
+    {
+      "id": 1,
+      "name": "Alice Johnson",
+      "age": 30,
+      "email": "alice.johnson@example.com",
+      "purchases": [
+        {
+          "item": "Laptop",
+          "amount": 1200
+        },
+        {
+          "item": "Mouse",
+          "amount": 25
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Bob Smith",
+      "age": 45,
+      "email": "bob.smith@example.com",
+      "purchases": [
+        {
+          "item": "Desk",
+          "amount": 300
+        },
+        {
+          "item": "Chair",
+          "amount": 150
+        }
+      ]
+    }
+  ]
+}
