@@ -1,0 +1,26 @@
+{
+  "customers": [
+    {
+      "customerId": "C001",
+      "name": "John Doe",
+      "phone": "123-456-7890",
+      "plan": "Premium",
+      "usage": {
+        "data": 15,
+        "calls": 200,
+        "texts": 100
+      }
+    },
+    {
+      "customerId": "C002",
+      "name": "Jane Smith",
+      "phone": "987-654-3210",
+      "plan": "Basic",
+      "usage": {
+        "data": 5,
+        "calls": 50,
+        "texts": 30
+      }
+    }
+  ]
+}
