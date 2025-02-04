@@ -1,0 +1,19 @@
+{
+  "customer_summary": [
+    {
+      "customer_id": 1,
+      "total_spent": 1225,
+      "average_purchase": 612.5
+    },
+    {
+      "customer_id": 2,
+      "total_spent": 675,
+      "average_purchase": 337.5
+    },
+    {
+      "customer_id": 3,
+      "total_spent": 820,
+      "average_purchase": 410
+    }
+  ]
+}
