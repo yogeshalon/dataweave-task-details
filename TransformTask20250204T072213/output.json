@@ -1,0 +1,13 @@
+{
+  "averageTemperature": 76.67,
+  "citiesWithHighHumidity": [
+    {
+      "city": "New York",
+      "humidity": 60
+    },
+    {
+      "city": "Chicago",
+      "humidity": 55
+    }
+  ]
+}
