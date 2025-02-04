@@ -1,0 +1,22 @@
+{
+  "weatherData": [
+    {
+      "city": "New York",
+      "temperature": 75,
+      "humidity": 60,
+      "date": "2023-10-01"
+    },
+    {
+      "city": "Los Angeles",
+      "temperature": 85,
+      "humidity": 30,
+      "date": "2023-10-01"
+    },
+    {
+      "city": "Chicago",
+      "temperature": 70,
+      "humidity": 55,
+      "date": "2023-10-01"
+    }
+  ]
+}
