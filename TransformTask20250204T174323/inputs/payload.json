@@ -1,0 +1,32 @@
+{
+  "transactions": [
+    {
+      "id": 1,
+      "property": {
+        "type": "Apartment",
+        "location": "Downtown",
+        "price": 300000,
+        "size": 850
+      },
+      "date": "2023-10-01",
+      "agent": {
+        "name": "John Doe",
+        "commissionRate": 0.05
+      }
+    },
+    {
+      "id": 2,
+      "property": {
+        "type": "House",
+        "location": "Suburbs",
+        "price": 500000,
+        "size": 2000
+      },
+      "date": "2023-10-15",
+      "agent": {
+        "name": "Jane Smith",
+        "commissionRate": 0.06
+      }
+    }
+  ]
+}
