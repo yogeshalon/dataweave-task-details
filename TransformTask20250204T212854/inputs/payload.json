@@ -1,0 +1,25 @@
+{
+  "reservations": [
+    {
+      "id": 1,
+      "customerName": "John Doe",
+      "travelDate": "2023-10-15",
+      "destination": "New York",
+      "price": 250.75
+    },
+    {
+      "id": 2,
+      "customerName": "Jane Smith",
+      "travelDate": "2023-10-20",
+      "destination": "Los Angeles",
+      "price": 300.5
+    },
+    {
+      "id": 3,
+      "customerName": "Alice Johnson",
+      "travelDate": "2023-10-25",
+      "destination": "Chicago",
+      "price": 150
+    }
+  ]
+}
