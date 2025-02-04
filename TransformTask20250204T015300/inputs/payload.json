@@ -1,0 +1,28 @@
+{
+  "reservations": [
+    {
+      "id": "R001",
+      "customer": {
+        "name": "John Doe",
+        "email": "john.doe@example.com"
+      },
+      "flight": {
+        "departure": "2023-10-15T10:00:00Z",
+        "arrival": "2023-10-15T12:30:00Z",
+        "price": 299.99
+      }
+    },
+    {
+      "id": "R002",
+      "customer": {
+        "name": "Jane Smith",
+        "email": "jane.smith@example.com"
+      },
+      "flight": {
+        "departure": "2023-10-16T14:00:00Z",
+        "arrival": "2023-10-16T16:30:00Z",
+        "price": 349.99
+      }
+    }
+  ]
+}
