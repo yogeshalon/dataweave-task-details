@@ -1,0 +1,14 @@
+{
+  "summary": [
+    {
+      "customerId": "C123",
+      "totalSpent": 201,
+      "transactionCount": 2
+    },
+    {
+      "customerId": "C124",
+      "totalSpent": 200,
+      "transactionCount": 1
+    }
+  ]
+}
