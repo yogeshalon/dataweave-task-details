@@ -1,0 +1,25 @@
+{
+  "transactions": [
+    {
+      "transactionId": "T001",
+      "customerId": "C123",
+      "amount": 150.75,
+      "currency": "USD",
+      "date": "2023-10-01"
+    },
+    {
+      "transactionId": "T002",
+      "customerId": "C124",
+      "amount": 200,
+      "currency": "USD",
+      "date": "2023-10-02"
+    },
+    {
+      "transactionId": "T003",
+      "customerId": "C123",
+      "amount": 50.25,
+      "currency": "USD",
+      "date": "2023-10-03"
+    }
+  ]
+}
