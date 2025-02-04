@@ -1,0 +1,24 @@
+{
+  "summary": [
+    {
+      "customerId": "C001",
+      "name": "John Doe",
+      "totalUsage": {
+        "dataGB": 15,
+        "totalCalls": 200,
+        "totalTexts": 100,
+        "planType": "Premium"
+      }
+    },
+    {
+      "customerId": "C002",
+      "name": "Jane Smith",
+      "totalUsage": {
+        "dataGB": 5,
+        "totalCalls": 50,
+        "totalTexts": 30,
+        "planType": "Basic"
+      }
+    }
+  ]
+}
