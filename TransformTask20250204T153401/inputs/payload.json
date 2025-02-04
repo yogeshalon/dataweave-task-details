@@ -1,0 +1,49 @@
+{
+  "manufacturingProcesses": [
+    {
+      "processId": 1,
+      "name": "Welding",
+      "duration": 30,
+      "resources": [
+        {
+          "resourceId": "R1",
+          "quantity": 5
+        },
+        {
+          "resourceId": "R2",
+          "quantity": 3
+        }
+      ]
+    },
+    {
+      "processId": 2,
+      "name": "Painting",
+      "duration": 20,
+      "resources": [
+        {
+          "resourceId": "R1",
+          "quantity": 2
+        },
+        {
+          "resourceId": "R3",
+          "quantity": 4
+        }
+      ]
+    },
+    {
+      "processId": 3,
+      "name": "Assembly",
+      "duration": 45,
+      "resources": [
+        {
+          "resourceId": "R2",
+          "quantity": 1
+        },
+        {
+          "resourceId": "R3",
+          "quantity": 2
+        }
+      ]
+    }
+  ]
+}
