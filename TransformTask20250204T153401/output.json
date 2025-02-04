@@ -1,0 +1,15 @@
+{
+  "totalDuration": 95,
+  "processesWithResourceR1": [
+    {
+      "processId": 1,
+      "name": "Welding",
+      "resourcesUsed": 5
+    },
+    {
+      "processId": 2,
+      "name": "Painting",
+      "resourcesUsed": 2
+    }
+  ]
+}
