@@ -1,0 +1,14 @@
+{
+  "topStudents": [
+    {
+      "id": 2,
+      "name": "Bob Smith",
+      "averageGrade": 91.67
+    },
+    {
+      "id": 1,
+      "name": "Alice Johnson",
+      "averageGrade": 84.33
+    }
+  ]
+}
