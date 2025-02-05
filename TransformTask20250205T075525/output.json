@@ -1,0 +1,16 @@
+{
+  "averageGrades": [
+    {
+      "year": 2020,
+      "averageMath": 77.5,
+      "averageScience": 82.5,
+      "averageEnglish": 79
+    },
+    {
+      "year": 2021,
+      "averageMath": 92,
+      "averageScience": 88,
+      "averageEnglish": 95
+    }
+  ]
+}
