@@ -1,0 +1,31 @@
+{
+  "students": [
+    {
+      "id": 1,
+      "name": "Alice Johnson",
+      "grades": [
+        85,
+        90,
+        78
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Bob Smith",
+      "grades": [
+        92,
+        88,
+        95
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Charlie Brown",
+      "grades": [
+        70,
+        75,
+        80
+      ]
+    }
+  ]
+}
