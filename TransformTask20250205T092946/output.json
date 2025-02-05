@@ -1,0 +1,16 @@
+{
+  "campaigns": [
+    {
+      "id": 1,
+      "name": "Summer Sale",
+      "durationDays": 29,
+      "remainingBudget": 500
+    },
+    {
+      "id": 2,
+      "name": "Back to School",
+      "durationDays": 30,
+      "remainingBudget": 4000
+    }
+  ]
+}
