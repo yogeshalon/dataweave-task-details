@@ -1,0 +1,14 @@
+{
+  "suppliers": [
+    {
+      "supplierId": "S001",
+      "supplierName": "Supplier A",
+      "totalValue": 3300
+    },
+    {
+      "supplierId": "S002",
+      "supplierName": "Supplier B",
+      "totalValue": 6900
+    }
+  ]
+}
