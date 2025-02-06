@@ -1,0 +1,38 @@
+{
+  "suppliers": [
+    {
+      "id": "S001",
+      "name": "Supplier A",
+      "location": "New York",
+      "products": [
+        {
+          "productId": "P001",
+          "quantity": 100,
+          "price": 10.5
+        },
+        {
+          "productId": "P002",
+          "quantity": 200,
+          "price": 15
+        }
+      ]
+    },
+    {
+      "id": "S002",
+      "name": "Supplier B",
+      "location": "Los Angeles",
+      "products": [
+        {
+          "productId": "P001",
+          "quantity": 150,
+          "price": 11
+        },
+        {
+          "productId": "P003",
+          "quantity": 300,
+          "price": 20
+        }
+      ]
+    }
+  ]
+}
