@@ -1,0 +1,25 @@
+{
+  "employees": [
+    {
+      "id": 1,
+      "name": "John Doe",
+      "department": "Sales",
+      "salary": 60000,
+      "join_date": "2020-01-15"
+    },
+    {
+      "id": 2,
+      "name": "Jane Smith",
+      "department": "Marketing",
+      "salary": 75000,
+      "join_date": "2019-03-22"
+    },
+    {
+      "id": 3,
+      "name": "Emily Johnson",
+      "department": "Sales",
+      "salary": 50000,
+      "join_date": "2021-07-30"
+    }
+  ]
+}
