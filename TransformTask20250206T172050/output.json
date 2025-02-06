@@ -1,0 +1,17 @@
+{
+  "sales_employees": [
+    {
+      "id": 1,
+      "name": "John Doe",
+      "salary": 60000,
+      "years_with_company": 3
+    },
+    {
+      "id": 3,
+      "name": "Emily Johnson",
+      "salary": 50000,
+      "years_with_company": 2
+    }
+  ],
+  "average_salary_sales": 55000
+}
