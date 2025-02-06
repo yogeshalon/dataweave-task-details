@@ -1,0 +1,22 @@
+{
+  "summary": {
+    "totalPosts": 2,
+    "totalLikes": 350,
+    "totalShares": 80,
+    "averageLikesPerPost": 175,
+    "mostEngagedPost": {
+      "id": 1,
+      "engagementScore": 180
+    }
+  },
+  "topComments": [
+    {
+      "user": "Alice",
+      "text": "Great update!"
+    },
+    {
+      "user": "Bob",
+      "text": "Can't wait to try it!"
+    }
+  ]
+}
