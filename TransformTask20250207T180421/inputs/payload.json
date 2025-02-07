@@ -1,0 +1,22 @@
+{
+  "customers": [
+    {
+      "customerId": "C001",
+      "name": "John Doe",
+      "phone": "+1234567890",
+      "dataUsage": {
+        "month": "2023-10",
+        "usageInGB": 15.5
+      }
+    },
+    {
+      "customerId": "C002",
+      "name": "Jane Smith",
+      "phone": "+0987654321",
+      "dataUsage": {
+        "month": "2023-10",
+        "usageInGB": 25
+      }
+    }
+  ]
+}
