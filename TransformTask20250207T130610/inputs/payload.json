@@ -1,0 +1,22 @@
+{
+  "customers": [
+    {
+      "id": 1,
+      "name": "John Doe",
+      "phone": "+1234567890",
+      "subscription": {
+        "type": "Premium",
+        "status": "Active"
+      }
+    },
+    {
+      "id": 2,
+      "name": "Jane Smith",
+      "phone": "+0987654321",
+      "subscription": {
+        "type": "Basic",
+        "status": "Inactive"
+      }
+    }
+  ]
+}
