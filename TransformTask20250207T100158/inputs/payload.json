@@ -1,0 +1,44 @@
+{
+  "devices": [
+    {
+      "deviceId": "D001",
+      "metrics": [
+        {
+          "timestamp": "2023-10-01T10:00:00Z",
+          "temperature": 72,
+          "humidity": 45
+        },
+        {
+          "timestamp": "2023-10-01T11:00:00Z",
+          "temperature": 75,
+          "humidity": 50
+        },
+        {
+          "timestamp": "2023-10-01T12:00:00Z",
+          "temperature": 70,
+          "humidity": 40
+        }
+      ]
+    },
+    {
+      "deviceId": "D002",
+      "metrics": [
+        {
+          "timestamp": "2023-10-01T10:00:00Z",
+          "temperature": 68,
+          "humidity": 55
+        },
+        {
+          "timestamp": "2023-10-01T11:00:00Z",
+          "temperature": 70,
+          "humidity": 60
+        },
+        {
+          "timestamp": "2023-10-01T12:00:00Z",
+          "temperature": 69,
+          "humidity": 58
+        }
+      ]
+    }
+  ]
+}
