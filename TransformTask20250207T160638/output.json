@@ -1,0 +1,20 @@
+{
+  "summary": [
+    {
+      "transactionId": "T001",
+      "totalCommission": 15000,
+      "propertyDetails": {
+        "type": "Apartment",
+        "location": "Downtown"
+      }
+    },
+    {
+      "transactionId": "T002",
+      "totalCommission": 27000,
+      "propertyDetails": {
+        "type": "House",
+        "location": "Suburbs"
+      }
+    }
+  ]
+}
