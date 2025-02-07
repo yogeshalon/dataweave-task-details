@@ -1,0 +1,15 @@
+{
+  "totalRevenue": 900,
+  "reservations": [
+    {
+      "customer": "John Doe",
+      "stayDuration": 4,
+      "totalPrice": 600
+    },
+    {
+      "customer": "Jane Smith",
+      "stayDuration": 4,
+      "totalPrice": 400
+    }
+  ]
+}
