@@ -1,0 +1,20 @@
+{
+  "totalValue": 11500,
+  "products": [
+    {
+      "id": 1,
+      "name": "Widget A",
+      "totalPrice": 2500
+    },
+    {
+      "id": 2,
+      "name": "Widget B",
+      "totalPrice": 6000
+    },
+    {
+      "id": 3,
+      "name": "Gadget C",
+      "totalPrice": 6750
+    }
+  ]
+}
