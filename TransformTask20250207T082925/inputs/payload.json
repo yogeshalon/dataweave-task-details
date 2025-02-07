@@ -1,0 +1,16 @@
+{
+  "customers": [
+    {
+      "id": "C001",
+      "name": "Alice Johnson",
+      "phone": "123-456-7890",
+      "account_balance": 150.75
+    },
+    {
+      "id": "C002",
+      "name": "Bob Smith",
+      "phone": "987-654-3210",
+      "account_balance": 200.5
+    }
+  ]
+}
