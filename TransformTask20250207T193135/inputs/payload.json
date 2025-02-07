@@ -1,0 +1,16 @@
+{
+  "reservations": [
+    {
+      "reservationId": "R123",
+      "customerName": "John Doe",
+      "checkInDate": "2023-10-01",
+      "checkOutDate": "2023-10-05"
+    },
+    {
+      "reservationId": "R124",
+      "customerName": "Jane Smith",
+      "checkInDate": "2023-10-03",
+      "checkOutDate": "2023-10-07"
+    }
+  ]
+}
