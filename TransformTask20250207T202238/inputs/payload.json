@@ -1,0 +1,16 @@
+{
+  "customers": [
+    {
+      "customerId": "C001",
+      "name": "John Doe",
+      "subscriptionDate": "2022-01-15T10:00:00Z",
+      "lastPayment": 50.75
+    },
+    {
+      "customerId": "C002",
+      "name": "Jane Smith",
+      "subscriptionDate": "2021-05-20T10:00:00Z",
+      "lastPayment": 75
+    }
+  ]
+}
