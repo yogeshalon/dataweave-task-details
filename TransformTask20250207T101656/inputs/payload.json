@@ -1,0 +1,40 @@
+{
+  "devices": [
+    {
+      "deviceId": "D001",
+      "location": "Warehouse A",
+      "metrics": [
+        {
+          "timestamp": "2023-10-01T08:00:00Z",
+          "temperature": 22.5,
+          "humidity": 45,
+          "batteryLevel": 80
+        },
+        {
+          "timestamp": "2023-10-01T09:00:00Z",
+          "temperature": 23,
+          "humidity": 50,
+          "batteryLevel": 75
+        }
+      ]
+    },
+    {
+      "deviceId": "D002",
+      "location": "Warehouse B",
+      "metrics": [
+        {
+          "timestamp": "2023-10-01T08:00:00Z",
+          "temperature": 21,
+          "humidity": 40,
+          "batteryLevel": 90
+        },
+        {
+          "timestamp": "2023-10-01T09:00:00Z",
+          "temperature": 21.5,
+          "humidity": 42,
+          "batteryLevel": 85
+        }
+      ]
+    }
+  ]
+}
