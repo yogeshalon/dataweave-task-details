@@ -1,0 +1,22 @@
+{
+  "employees": [
+    {
+      "id": 1,
+      "name": "John Doe",
+      "salary": 50000,
+      "bonusPercentage": 10
+    },
+    {
+      "id": 2,
+      "name": "Jane Smith",
+      "salary": 60000,
+      "bonusPercentage": 15
+    },
+    {
+      "id": 3,
+      "name": "Emily Johnson",
+      "salary": 55000,
+      "bonusPercentage": 12
+    }
+  ]
+}
