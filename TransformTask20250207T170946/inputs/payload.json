@@ -1,0 +1,19 @@
+{
+  "supplies": [
+    {
+      "item": "Widget A",
+      "quantity": 100,
+      "deliveryDate": "2023-10-01"
+    },
+    {
+      "item": "Widget B",
+      "quantity": 50,
+      "deliveryDate": "2023-09-15"
+    },
+    {
+      "item": "Widget C",
+      "quantity": 200,
+      "deliveryDate": "2023-10-05"
+    }
+  ]
+}
