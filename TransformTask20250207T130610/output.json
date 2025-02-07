@@ -1,0 +1,9 @@
+{
+  "activeCustomers": [
+    {
+      "customerId": 1,
+      "fullName": "John Doe",
+      "contactNumber": "+1234567890"
+    }
+  ]
+}
