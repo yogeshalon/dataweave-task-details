@@ -1,0 +1,14 @@
+{
+  "reservations": [
+    {
+      "reservationId": "R123",
+      "customerName": "John Doe",
+      "duration": 4
+    },
+    {
+      "reservationId": "R124",
+      "customerName": "Jane Smith",
+      "duration": 4
+    }
+  ]
+}
