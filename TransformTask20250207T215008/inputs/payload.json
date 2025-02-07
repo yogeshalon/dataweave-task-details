@@ -1,0 +1,22 @@
+{
+  "vehicles": [
+    {
+      "id": "V001",
+      "licensePlate": "ABC123",
+      "driver": "John Doe",
+      "location": {
+        "latitude": 34.0522,
+        "longitude": -118.2437
+      }
+    },
+    {
+      "id": "V002",
+      "licensePlate": "XYZ789",
+      "driver": "Jane Smith",
+      "location": {
+        "latitude": 40.7128,
+        "longitude": -74.006
+      }
+    }
+  ]
+}
