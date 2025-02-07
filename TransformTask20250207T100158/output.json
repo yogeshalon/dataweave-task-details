@@ -1,0 +1,21 @@
+{
+  "averageMetrics": [
+    {
+      "deviceId": "D001",
+      "averageTemperature": 72.33,
+      "averageHumidity": 45
+    },
+    {
+      "deviceId": "D002",
+      "averageTemperature": 69,
+      "averageHumidity": 57.67
+    }
+  ],
+  "highHumidityAlerts": [
+    {
+      "deviceId": "D002",
+      "timestamp": "2023-10-01T11:00:00Z",
+      "humidity": 60
+    }
+  ]
+}
