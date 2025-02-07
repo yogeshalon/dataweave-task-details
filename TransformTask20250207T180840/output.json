@@ -1,0 +1,19 @@
+{
+  "employees": [
+    {
+      "id": 1,
+      "name": "John Doe",
+      "totalCompensation": 55000
+    },
+    {
+      "id": 2,
+      "name": "Jane Smith",
+      "totalCompensation": 69000
+    },
+    {
+      "id": 3,
+      "name": "Emily Johnson",
+      "totalCompensation": 61600
+    }
+  ]
+}
