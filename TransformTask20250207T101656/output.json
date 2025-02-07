@@ -1,0 +1,28 @@
+{
+  "aggregatedData": [
+    {
+      "deviceId": "D001",
+      "averageTemperature": 22.75,
+      "averageHumidity": 47.5,
+      "batteryStatus": "Good"
+    },
+    {
+      "deviceId": "D002",
+      "averageTemperature": 21.25,
+      "averageHumidity": 41,
+      "batteryStatus": "Good"
+    }
+  ],
+  "alerts": [
+    {
+      "deviceId": "D001",
+      "alertType": "Battery Low",
+      "message": "Battery level below 80%"
+    },
+    {
+      "deviceId": "D002",
+      "alertType": null,
+      "message": null
+    }
+  ]
+}
