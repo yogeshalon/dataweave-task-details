@@ -1,0 +1,39 @@
+{
+  "claims": [
+    {
+      "claimId": "C001",
+      "policyHolder": {
+        "name": "John Doe",
+        "age": 35,
+        "location": "New York"
+      },
+      "claimAmount": 15000,
+      "status": "approved",
+      "incidentDate": "2023-01-15",
+      "settlementDate": "2023-02-01"
+    },
+    {
+      "claimId": "C002",
+      "policyHolder": {
+        "name": "Jane Smith",
+        "age": 28,
+        "location": "Los Angeles"
+      },
+      "claimAmount": 20000,
+      "status": "pending",
+      "incidentDate": "2023-03-10"
+    },
+    {
+      "claimId": "C003",
+      "policyHolder": {
+        "name": "Emily Johnson",
+        "age": 42,
+        "location": "Chicago"
+      },
+      "claimAmount": 5000,
+      "status": "denied",
+      "incidentDate": "2023-02-20",
+      "settlementDate": "2023-03-05"
+    }
+  ]
+}
