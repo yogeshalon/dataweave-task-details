@@ -1,0 +1,30 @@
+{
+  "transactions": [
+    {
+      "id": "T001",
+      "property": {
+        "type": "Apartment",
+        "location": "Downtown",
+        "price": 300000,
+        "size": 1200
+      },
+      "agent": {
+        "name": "John Doe",
+        "commissionRate": 0.05
+      }
+    },
+    {
+      "id": "T002",
+      "property": {
+        "type": "House",
+        "location": "Suburbs",
+        "price": 450000,
+        "size": 2500
+      },
+      "agent": {
+        "name": "Jane Smith",
+        "commissionRate": 0.06
+      }
+    }
+  ]
+}
