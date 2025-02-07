@@ -1,0 +1,19 @@
+{
+  "weatherSummary": [
+    {
+      "city": "New York",
+      "temperatureF": 77,
+      "isHumid": true
+    },
+    {
+      "city": "Los Angeles",
+      "temperatureF": 86,
+      "isHumid": false
+    },
+    {
+      "city": "Chicago",
+      "temperatureF": 68,
+      "isHumid": true
+    }
+  ]
+}
