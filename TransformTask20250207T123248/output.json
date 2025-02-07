@@ -1,0 +1,18 @@
+{
+  "reservationsSummary": [
+    {
+      "customer": "John Doe",
+      "totalDurationHours": 4,
+      "totalNights": 5,
+      "checkInDate": "2023-10-15",
+      "checkOutDate": "2023-10-20"
+    },
+    {
+      "customer": "Jane Smith",
+      "totalDurationHours": 4,
+      "totalNights": 5,
+      "checkInDate": "2023-10-16",
+      "checkOutDate": "2023-10-21"
+    }
+  ]
+}
