@@ -1,0 +1,14 @@
+{
+  "summary": {
+    "totalClaims": 3,
+    "approvedClaims": 1,
+    "pendingClaims": 1,
+    "deniedClaims": 1,
+    "averageClaimAmount": 10000,
+    "claimsByLocation": {
+      "New York": 1,
+      "Los Angeles": 1,
+      "Chicago": 1
+    }
+  }
+}
