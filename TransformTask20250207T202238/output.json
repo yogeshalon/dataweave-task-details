@@ -1,0 +1,16 @@
+{
+  "activeCustomers": [
+    {
+      "id": "C001",
+      "fullName": "John Doe",
+      "subscriptionYear": 2022,
+      "paymentStatus": "Paid"
+    },
+    {
+      "id": "C002",
+      "fullName": "Jane Smith",
+      "subscriptionYear": 2021,
+      "paymentStatus": "Paid"
+    }
+  ]
+}
