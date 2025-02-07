@@ -1,0 +1,27 @@
+{
+  "completedOrders": [
+    {
+      "orderId": "MO124",
+      "product": "Widget B",
+      "quantity": 200,
+      "completionDate": "2023-10-20T17:00:00Z",
+      "daysLate": 0
+    }
+  ],
+  "inProgressOrders": [
+    {
+      "orderId": "MO123",
+      "product": "Widget A",
+      "quantity": 100,
+      "daysRemaining": 14
+    }
+  ],
+  "pendingOrders": [
+    {
+      "orderId": "MO125",
+      "product": "Widget C",
+      "quantity": 150,
+      "daysUntilDue": 15
+    }
+  ]
+}
