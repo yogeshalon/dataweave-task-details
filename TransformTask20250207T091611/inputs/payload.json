@@ -1,0 +1,22 @@
+{
+  "products": [
+    {
+      "id": "P001",
+      "name": "Wireless Mouse",
+      "description": "Ergonomic wireless mouse with long battery life.",
+      "category": "Electronics"
+    },
+    {
+      "id": "P002",
+      "name": "Bluetooth Headphones",
+      "description": "Noise-cancelling over-ear headphones.",
+      "category": "Electronics"
+    },
+    {
+      "id": "P003",
+      "name": "Office Chair",
+      "description": "Adjustable office chair with lumbar support.",
+      "category": "Furniture"
+    }
+  ]
+}
