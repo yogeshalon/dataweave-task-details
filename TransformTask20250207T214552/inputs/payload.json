@@ -1,0 +1,16 @@
+{
+  "subscriptions": [
+    {
+      "userId": "U001",
+      "subscriptionDate": "2023-01-15T10:00:00Z",
+      "plan": "Premium",
+      "renewalDate": "2024-01-15T10:00:00Z"
+    },
+    {
+      "userId": "U002",
+      "subscriptionDate": "2023-02-20T12:00:00Z",
+      "plan": "Basic",
+      "renewalDate": "2024-02-20T12:00:00Z"
+    }
+  ]
+}
