@@ -1,0 +1,25 @@
+{
+  "customerAnalytics": [
+    {
+      "customerId": "C001",
+      "name": "John Doe",
+      "totalSpent": 350,
+      "averageSpent": 175,
+      "loyaltyTier": "Silver"
+    },
+    {
+      "customerId": "C002",
+      "name": "Jane Smith",
+      "totalSpent": 300,
+      "averageSpent": 300,
+      "loyaltyTier": "Gold"
+    },
+    {
+      "customerId": "C003",
+      "name": "Alice Johnson",
+      "totalSpent": 550,
+      "averageSpent": 275,
+      "loyaltyTier": "Gold"
+    }
+  ]
+}
