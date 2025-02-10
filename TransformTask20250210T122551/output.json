@@ -1,0 +1,22 @@
+{
+  "summary": [
+    {
+      "patientId": 1,
+      "name": "John Doe",
+      "ageGroup": "30-39",
+      "hasChronicCondition": true
+    },
+    {
+      "patientId": 2,
+      "name": "Jane Smith",
+      "ageGroup": "40-49",
+      "hasChronicCondition": false
+    },
+    {
+      "patientId": 3,
+      "name": "Emily Johnson",
+      "ageGroup": "60-69",
+      "hasChronicCondition": true
+    }
+  ]
+}
