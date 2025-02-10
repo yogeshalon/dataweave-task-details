@@ -1,0 +1,32 @@
+{
+  "patients": [
+    {
+      "id": 1,
+      "name": "John Doe",
+      "age": 30,
+      "conditions": [
+        "Hypertension",
+        "Diabetes"
+      ],
+      "lastVisit": "2023-09-15"
+    },
+    {
+      "id": 2,
+      "name": "Jane Smith",
+      "age": 45,
+      "conditions": [
+        "Asthma"
+      ],
+      "lastVisit": "2023-08-20"
+    },
+    {
+      "id": 3,
+      "name": "Emily Johnson",
+      "age": 60,
+      "conditions": [
+        "Hypertension"
+      ],
+      "lastVisit": "2023-09-10"
+    }
+  ]
+}
