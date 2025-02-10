@@ -1,0 +1,15 @@
+{
+  "aggregatedSuppliers": [
+    {
+      "supplierId": "S001",
+      "totalProducts": 2,
+      "totalValue": 3300
+    },
+    {
+      "supplierId": "S002",
+      "totalProducts": 2,
+      "totalValue": 7500
+    }
+  ],
+  "overallTotalValue": 10800
+}
