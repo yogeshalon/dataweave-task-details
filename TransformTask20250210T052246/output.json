@@ -1,0 +1,20 @@
+[
+  {
+    "studentId": 1,
+    "name": "Alice",
+    "averageGrade": 84.33,
+    "status": "Passed"
+  },
+  {
+    "studentId": 2,
+    "name": "Bob",
+    "averageGrade": 91.67,
+    "status": "Passed"
+  },
+  {
+    "studentId": 3,
+    "name": "Charlie",
+    "averageGrade": 75,
+    "status": "Passed"
+  }
+]
