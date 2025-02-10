@@ -1,0 +1,32 @@
+[
+  {
+    "studentId": 1,
+    "name": "Alice",
+    "grades": [
+      85,
+      90,
+      78
+    ],
+    "enrollmentYear": 2020
+  },
+  {
+    "studentId": 2,
+    "name": "Bob",
+    "grades": [
+      92,
+      88,
+      95
+    ],
+    "enrollmentYear": 2021
+  },
+  {
+    "studentId": 3,
+    "name": "Charlie",
+    "grades": [
+      70,
+      75,
+      80
+    ],
+    "enrollmentYear": 2020
+  }
+]
