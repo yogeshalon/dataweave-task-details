@@ -1,0 +1,19 @@
+{
+  "groupedProducts": [
+    {
+      "category": "Electronics",
+      "totalValue": 1850,
+      "totalQuantity": 15
+    },
+    {
+      "category": "Furniture",
+      "totalValue": 1050,
+      "totalQuantity": 3
+    },
+    {
+      "category": "Clothing",
+      "totalValue": 1000,
+      "totalQuantity": 20
+    }
+  ]
+}
