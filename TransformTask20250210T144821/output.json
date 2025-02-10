@@ -1,0 +1,10 @@
+{
+  "activeCampaigns": [
+    {
+      "id": 1,
+      "name": "Spring Sale",
+      "duration": 30,
+      "budget": 5000
+    }
+  ]
+}
