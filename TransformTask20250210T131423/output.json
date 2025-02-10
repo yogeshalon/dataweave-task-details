@@ -1,0 +1,14 @@
+{
+  "filteredWeatherData": [
+    {
+      "city": "New York",
+      "temperature": 75,
+      "humidity": 60
+    },
+    {
+      "city": "Los Angeles",
+      "temperature": 85,
+      "humidity": 50
+    }
+  ]
+}
