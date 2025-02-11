@@ -1,0 +1,25 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Industrial Drill",
+      "description": "High precision drill for metal work",
+      "category": "Tools",
+      "price": 299.99
+    },
+    {
+      "id": 2,
+      "name": "CNC Machine",
+      "description": "Computerized machine for manufacturing",
+      "category": "Machinery",
+      "price": 15000
+    },
+    {
+      "id": 3,
+      "name": "Welding Torch",
+      "description": "Portable welding torch for fieldwork",
+      "category": "Tools",
+      "price": 199.99
+    }
+  ]
+}
