@@ -1,0 +1,17 @@
+{
+  "totalApprovedAmount": 6000,
+  "approvedClaims": [
+    {
+      "claimId": 1,
+      "amount": 1000
+    },
+    {
+      "claimId": 2,
+      "amount": 2000
+    },
+    {
+      "claimId": 4,
+      "amount": 3000
+    }
+  ]
+}
