@@ -1,0 +1,20 @@
+[
+  {
+    "deviceId": "device001",
+    "temperature": 72,
+    "humidity": 45,
+    "timestamp": "2023-10-01T12:00:00Z"
+  },
+  {
+    "deviceId": "device002",
+    "temperature": 68,
+    "humidity": 50,
+    "timestamp": "2023-10-01T12:05:00Z"
+  },
+  {
+    "deviceId": "device003",
+    "temperature": 75,
+    "humidity": 40,
+    "timestamp": "2023-10-01T12:10:00Z"
+  }
+]
