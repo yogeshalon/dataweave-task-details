@@ -1,0 +1,16 @@
+{
+  "reservations": [
+    {
+      "id": "R12345",
+      "customerName": "John",
+      "flightNumber": "AA1234",
+      "departureDate": "2023-10-15"
+    },
+    {
+      "id": "R12346",
+      "customerName": "Jane",
+      "flightNumber": "DL5678",
+      "departureDate": "2023-10-16"
+    }
+  ]
+}
