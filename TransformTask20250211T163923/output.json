@@ -1,0 +1,22 @@
+{
+  "products": [
+    {
+      "productId": "P001",
+      "productName": "Widget A",
+      "productPrice": 25.5,
+      "productLink": "http://example.com/products/P001"
+    },
+    {
+      "productId": "P002",
+      "productName": "Widget B",
+      "productPrice": 15.75,
+      "productLink": "http://example.com/products/P002"
+    },
+    {
+      "productId": "P003",
+      "productName": "Widget C",
+      "productPrice": 30,
+      "productLink": "http://example.com/products/P003"
+    }
+  ]
+}
