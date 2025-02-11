@@ -1,0 +1,22 @@
+{
+  "inventory": [
+    {
+      "itemId": "A123",
+      "itemName": "Widget",
+      "quantity": 150,
+      "lastUpdated": "2023-10-01T12:00:00Z"
+    },
+    {
+      "itemId": "B456",
+      "itemName": "Gadget",
+      "quantity": 75,
+      "lastUpdated": "2023-10-02T12:00:00Z"
+    },
+    {
+      "itemId": "C789",
+      "itemName": "Thingamajig",
+      "quantity": 0,
+      "lastUpdated": "2023-09-30T12:00:00Z"
+    }
+  ]
+}
