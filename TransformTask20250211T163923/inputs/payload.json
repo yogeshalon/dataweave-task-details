@@ -1,0 +1,22 @@
+{
+  "products": [
+    {
+      "id": "P001",
+      "name": "Widget A",
+      "price": "25.50",
+      "url": "http://example.com/products/P001"
+    },
+    {
+      "id": "P002",
+      "name": "Widget B",
+      "price": "15.75",
+      "url": "http://example.com/products/P002"
+    },
+    {
+      "id": "P003",
+      "name": "Widget C",
+      "price": "30.00",
+      "url": "http://example.com/products/P003"
+    }
+  ]
+}
