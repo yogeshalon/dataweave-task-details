@@ -1,0 +1,30 @@
+{
+  "totalValue": 1150,
+  "items": [
+    {
+      "itemId": "A001",
+      "itemName": "Widget A",
+      "totalValue": 375
+    },
+    {
+      "itemId": "A002",
+      "itemName": "Widget B",
+      "totalValue": 300
+    },
+    {
+      "itemId": "B001",
+      "itemName": "Gadget A",
+      "totalValue": 1000
+    }
+  ],
+  "categorySummary": {
+    "Widgets": {
+      "totalQuantity": 250,
+      "totalValue": 675
+    },
+    "Gadgets": {
+      "totalQuantity": 200,
+      "totalValue": 1000
+    }
+  }
+}
