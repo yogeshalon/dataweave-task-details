@@ -1,0 +1,34 @@
+{
+  "summary": {
+    "totalReservations": 2,
+    "totalFlightCost": 550,
+    "totalHotelCost": 800,
+    "totalCost": 1350,
+    "averageFlightCost": 275,
+    "averageHotelCostPerNight": 175,
+    "mostExpensiveHotel": {
+      "hotelName": "Beach Resort",
+      "totalCost": 1000
+    },
+    "cheapestFlight": {
+      "flightNumber": "FL789",
+      "price": 250
+    }
+  },
+  "detailedReservations": [
+    {
+      "reservationId": "R123",
+      "customerName": "John Doe",
+      "totalFlightCost": 300,
+      "totalHotelCost": 600,
+      "totalReservationCost": 900
+    },
+    {
+      "reservationId": "R124",
+      "customerName": "Jane Smith",
+      "totalFlightCost": 250,
+      "totalHotelCost": 1000,
+      "totalReservationCost": 1250
+    }
+  ]
+}
