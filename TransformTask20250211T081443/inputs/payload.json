@@ -1,0 +1,50 @@
+{
+  "reservations": [
+    {
+      "reservationId": "R123",
+      "customer": {
+        "name": "John Doe",
+        "email": "john.doe@example.com",
+        "phone": "+1234567890"
+      },
+      "flight": {
+        "flightNumber": "FL456",
+        "departure": "2023-10-01T10:00:00Z",
+        "arrival": "2023-10-01T14:00:00Z",
+        "origin": "New York",
+        "destination": "Los Angeles",
+        "price": 300
+      },
+      "hotel": {
+        "hotelName": "Grand Hotel",
+        "checkIn": "2023-10-01",
+        "checkOut": "2023-10-05",
+        "pricePerNight": 150,
+        "nights": 4
+      }
+    },
+    {
+      "reservationId": "R124",
+      "customer": {
+        "name": "Jane Smith",
+        "email": "jane.smith@example.com",
+        "phone": "+0987654321"
+      },
+      "flight": {
+        "flightNumber": "FL789",
+        "departure": "2023-10-02T09:00:00Z",
+        "arrival": "2023-10-02T13:00:00Z",
+        "origin": "Chicago",
+        "destination": "Miami",
+        "price": 250
+      },
+      "hotel": {
+        "hotelName": "Beach Resort",
+        "checkIn": "2023-10-02",
+        "checkOut": "2023-10-07",
+        "pricePerNight": 200,
+        "nights": 5
+      }
+    }
+  ]
+}
