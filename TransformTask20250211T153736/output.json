@@ -1,0 +1,20 @@
+[
+  {
+    "deviceId": "device001",
+    "status": "normal",
+    "temperature": 72,
+    "humidity": 45
+  },
+  {
+    "deviceId": "device002",
+    "status": "normal",
+    "temperature": 68,
+    "humidity": 50
+  },
+  {
+    "deviceId": "device003",
+    "status": "normal",
+    "temperature": 75,
+    "humidity": 40
+  }
+]
