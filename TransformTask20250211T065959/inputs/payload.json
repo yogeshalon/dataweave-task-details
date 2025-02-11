@@ -1,0 +1,25 @@
+{
+  "inventory": [
+    {
+      "itemId": "A001",
+      "itemName": "Widget A",
+      "quantity": 150,
+      "unitPrice": 2.5,
+      "category": "Widgets"
+    },
+    {
+      "itemId": "A002",
+      "itemName": "Widget B",
+      "quantity": 100,
+      "unitPrice": 3,
+      "category": "Widgets"
+    },
+    {
+      "itemId": "B001",
+      "itemName": "Gadget A",
+      "quantity": 200,
+      "unitPrice": 5,
+      "category": "Gadgets"
+    }
+  ]
+}
