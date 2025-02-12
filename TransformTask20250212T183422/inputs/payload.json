@@ -1,0 +1,24 @@
+{
+  "energyConsumption": [
+    {
+      "customerId": "C001",
+      "monthlyUsage": [
+        150,
+        200,
+        250,
+        300
+      ],
+      "ratePerKWh": 0.12
+    },
+    {
+      "customerId": "C002",
+      "monthlyUsage": [
+        100,
+        150,
+        200,
+        250
+      ],
+      "ratePerKWh": 0.15
+    }
+  ]
+}
