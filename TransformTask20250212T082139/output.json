@@ -1,0 +1,14 @@
+{
+  "fleet": [
+    {
+      "vehicleId": 1,
+      "vehicleMake": "Ford",
+      "vehicleModel": "F-150"
+    },
+    {
+      "vehicleId": 3,
+      "vehicleMake": "Ram",
+      "vehicleModel": "1500"
+    }
+  ]
+}
