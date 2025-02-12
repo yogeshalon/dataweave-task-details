@@ -1,0 +1,19 @@
+{
+  "summary": {
+    "totalTransactions": 2,
+    "totalSales": 800000,
+    "averageCommission": 0.055,
+    "transactions": [
+      {
+        "transactionId": "TX1001",
+        "agentName": "John Doe",
+        "commissionEarned": 17500
+      },
+      {
+        "transactionId": "TX1002",
+        "agentName": "Jane Smith",
+        "commissionEarned": 27000
+      }
+    ]
+  }
+}
