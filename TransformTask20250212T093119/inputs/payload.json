@@ -1,0 +1,36 @@
+{
+  "patients": [
+    {
+      "id": "P001",
+      "name": "John Doe",
+      "age": 45,
+      "visits": [
+        {
+          "date": "2023-01-15",
+          "diagnosis": "Hypertension",
+          "treatment": "Medication A",
+          "cost": 150
+        },
+        {
+          "date": "2023-03-10",
+          "diagnosis": "Diabetes",
+          "treatment": "Medication B",
+          "cost": 200
+        }
+      ]
+    },
+    {
+      "id": "P002",
+      "name": "Jane Smith",
+      "age": 30,
+      "visits": [
+        {
+          "date": "2023-02-20",
+          "diagnosis": "Flu",
+          "treatment": "Medication C",
+          "cost": 100
+        }
+      ]
+    }
+  ]
+}
