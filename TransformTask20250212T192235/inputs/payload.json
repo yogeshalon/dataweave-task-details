@@ -1,0 +1,32 @@
+{
+  "transactions": [
+    {
+      "transactionId": "TX1001",
+      "property": {
+        "address": "123 Elm St",
+        "price": 350000,
+        "type": "Single Family",
+        "size": 2000
+      },
+      "date": "2023-10-01",
+      "agent": {
+        "name": "John Doe",
+        "commissionRate": 0.05
+      }
+    },
+    {
+      "transactionId": "TX1002",
+      "property": {
+        "address": "456 Oak St",
+        "price": 450000,
+        "type": "Condo",
+        "size": 1500
+      },
+      "date": "2023-10-02",
+      "agent": {
+        "name": "Jane Smith",
+        "commissionRate": 0.06
+      }
+    }
+  ]
+}
