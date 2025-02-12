@@ -1,0 +1,14 @@
+{
+  "totalConsumption": [
+    {
+      "customerId": "C001",
+      "annualUsage": 900,
+      "annualCost": 108
+    },
+    {
+      "customerId": "C002",
+      "annualUsage": 700,
+      "annualCost": 105
+    }
+  ]
+}
