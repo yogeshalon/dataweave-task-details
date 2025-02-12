@@ -1,0 +1,38 @@
+{
+  "products": [
+    {
+      "id": "101",
+      "name": "Wireless Mouse",
+      "description": "Ergonomic wireless mouse with USB receiver",
+      "price": 29.99,
+      "category": "Electronics"
+    },
+    {
+      "id": "102",
+      "name": "Bluetooth Headphones",
+      "description": "Noise-cancelling over-ear headphones",
+      "price": 89.99,
+      "category": "Electronics"
+    },
+    {
+      "id": "103",
+      "name": "Gaming Keyboard",
+      "description": "Mechanical keyboard with customizable RGB lighting",
+      "price": 59.99,
+      "category": "Gaming"
+    }
+  ],
+  "totalProducts": 3,
+  "discountedProducts": [
+    {
+      "id": "101",
+      "name": "Wireless Mouse",
+      "priceAfterDiscount": 24.99
+    },
+    {
+      "id": "102",
+      "name": "Bluetooth Headphones",
+      "priceAfterDiscount": 79.99
+    }
+  ]
+}
