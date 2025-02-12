@@ -1,0 +1,9 @@
+{
+  "activeCustomers": [
+    {
+      "customerId": "C001",
+      "customerName": "Alice Johnson",
+      "totalSpent": 1225
+    }
+  ]
+}
