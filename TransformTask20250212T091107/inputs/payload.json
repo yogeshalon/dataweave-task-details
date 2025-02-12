@@ -1,0 +1,22 @@
+{
+  "customers": [
+    {
+      "id": "C001",
+      "name": "Alice Johnson",
+      "phone": "+1234567890",
+      "subscription": {
+        "type": "Premium",
+        "startDate": "2022-01-15"
+      }
+    },
+    {
+      "id": "C002",
+      "name": "Bob Smith",
+      "phone": "+0987654321",
+      "subscription": {
+        "type": "Basic",
+        "startDate": "2021-06-20"
+      }
+    }
+  ]
+}
