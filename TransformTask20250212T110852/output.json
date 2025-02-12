@@ -1,0 +1,10 @@
+{
+  "confirmedReservations": [
+    {
+      "reservationId": 1,
+      "passenger": "John Doe",
+      "flight": "AA123",
+      "departure": "2023-10-15T10:00:00Z"
+    }
+  ]
+}
