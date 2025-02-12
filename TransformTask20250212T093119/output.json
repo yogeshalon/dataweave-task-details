@@ -1,0 +1,18 @@
+{
+  "summary": [
+    {
+      "patientId": "P001",
+      "totalVisits": 2,
+      "totalCost": 350,
+      "averageCost": 175,
+      "mostRecentDiagnosis": "Diabetes"
+    },
+    {
+      "patientId": "P002",
+      "totalVisits": 1,
+      "totalCost": 100,
+      "averageCost": 100,
+      "mostRecentDiagnosis": "Flu"
+    }
+  ]
+}
