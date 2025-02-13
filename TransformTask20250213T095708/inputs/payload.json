@@ -1,0 +1,22 @@
+{
+  "vehicles": [
+    {
+      "id": "V001",
+      "type": "Truck",
+      "status": "active",
+      "lastServiceDate": "2023-08-15"
+    },
+    {
+      "id": "V002",
+      "type": "Van",
+      "status": "inactive",
+      "lastServiceDate": "2023-07-10"
+    },
+    {
+      "id": "V003",
+      "type": "Truck",
+      "status": "active",
+      "lastServiceDate": "2023-09-01"
+    }
+  ]
+}
