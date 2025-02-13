@@ -1,0 +1,12 @@
+{
+  "activeVehicles": [
+    {
+      "vehicleId": "V001",
+      "vehicleType": "Truck"
+    },
+    {
+      "vehicleId": "V003",
+      "vehicleType": "Truck"
+    }
+  ]
+}
