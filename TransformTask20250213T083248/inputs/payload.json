@@ -1,0 +1,25 @@
+{
+  "fleet": [
+    {
+      "vehicleId": "V001",
+      "model": "Ford Transit",
+      "lastServiceDate": "2023-01-15",
+      "mileage": 12000,
+      "status": "active"
+    },
+    {
+      "vehicleId": "V002",
+      "model": "Mercedes Sprinter",
+      "lastServiceDate": "2023-03-20",
+      "mileage": 8000,
+      "status": "active"
+    },
+    {
+      "vehicleId": "V003",
+      "model": "Ram ProMaster",
+      "lastServiceDate": "2022-12-10",
+      "mileage": 15000,
+      "status": "inactive"
+    }
+  ]
+}
