@@ -1,0 +1,22 @@
+{
+  "transactions": [
+    {
+      "id": "T001",
+      "amount": 1500.75,
+      "date": "2023-10-01",
+      "category": "Deposit"
+    },
+    {
+      "id": "T002",
+      "amount": 250,
+      "date": "2023-10-02",
+      "category": "Withdrawal"
+    },
+    {
+      "id": "T003",
+      "amount": 300.5,
+      "date": "2023-10-03",
+      "category": "Deposit"
+    }
+  ]
+}
