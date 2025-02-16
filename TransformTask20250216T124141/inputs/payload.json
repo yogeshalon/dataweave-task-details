@@ -1,0 +1,22 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Laptop",
+      "quantity": 50,
+      "unit_price": 1200
+    },
+    {
+      "id": 2,
+      "name": "Smartphone",
+      "quantity": 100,
+      "unit_price": 800
+    },
+    {
+      "id": 3,
+      "name": "Tablet",
+      "quantity": 75,
+      "unit_price": 600
+    }
+  ]
+}
