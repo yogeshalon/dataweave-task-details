@@ -1,0 +1,20 @@
+{
+  "total_value": 115000,
+  "products": [
+    {
+      "id": 1,
+      "name": "Laptop",
+      "total_price": 60000
+    },
+    {
+      "id": 2,
+      "name": "Smartphone",
+      "total_price": 80000
+    },
+    {
+      "id": 3,
+      "name": "Tablet",
+      "total_price": 45000
+    }
+  ]
+}
