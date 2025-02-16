@@ -1,0 +1,10 @@
+{
+  "approvedClaims": [
+    {
+      "claimId": "C12346",
+      "customerName": "Jane Smith",
+      "amount": 2500,
+      "dateOfClaim": "2023-09-15"
+    }
+  ]
+}
