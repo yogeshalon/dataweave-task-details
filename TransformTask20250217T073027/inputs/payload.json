@@ -1,0 +1,22 @@
+{
+  "devices": [
+    {
+      "deviceId": "IoT-001",
+      "timestamp": "2023-10-01T12:00:00Z",
+      "temperature": 22.5,
+      "humidity": 60
+    },
+    {
+      "deviceId": "IoT-002",
+      "timestamp": "2023-10-01T12:05:00Z",
+      "temperature": 23,
+      "humidity": 55
+    },
+    {
+      "deviceId": "IoT-001",
+      "timestamp": "2023-10-01T12:10:00Z",
+      "temperature": 21.8,
+      "humidity": 62
+    }
+  ]
+}
