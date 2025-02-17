@@ -1,0 +1,42 @@
+{
+  "reservations": [
+    {
+      "id": "R001",
+      "customer": {
+        "name": "John Doe",
+        "email": "john.doe@example.com"
+      },
+      "flight": {
+        "departure": "2023-10-15T10:00:00Z",
+        "arrival": "2023-10-15T14:00:00Z",
+        "price": 250.75,
+        "currency": "USD"
+      },
+      "hotel": {
+        "name": "Grand Hotel",
+        "checkIn": "2023-10-15",
+        "checkOut": "2023-10-20",
+        "pricePerNight": 150
+      }
+    },
+    {
+      "id": "R002",
+      "customer": {
+        "name": "Jane Smith",
+        "email": "jane.smith@example.com"
+      },
+      "flight": {
+        "departure": "2023-10-16T09:00:00Z",
+        "arrival": "2023-10-16T13:00:00Z",
+        "price": 300.5,
+        "currency": "USD"
+      },
+      "hotel": {
+        "name": "City Inn",
+        "checkIn": "2023-10-16",
+        "checkOut": "2023-10-19",
+        "pricePerNight": 120
+      }
+    }
+  ]
+}
