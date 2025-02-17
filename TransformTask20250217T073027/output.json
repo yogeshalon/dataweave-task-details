@@ -1,0 +1,8 @@
+{
+  "averageMetrics": {
+    "deviceId": "IoT-001",
+    "averageTemperature": 22.15,
+    "averageHumidity": 61
+  },
+  "latestTimestamp": "2023-10-01T12:10:00Z"
+}
