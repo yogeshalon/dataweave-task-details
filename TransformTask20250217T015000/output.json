@@ -1,0 +1,18 @@
+{
+  "totalCost": 1,
+  "reservationsSummary": [
+    {
+      "customerName": "John Doe",
+      "totalFlightCost": 250.75,
+      "totalHotelCost": 750,
+      "totalReservationCost": 1000.75
+    },
+    {
+      "customerName": "Jane Smith",
+      "totalFlightCost": 300.5,
+      "totalHotelCost": 360,
+      "totalReservationCost": 660.5
+    }
+  ],
+  "currencyUsed": "USD"
+}
