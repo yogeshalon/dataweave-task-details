@@ -1,0 +1,49 @@
+{
+  "inventory": [
+    {
+      "itemId": "A001",
+      "itemName": "Laptop",
+      "quantity": 50,
+      "pricePerUnit": 1200,
+      "category": "Electronics",
+      "supplier": {
+        "supplierId": "S001",
+        "supplierName": "Tech Supplies Co.",
+        "contact": {
+          "email": "contact@techsupplies.com",
+          "phone": "555-1234"
+        }
+      }
+    },
+    {
+      "itemId": "A002",
+      "itemName": "Smartphone",
+      "quantity": 100,
+      "pricePerUnit": 800,
+      "category": "Electronics",
+      "supplier": {
+        "supplierId": "S002",
+        "supplierName": "Mobile World Inc.",
+        "contact": {
+          "email": "info@mobileworld.com",
+          "phone": "555-5678"
+        }
+      }
+    },
+    {
+      "itemId": "B001",
+      "itemName": "Office Chair",
+      "quantity": 30,
+      "pricePerUnit": 150,
+      "category": "Furniture",
+      "supplier": {
+        "supplierId": "S003",
+        "supplierName": "Office Essentials Ltd.",
+        "contact": {
+          "email": "support@officeessentials.com",
+          "phone": "555-8765"
+        }
+      }
+    }
+  ]
+}
