@@ -1,0 +1,18 @@
+{
+  "summary": [
+    {
+      "patientId": "P001",
+      "totalVisits": 2,
+      "totalCost": 350,
+      "averageCostPerVisit": 175,
+      "mostFrequentDiagnosis": "Hypertension"
+    },
+    {
+      "patientId": "P002",
+      "totalVisits": 2,
+      "totalCost": 225,
+      "averageCostPerVisit": 112.5,
+      "mostFrequentDiagnosis": "Hypertension"
+    }
+  ]
+}
