@@ -1,0 +1,16 @@
+{
+  "summary": [
+    {
+      "customerName": "John Doe",
+      "totalFlightPrice": 300,
+      "totalHotelPrice": 750,
+      "totalCost": 1050
+    },
+    {
+      "customerName": "Jane Smith",
+      "totalFlightPrice": 250,
+      "totalHotelPrice": 600,
+      "totalCost": 850
+    }
+  ]
+}
