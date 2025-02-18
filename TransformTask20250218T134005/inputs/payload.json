@@ -1,0 +1,50 @@
+{
+  "customers": [
+    {
+      "customerId": "C001",
+      "name": "Alice Johnson",
+      "age": 30,
+      "purchases": [
+        {
+          "item": "Laptop",
+          "amount": 1200,
+          "date": "2023-01-15"
+        },
+        {
+          "item": "Mouse",
+          "amount": 25,
+          "date": "2023-02-10"
+        }
+      ]
+    },
+    {
+      "customerId": "C002",
+      "name": "Bob Smith",
+      "age": 45,
+      "purchases": [
+        {
+          "item": "Smartphone",
+          "amount": 800,
+          "date": "2023-01-20"
+        },
+        {
+          "item": "Headphones",
+          "amount": 150,
+          "date": "2023-03-05"
+        }
+      ]
+    },
+    {
+      "customerId": "C003",
+      "name": "Charlie Brown",
+      "age": 35,
+      "purchases": [
+        {
+          "item": "Tablet",
+          "amount": 600,
+          "date": "2023-02-15"
+        }
+      ]
+    }
+  ]
+}
