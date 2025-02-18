@@ -1,0 +1,25 @@
+{
+  "customerAnalytics": [
+    {
+      "customerId": "C001",
+      "totalSpent": 1225,
+      "averagePurchaseAmount": 612.5,
+      "purchaseCount": 2,
+      "loyaltyTier": "Gold"
+    },
+    {
+      "customerId": "C002",
+      "totalSpent": 950,
+      "averagePurchaseAmount": 475,
+      "purchaseCount": 2,
+      "loyaltyTier": "Silver"
+    },
+    {
+      "customerId": "C003",
+      "totalSpent": 600,
+      "averagePurchaseAmount": 600,
+      "purchaseCount": 1,
+      "loyaltyTier": "Bronze"
+    }
+  ]
+}
