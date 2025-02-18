@@ -1,0 +1,11 @@
+{
+  "approvedClaims": [
+    {
+      "claimId": "C12346",
+      "policyNumber": "P98766",
+      "claimAmount": 2500,
+      "dateOfClaim": "2023-09-15"
+    }
+  ],
+  "totalApprovedAmount": 2500
+}
