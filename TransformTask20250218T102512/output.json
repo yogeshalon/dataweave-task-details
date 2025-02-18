@@ -1,0 +1,36 @@
+{
+  "totalInventoryValue": 103000,
+  "itemsByCategory": {
+    "Electronics": [
+      {
+        "itemId": "A001",
+        "itemName": "Laptop",
+        "totalValue": 60000
+      },
+      {
+        "itemId": "A002",
+        "itemName": "Smartphone",
+        "totalValue": 80000
+      }
+    ],
+    "Furniture": [
+      {
+        "itemId": "B001",
+        "itemName": "Office Chair",
+        "totalValue": 4500
+      }
+    ]
+  },
+  "suppliersWithHighValueItems": [
+    {
+      "supplierId": "S001",
+      "supplierName": "Tech Supplies Co.",
+      "totalSuppliedValue": 60000
+    },
+    {
+      "supplierId": "S002",
+      "supplierName": "Mobile World Inc.",
+      "totalSuppliedValue": 80000
+    }
+  ]
+}
