@@ -1,0 +1,1 @@
+<financialData><transactions><transaction><id>101</id><amount>1500.00</amount><type>credit</type><date>2023-01-01</date></transaction><transaction><id>102</id><amount>2000.00</amount><type>debit</type><date>2023-01-05</date></transaction><transaction><id>103</id><amount>3000.00</amount><type>credit</type><date>2023-01-10</date></transaction></transactions></financialData>
