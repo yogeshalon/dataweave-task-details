@@ -1,0 +1,44 @@
+{
+  "reservations": [
+    {
+      "id": 1,
+      "customer": {
+        "name": "John Doe",
+        "email": "john.doe@example.com"
+      },
+      "flight": {
+        "departure": "2023-10-15T08:00:00Z",
+        "arrival": "2023-10-15T12:00:00Z",
+        "from": "New York",
+        "to": "Los Angeles",
+        "price": 300
+      },
+      "hotel": {
+        "name": "Sunset Hotel",
+        "checkIn": "2023-10-15",
+        "checkOut": "2023-10-20",
+        "pricePerNight": 150
+      }
+    },
+    {
+      "id": 2,
+      "customer": {
+        "name": "Jane Smith",
+        "email": "jane.smith@example.com"
+      },
+      "flight": {
+        "departure": "2023-10-16T09:00:00Z",
+        "arrival": "2023-10-16T13:00:00Z",
+        "from": "Chicago",
+        "to": "Miami",
+        "price": 250
+      },
+      "hotel": {
+        "name": "Ocean View Resort",
+        "checkIn": "2023-10-16",
+        "checkOut": "2023-10-19",
+        "pricePerNight": 200
+      }
+    }
+  ]
+}
