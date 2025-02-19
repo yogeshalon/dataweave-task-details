@@ -1,0 +1,26 @@
+{
+  "summary": {
+    "averageTemperature": 77.5,
+    "averageHumidity": 65.25,
+    "citiesWithHighWind": [
+      {
+        "city": "New York",
+        "windSpeed": 10
+      },
+      {
+        "city": "Chicago",
+        "windSpeed": 15
+      }
+    ],
+    "highHumidityCities": [
+      {
+        "city": "New York",
+        "humidity": 70
+      },
+      {
+        "city": "Chicago",
+        "humidity": 80
+      }
+    ]
+  }
+}
