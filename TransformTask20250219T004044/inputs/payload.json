@@ -1,0 +1,24 @@
+{
+  "claims": [
+    {
+      "claimId": "C12345",
+      "policyHolder": {
+        "name": "John Doe",
+        "age": 35,
+        "address": "123 Elm St, Springfield, IL"
+      },
+      "amountClaimed": 1500,
+      "status": "pending"
+    },
+    {
+      "claimId": "C12346",
+      "policyHolder": {
+        "name": "Jane Smith",
+        "age": 28,
+        "address": "456 Oak St, Springfield, IL"
+      },
+      "amountClaimed": 2500,
+      "status": "approved"
+    }
+  ]
+}
