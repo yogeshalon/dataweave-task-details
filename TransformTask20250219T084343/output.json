@@ -1,0 +1,35 @@
+{
+  "summary": {
+    "totalOrders": 3,
+    "completedOrders": 2,
+    "inProgressOrders": 1,
+    "totalRevenue": 1375,
+    "averageDeliveryTimeDays": 4
+  },
+  "detailedOrders": [
+    {
+      "orderId": "ORD001",
+      "product": "Widget A",
+      "quantity": 100,
+      "totalPrice": 500,
+      "status": "completed",
+      "deliveryStatus": "delivered"
+    },
+    {
+      "orderId": "ORD002",
+      "product": "Widget B",
+      "quantity": 200,
+      "totalPrice": 1500,
+      "status": "in_progress",
+      "deliveryStatus": "pending"
+    },
+    {
+      "orderId": "ORD003",
+      "product": "Widget A",
+      "quantity": 150,
+      "totalPrice": 750,
+      "status": "completed",
+      "deliveryStatus": "delivered"
+    }
+  ]
+}
