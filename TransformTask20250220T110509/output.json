@@ -1,0 +1,32 @@
+{
+  "employeeSummary": [
+    {
+      "id": 1,
+      "name": "John Doe",
+      "averageScore": 4,
+      "salaryIncrease": 6000,
+      "totalCompensation": 66000
+    },
+    {
+      "id": 2,
+      "name": "Jane Smith",
+      "averageScore": 4.33,
+      "salaryIncrease": 7500,
+      "totalCompensation": 82500
+    },
+    {
+      "id": 3,
+      "name": "Emily Johnson",
+      "averageScore": 2.67,
+      "salaryIncrease": 0,
+      "totalCompensation": 50000
+    },
+    {
+      "id": 4,
+      "name": "Michael Brown",
+      "averageScore": 5,
+      "salaryIncrease": 8000,
+      "totalCompensation": 88000
+    }
+  ]
+}
