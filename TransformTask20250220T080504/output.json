@@ -1,0 +1,22 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Widget A",
+      "quantity": 100,
+      "totalValue": 2550
+    },
+    {
+      "id": 2,
+      "name": "Widget B",
+      "quantity": 150,
+      "totalValue": 2362.5
+    },
+    {
+      "id": 3,
+      "name": "Widget C",
+      "quantity": 200,
+      "totalValue": 6000
+    }
+  ]
+}
