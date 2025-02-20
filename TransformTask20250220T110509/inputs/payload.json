@@ -1,0 +1,52 @@
+{
+  "employees": [
+    {
+      "id": 1,
+      "name": "John Doe",
+      "department": "Sales",
+      "salary": 60000,
+      "hireDate": "2018-05-15",
+      "performanceScores": [
+        3,
+        4,
+        5
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Jane Smith",
+      "department": "Marketing",
+      "salary": 75000,
+      "hireDate": "2019-03-20",
+      "performanceScores": [
+        4,
+        5,
+        4
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Emily Johnson",
+      "department": "Sales",
+      "salary": 50000,
+      "hireDate": "2020-07-10",
+      "performanceScores": [
+        2,
+        3,
+        3
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Michael Brown",
+      "department": "HR",
+      "salary": 80000,
+      "hireDate": "2017-11-01",
+      "performanceScores": [
+        5,
+        5,
+        5
+      ]
+    }
+  ]
+}
