@@ -1,0 +1,16 @@
+{
+  "vehicles": [
+    {
+      "id": "V001",
+      "model": "Ford Transit",
+      "lastServiceDate": "2023-01-15",
+      "mileage": 12000
+    },
+    {
+      "id": "V002",
+      "model": "Mercedes Sprinter",
+      "lastServiceDate": "2023-03-20",
+      "mileage": 8000
+    }
+  ]
+}
