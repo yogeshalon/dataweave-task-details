@@ -1,0 +1,40 @@
+{
+  "energyConsumption": [
+    {
+      "buildingId": "B001",
+      "location": "New York",
+      "monthlyUsage": [
+        {
+          "month": "January",
+          "kWh": 1200
+        },
+        {
+          "month": "February",
+          "kWh": 1100
+        },
+        {
+          "month": "March",
+          "kWh": 1300
+        }
+      ]
+    },
+    {
+      "buildingId": "B002",
+      "location": "Los Angeles",
+      "monthlyUsage": [
+        {
+          "month": "January",
+          "kWh": 1500
+        },
+        {
+          "month": "February",
+          "kWh": 1600
+        },
+        {
+          "month": "March",
+          "kWh": 1400
+        }
+      ]
+    }
+  ]
+}
