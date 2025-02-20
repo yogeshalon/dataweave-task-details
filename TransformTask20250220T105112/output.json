@@ -1,0 +1,25 @@
+{
+  "totalConsumption": [
+    {
+      "buildingId": "B001",
+      "location": "New York",
+      "annualUsage": 15000,
+      "averageMonthlyUsage": 1250,
+      "peakMonth": {
+        "month": "March",
+        "kWh": 1300
+      }
+    },
+    {
+      "buildingId": "B002",
+      "location": "Los Angeles",
+      "annualUsage": 18000,
+      "averageMonthlyUsage": 1500,
+      "peakMonth": {
+        "month": "February",
+        "kWh": 1600
+      }
+    }
+  ],
+  "overallAverageMonthlyUsage": 1375
+}
