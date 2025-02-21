@@ -1,0 +1,24 @@
+{
+  "customers": [
+    {
+      "id": 1,
+      "name": "John Doe",
+      "phone": "+1234567890",
+      "plan": {
+        "type": "Premium",
+        "data_limit": 20,
+        "monthly_fee": 50
+      }
+    },
+    {
+      "id": 2,
+      "name": "Jane Smith",
+      "phone": "+0987654321",
+      "plan": {
+        "type": "Basic",
+        "data_limit": 5,
+        "monthly_fee": 30
+      }
+    }
+  ]
+}
