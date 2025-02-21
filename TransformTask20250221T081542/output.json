@@ -1,0 +1,22 @@
+{
+  "summary": {
+    "totalOrders": 3,
+    "totalRevenue": 1875,
+    "completedOrders": [
+      {
+        "orderId": "MO123",
+        "totalPrice": 500
+      },
+      {
+        "orderId": "MO125",
+        "totalPrice": 750
+      }
+    ],
+    "pendingOrders": [
+      {
+        "orderId": "MO124",
+        "estimatedDeliveryDate": "2023-10-10"
+      }
+    ]
+  }
+}
