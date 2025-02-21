@@ -1,0 +1,24 @@
+{
+  "customers": [
+    {
+      "customerId": 1,
+      "fullName": "John Doe",
+      "contactNumber": "+1234567890",
+      "planDetails": {
+        "planType": "Premium",
+        "dataLimitGB": 20,
+        "feePerMonth": 50
+      }
+    },
+    {
+      "customerId": 2,
+      "fullName": "Jane Smith",
+      "contactNumber": "+0987654321",
+      "planDetails": {
+        "planType": "Basic",
+        "dataLimitGB": 5,
+        "feePerMonth": 30
+      }
+    }
+  ]
+}
