@@ -1,0 +1,16 @@
+{
+  "campaigns": [
+    {
+      "id": "C001",
+      "name": "SUMMER SALE",
+      "description": "Huge discounts on summer products!",
+      "duration": "30 days"
+    },
+    {
+      "id": "C002",
+      "name": "WINTER CLEARANCE",
+      "description": "Clearance sale for winter items.",
+      "duration": "15 days"
+    }
+  ]
+}
