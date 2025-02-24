@@ -1,0 +1,16 @@
+{
+  "groupedTransactions": [
+    {
+      "category": "Groceries",
+      "totalAmount": 250
+    },
+    {
+      "category": "Utilities",
+      "totalAmount": 250
+    },
+    {
+      "category": "Entertainment",
+      "totalAmount": 300
+    }
+  ]
+}
