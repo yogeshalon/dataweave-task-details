@@ -1,0 +1,34 @@
+{
+  "orders": [
+    {
+      "orderId": "1001",
+      "customerId": "C001",
+      "items": [
+        {
+          "productId": "P001",
+          "quantity": 2
+        },
+        {
+          "productId": "P002",
+          "quantity": 1
+        }
+      ],
+      "totalAmount": 150
+    },
+    {
+      "orderId": "1002",
+      "customerId": "C002",
+      "items": [
+        {
+          "productId": "P003",
+          "quantity": 1
+        },
+        {
+          "productId": "P001",
+          "quantity": 3
+        }
+      ],
+      "totalAmount": 200
+    }
+  ]
+}
