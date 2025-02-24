@@ -1,0 +1,18 @@
+{
+  "claimsSummary": [
+    {
+      "claimId": "C123",
+      "policyNumber": "P456",
+      "claimAmount": 1500,
+      "status": "Pending",
+      "daysSinceClaim": 30
+    },
+    {
+      "claimId": "C124",
+      "policyNumber": "P457",
+      "claimAmount": 2500,
+      "status": "Approved",
+      "daysSinceClaim": 29
+    }
+  ]
+}
