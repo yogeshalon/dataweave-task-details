@@ -1,0 +1,16 @@
+{
+  "students": [
+    {
+      "id": "S001",
+      "name": "John Doe",
+      "email": "john.doe@example.com",
+      "grade": "A"
+    },
+    {
+      "id": "S002",
+      "name": "Jane Smith",
+      "email": "jane.smith@example.com",
+      "grade": "B"
+    }
+  ]
+}
