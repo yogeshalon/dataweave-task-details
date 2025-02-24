@@ -1,0 +1,34 @@
+{
+  "transactions": [
+    {
+      "id": 1,
+      "amount": 100,
+      "category": "Groceries",
+      "date": "2023-10-01"
+    },
+    {
+      "id": 2,
+      "amount": 200,
+      "category": "Utilities",
+      "date": "2023-10-02"
+    },
+    {
+      "id": 3,
+      "amount": 150,
+      "category": "Groceries",
+      "date": "2023-10-03"
+    },
+    {
+      "id": 4,
+      "amount": 300,
+      "category": "Entertainment",
+      "date": "2023-10-04"
+    },
+    {
+      "id": 5,
+      "amount": 50,
+      "category": "Utilities",
+      "date": "2023-10-05"
+    }
+  ]
+}
