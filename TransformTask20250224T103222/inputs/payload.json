@@ -1,0 +1,24 @@
+{
+  "energyConsumption": [
+    {
+      "date": "2023-10-01",
+      "usage": 150,
+      "location": "Building A"
+    },
+    {
+      "date": "2023-10-01",
+      "usage": 200,
+      "location": "Building B"
+    },
+    {
+      "date": "2023-10-02",
+      "usage": 180,
+      "location": "Building A"
+    },
+    {
+      "date": "2023-10-02",
+      "usage": 220,
+      "location": "Building B"
+    }
+  ]
+}
