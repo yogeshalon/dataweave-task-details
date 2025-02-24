@@ -1,0 +1,16 @@
+{
+  "students": [
+    {
+      "id": "S001",
+      "fullName": "John Doe",
+      "contact": "john.doe@example.com",
+      "performance": "Excellent"
+    },
+    {
+      "id": "S002",
+      "fullName": "Jane Smith",
+      "contact": "jane.smith@example.com",
+      "performance": "Good"
+    }
+  ]
+}
