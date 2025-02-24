@@ -1,0 +1,14 @@
+{
+  "customerOrders": [
+    {
+      "customerId": "C001",
+      "totalItems": 3,
+      "totalSpent": 150
+    },
+    {
+      "customerId": "C002",
+      "totalItems": 4,
+      "totalSpent": 200
+    }
+  ]
+}
