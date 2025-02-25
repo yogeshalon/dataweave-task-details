@@ -1,0 +1,18 @@
+{
+  "fleet": [
+    {
+      "vehicleId": "V001",
+      "vehicleModel": "Ford Transit",
+      "plateNumber": "ABC1234",
+      "mileageStatus": "15,000 miles",
+      "serviceDueDate": "2023-07-15"
+    },
+    {
+      "vehicleId": "V002",
+      "vehicleModel": "Mercedes Sprinter",
+      "plateNumber": "XYZ5678",
+      "mileageStatus": "25,000 miles",
+      "serviceDueDate": "2023-09-10"
+    }
+  ]
+}
