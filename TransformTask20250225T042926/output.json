@@ -1,0 +1,12 @@
+[
+  {
+    "deviceId": "device_001",
+    "temperature": 72.5,
+    "humidity": 45
+  },
+  {
+    "deviceId": "device_003",
+    "temperature": 75,
+    "humidity": 40
+  }
+]
