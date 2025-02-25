@@ -1,0 +1,42 @@
+{
+  "reservations": [
+    {
+      "id": 1,
+      "customerName": "John Doe",
+      "flightDetails": {
+        "flightNumber": "AA123",
+        "departure": "2023-10-15T10:00:00Z",
+        "arrival": "2023-10-15T12:00:00Z"
+      },
+      "seats": [
+        {
+          "seatNumber": "1A",
+          "class": "Business"
+        },
+        {
+          "seatNumber": "1B",
+          "class": "Business"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "customerName": "Jane Smith",
+      "flightDetails": {
+        "flightNumber": "AA456",
+        "departure": "2023-10-16T14:00:00Z",
+        "arrival": "2023-10-16T16:00:00Z"
+      },
+      "seats": [
+        {
+          "seatNumber": "2A",
+          "class": "Economy"
+        },
+        {
+          "seatNumber": "2B",
+          "class": "Economy"
+        }
+      ]
+    }
+  ]
+}
