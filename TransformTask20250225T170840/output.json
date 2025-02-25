@@ -1,0 +1,10 @@
+{
+  "activeCampaigns": [
+    {
+      "id": "C001",
+      "name": "SUMMER SALE",
+      "description": "BIG DISCOUNTS ON SUMMER PRODUCTS.",
+      "duration": "30 days"
+    }
+  ]
+}
