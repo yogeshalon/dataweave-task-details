@@ -1,0 +1,16 @@
+{
+  "energyConsumption": [
+    {
+      "id": "001",
+      "date": "2023-10-01",
+      "usage": "1,500 kWh",
+      "location": "Building A"
+    },
+    {
+      "id": "002",
+      "date": "2023-10-01",
+      "usage": "2,000 kWh",
+      "location": "Building B"
+    }
+  ]
+}
