@@ -1,0 +1,19 @@
+{
+  "energyConsumption": [
+    {
+      "buildingId": "B001",
+      "month": "2023-01",
+      "consumptionKWh": 1500
+    },
+    {
+      "buildingId": "B002",
+      "month": "2023-01",
+      "consumptionKWh": 2000
+    },
+    {
+      "buildingId": "B003",
+      "month": "2023-01",
+      "consumptionKWh": 1800
+    }
+  ]
+}
