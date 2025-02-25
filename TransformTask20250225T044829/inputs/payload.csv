@@ -1,0 +1,5 @@
+transactionId,amount,status
+T001,150.00,completed
+T002,200.00,pending
+T003,50.00,completed
+T004,300.00,cancelled
