@@ -1,0 +1,22 @@
+{
+  "campaigns": [
+    {
+      "id": "C001",
+      "name": "Summer Sale",
+      "description": "Big discounts on summer products.",
+      "startDate": "2023-06-01",
+      "endDate": "2023-06-30",
+      "targetAudience": "young adults",
+      "status": "active"
+    },
+    {
+      "id": "C002",
+      "name": "Back to School",
+      "description": "Promotions for school supplies.",
+      "startDate": "2023-08-01",
+      "endDate": "2023-08-31",
+      "targetAudience": "students and parents",
+      "status": "inactive"
+    }
+  ]
+}
