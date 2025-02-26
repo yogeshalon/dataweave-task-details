@@ -1,0 +1,14 @@
+{
+  "activeVehicles": [
+    {
+      "vehicleId": "V001",
+      "vehicleType": "Truck",
+      "vehicleCapacity": 2000
+    },
+    {
+      "vehicleId": "V003",
+      "vehicleType": "Truck",
+      "vehicleCapacity": 2500
+    }
+  ]
+}
