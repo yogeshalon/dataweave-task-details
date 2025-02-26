@@ -1,0 +1,28 @@
+{
+  "suppliers": [
+    {
+      "supplierId": 1,
+      "supplierName": "Alpha Supplies",
+      "supplierLocation": "New York",
+      "supplierContact": "alpha@example.com",
+      "totalProducts": 2,
+      "averagePrice": 20
+    },
+    {
+      "supplierId": 2,
+      "supplierName": "Beta Supplies",
+      "supplierLocation": "Los Angeles",
+      "supplierContact": "beta@example.com",
+      "totalProducts": 2,
+      "averagePrice": 25
+    },
+    {
+      "supplierId": 3,
+      "supplierName": "Gamma Supplies",
+      "supplierLocation": "Chicago",
+      "supplierContact": "gamma@example.com",
+      "totalProducts": 2,
+      "averagePrice": 20
+    }
+  ]
+}
