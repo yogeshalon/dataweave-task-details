@@ -1,0 +1,18 @@
+{
+  "summary": {
+    "total_investment": 4500,
+    "total_savings": 2500,
+    "total_expenses": 500,
+    "average_investment": 2250,
+    "investment_transactions": [
+      {
+        "id": "T001",
+        "amount": 1500
+      },
+      {
+        "id": "T004",
+        "amount": 3000
+      }
+    ]
+  }
+}
