@@ -1,0 +1,58 @@
+{
+  "suppliers": [
+    {
+      "id": 1,
+      "name": "Alpha Supplies",
+      "location": "New York",
+      "contact": "alpha@example.com",
+      "products": [
+        {
+          "productId": 101,
+          "productName": "Widgets",
+          "price": 25
+        },
+        {
+          "productId": 102,
+          "productName": "Gadgets",
+          "price": 15
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Beta Supplies",
+      "location": "Los Angeles",
+      "contact": "beta@example.com",
+      "products": [
+        {
+          "productId": 103,
+          "productName": "Widgets",
+          "price": 30
+        },
+        {
+          "productId": 104,
+          "productName": "Doodads",
+          "price": 20
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Gamma Supplies",
+      "location": "Chicago",
+      "contact": "gamma@example.com",
+      "products": [
+        {
+          "productId": 105,
+          "productName": "Gadgets",
+          "price": 18
+        },
+        {
+          "productId": 106,
+          "productName": "Doodads",
+          "price": 22
+        }
+      ]
+    }
+  ]
+}
