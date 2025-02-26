@@ -1,0 +1,22 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "content": "Loving the new features of our app! #Innovation #Tech",
+      "likes": 150,
+      "shares": 30
+    },
+    {
+      "id": 2,
+      "content": "Check out our latest blog post on data security! #Data #Security",
+      "likes": 200,
+      "shares": 50
+    },
+    {
+      "id": 3,
+      "content": "Excited for the upcoming product launch! #Launch #Excitement",
+      "likes": 300,
+      "shares": 70
+    }
+  ]
+}
