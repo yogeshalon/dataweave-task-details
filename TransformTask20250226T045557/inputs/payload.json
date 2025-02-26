@@ -1,0 +1,28 @@
+{
+  "claims": [
+    {
+      "claimId": "CLM001",
+      "policyHolder": "John Doe",
+      "incidentDate": "2023-01-15",
+      "description": "Car accident on highway",
+      "amountClaimed": 15000,
+      "status": "Pending"
+    },
+    {
+      "claimId": "CLM002",
+      "policyHolder": "Jane Smith",
+      "incidentDate": "2023-02-20",
+      "description": "Theft of personal belongings",
+      "amountClaimed": 5000,
+      "status": "Approved"
+    },
+    {
+      "claimId": "CLM003",
+      "policyHolder": "Alice Johnson",
+      "incidentDate": "2023-03-10",
+      "description": "Water damage in home",
+      "amountClaimed": 12000,
+      "status": "Denied"
+    }
+  ]
+}
