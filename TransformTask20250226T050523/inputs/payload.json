@@ -1,0 +1,22 @@
+{
+  "vehicles": [
+    {
+      "id": "V001",
+      "type": "Truck",
+      "capacity": "2000kg",
+      "status": "active"
+    },
+    {
+      "id": "V002",
+      "type": "Van",
+      "capacity": "1500kg",
+      "status": "inactive"
+    },
+    {
+      "id": "V003",
+      "type": "Truck",
+      "capacity": "2500kg",
+      "status": "active"
+    }
+  ]
+}
