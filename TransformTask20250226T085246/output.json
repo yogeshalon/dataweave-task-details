@@ -1,0 +1,13 @@
+{
+  "activeVehicles": [
+    {
+      "vehicleId": "V001",
+      "vehicleType": "Truck",
+      "currentLocation": {
+        "lat": 40.7128,
+        "long": -74.006
+      },
+      "serviceDueInDays": 365
+    }
+  ]
+}
