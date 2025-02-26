@@ -1,0 +1,19 @@
+{
+  "summary": [
+    {
+      "postId": 1,
+      "shortenedContent": "Loving the new features of our app!",
+      "engagementScore": 180
+    },
+    {
+      "postId": 2,
+      "shortenedContent": "Check out our latest blog post on data security!",
+      "engagementScore": 250
+    },
+    {
+      "postId": 3,
+      "shortenedContent": "Excited for the upcoming product launch!",
+      "engagementScore": 370
+    }
+  ]
+}
