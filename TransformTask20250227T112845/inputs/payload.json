@@ -1,0 +1,16 @@
+{
+  "customers": [
+    {
+      "id": 1,
+      "name": "John Doe",
+      "email": "john.doe@example.com",
+      "address": "123 Elm St, Springfield, IL"
+    },
+    {
+      "id": 2,
+      "name": "Jane Smith",
+      "email": "jane.smith@example.com",
+      "address": "456 Oak St, Springfield, IL"
+    }
+  ]
+}
