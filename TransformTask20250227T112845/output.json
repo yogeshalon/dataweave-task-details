@@ -1,0 +1,16 @@
+{
+  "customers": [
+    {
+      "id": 1,
+      "fullName": "John Doe",
+      "emailDomain": "example.com",
+      "city": "Springfield"
+    },
+    {
+      "id": 2,
+      "fullName": "Jane Smith",
+      "emailDomain": "example.com",
+      "city": "Springfield"
+    }
+  ]
+}
