@@ -1,0 +1,16 @@
+{
+  "activeSubscriptions": [
+    {
+      "userId": "U001",
+      "plan": "Premium",
+      "duration": 12
+    }
+  ],
+  "inactiveSubscriptions": [
+    {
+      "userId": "U002",
+      "plan": "Basic",
+      "duration": 6
+    }
+  ]
+}
