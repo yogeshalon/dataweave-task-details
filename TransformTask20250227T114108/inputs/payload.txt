@@ -1,0 +1,9 @@
+--boundary
+Content-Disposition: form-data; name="subscription"
+
+{"customerId":"C12345","plan":"Premium","startDate":"2023-01-01","endDate":"2024-01-01"}
+--boundary
+Content-Disposition: form-data; name="payment"
+
+{"amount":99.99,"currency":"USD","status":"Paid"}
+--boundary--
