@@ -1,0 +1,32 @@
+{
+  "subscriptions": [
+    {
+      "userId": 1,
+      "plan": "Basic",
+      "features": [
+        "Email Support",
+        "Access to Basic Content"
+      ],
+      "active": true
+    },
+    {
+      "userId": 2,
+      "plan": "Premium",
+      "features": [
+        "Priority Support",
+        "Access to All Content",
+        "Offline Access"
+      ],
+      "active": true
+    },
+    {
+      "userId": 3,
+      "plan": "Basic",
+      "features": [
+        "Email Support",
+        "Access to Basic Content"
+      ],
+      "active": false
+    }
+  ]
+}
