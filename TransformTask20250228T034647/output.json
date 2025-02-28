@@ -1,0 +1,20 @@
+{
+  "products": [
+    {
+      "id": "P001",
+      "name": "Wireless Mouse",
+      "description": "Ergonomic wireless mouse with long battery life.",
+      "category": "Electronics",
+      "price": 29.99,
+      "slug": "wireless-mouse"
+    },
+    {
+      "id": "P002",
+      "name": "Bluetooth Headphones",
+      "description": "Noise-cancelling over-ear headphones.",
+      "category": "Electronics",
+      "price": 89.99,
+      "slug": "bluetooth-headphones"
+    }
+  ]
+}
