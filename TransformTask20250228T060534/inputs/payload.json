@@ -1,0 +1,36 @@
+{
+  "devices": [
+    {
+      "deviceId": "D001",
+      "location": "Warehouse A",
+      "metrics": [
+        {
+          "timestamp": "2023-10-01T08:00:00Z",
+          "temperature": 22.5,
+          "humidity": 45
+        },
+        {
+          "timestamp": "2023-10-01T09:00:00Z",
+          "temperature": 23,
+          "humidity": 50
+        }
+      ]
+    },
+    {
+      "deviceId": "D002",
+      "location": "Warehouse B",
+      "metrics": [
+        {
+          "timestamp": "2023-10-01T08:00:00Z",
+          "temperature": 21,
+          "humidity": 40
+        },
+        {
+          "timestamp": "2023-10-01T09:00:00Z",
+          "temperature": 22,
+          "humidity": 55
+        }
+      ]
+    }
+  ]
+}
