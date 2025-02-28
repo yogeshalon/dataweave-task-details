@@ -1,0 +1,1 @@
+<orders><order><id>5001</id><customer>John Doe</customer><status>Shipped</status><statusMessage>Order has been shipped.</statusMessage></order><order><id>5002</id><customer>Jane Smith</customer><status>Pending</status><statusMessage>Your order is being processed.</statusMessage></order></orders>
