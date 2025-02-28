@@ -1,0 +1,4 @@
+vehicleId,vehicleType,mileage,status
+V001,Truck,15000,active
+V002,VAN,20000,inactive
+V003,SUV,12000,active
