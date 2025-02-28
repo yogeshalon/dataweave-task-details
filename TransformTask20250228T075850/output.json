@@ -1,0 +1,22 @@
+{
+  "summary": {
+    "totalOrders": 2,
+    "totalRevenue": 155,
+    "ordersByCustomer": [
+      {
+        "customerId": "CUST001",
+        "totalSpent": 175,
+        "orderCount": 1
+      },
+      {
+        "customerId": "CUST002",
+        "totalSpent": 65,
+        "orderCount": 1
+      }
+    ],
+    "mostOrderedProduct": {
+      "productId": "PROD001",
+      "totalQuantitySold": 12
+    }
+  }
+}
