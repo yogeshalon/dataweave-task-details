@@ -1,0 +1,5 @@
+vehicle_id,vehicle_type,registration_date,mileage,status
+1,Truck,2022-01-15,15000,active
+2,Van,2021-05-20,30000,inactive
+3,SUV,2023-03-10,5000,active
+4,Sedan,2020-11-30,45000,inactive
