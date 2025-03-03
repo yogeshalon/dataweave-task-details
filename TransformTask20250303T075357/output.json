@@ -1,0 +1,18 @@
+{
+  "totalCost": 2950,
+  "averageCost": 10.83,
+  "costPerUnit": [
+    {
+      "id": 1,
+      "costPerUnit": 10.5
+    },
+    {
+      "id": 2,
+      "costPerUnit": 15
+    },
+    {
+      "id": 3,
+      "costPerUnit": 7.25
+    }
+  ]
+}
