@@ -1,0 +1,22 @@
+{
+  "products": [
+    {
+      "productId": "P001",
+      "productName": "Wireless Mouse",
+      "formattedPrice": "$25.99",
+      "isInStock": true
+    },
+    {
+      "productId": "P002",
+      "productName": "Mechanical Keyboard",
+      "formattedPrice": "$75.50",
+      "isInStock": true
+    },
+    {
+      "productId": "P003",
+      "productName": "USB-C Hub",
+      "formattedPrice": "$19.99",
+      "isInStock": true
+    }
+  ]
+}
