@@ -1,0 +1,25 @@
+{
+  "customers": [
+    {
+      "customerId": 1,
+      "name": "John Doe",
+      "monthlyUsage": 150,
+      "planType": "Standard",
+      "adjustedUsage": 165
+    },
+    {
+      "customerId": 2,
+      "name": "Jane Smith",
+      "monthlyUsage": 200,
+      "planType": "Premium",
+      "adjustedUsage": 220
+    },
+    {
+      "customerId": 3,
+      "name": "Alice Johnson",
+      "monthlyUsage": 80,
+      "planType": "Basic",
+      "adjustedUsage": 88
+    }
+  ]
+}
