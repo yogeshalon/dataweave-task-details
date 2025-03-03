@@ -1,0 +1,38 @@
+{
+  "orders": [
+    {
+      "orderId": "ORD001",
+      "customer": "ABC Corp",
+      "items": [
+        {
+          "itemId": "ITEM001",
+          "quantity": 10,
+          "unitPrice": 15
+        },
+        {
+          "itemId": "ITEM002",
+          "quantity": 5,
+          "unitPrice": 20
+        }
+      ],
+      "orderDate": "2023-10-01"
+    },
+    {
+      "orderId": "ORD002",
+      "customer": "XYZ Inc",
+      "items": [
+        {
+          "itemId": "ITEM001",
+          "quantity": 2,
+          "unitPrice": 15
+        },
+        {
+          "itemId": "ITEM003",
+          "quantity": 1,
+          "unitPrice": 30
+        }
+      ],
+      "orderDate": "2023-10-02"
+    }
+  ]
+}
