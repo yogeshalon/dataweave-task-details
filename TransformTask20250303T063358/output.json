@@ -1,0 +1,35 @@
+{
+  "summary": {
+    "totalOrders": 2,
+    "totalRevenue": 175,
+    "customerBreakdown": [
+      {
+        "customer": "ABC Corp",
+        "totalSpent": 90,
+        "orderCount": 1
+      },
+      {
+        "customer": "XYZ Inc",
+        "totalSpent": 85,
+        "orderCount": 1
+      }
+    ],
+    "itemSales": [
+      {
+        "itemId": "ITEM001",
+        "totalSold": 12,
+        "totalRevenue": 180
+      },
+      {
+        "itemId": "ITEM002",
+        "totalSold": 5,
+        "totalRevenue": 100
+      },
+      {
+        "itemId": "ITEM003",
+        "totalSold": 1,
+        "totalRevenue": 30
+      }
+    ]
+  }
+}
