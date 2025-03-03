@@ -1,0 +1,16 @@
+{
+  "claimsSummary": [
+    {
+      "claimId": "C001",
+      "policyHolderName": "John Doe",
+      "amountClaimed": 1500,
+      "status": "pending"
+    },
+    {
+      "claimId": "C002",
+      "policyHolderName": "Jane Smith",
+      "amountClaimed": 2500,
+      "status": "approved"
+    }
+  ]
+}
