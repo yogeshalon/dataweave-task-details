@@ -1,0 +1,14 @@
+{
+  "campaigns_summary": [
+    {
+      "id": 1,
+      "name": "Summer Sale",
+      "average_performance": 262.5
+    },
+    {
+      "id": 2,
+      "name": "Winter Clearance",
+      "average_performance": 212.5
+    }
+  ]
+}
