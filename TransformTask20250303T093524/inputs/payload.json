@@ -1,0 +1,25 @@
+{
+  "products": [
+    {
+      "id": "P001",
+      "name": "Wireless Mouse",
+      "price": 25.99,
+      "category": "Electronics",
+      "stock": 150
+    },
+    {
+      "id": "P002",
+      "name": "Mechanical Keyboard",
+      "price": 75.5,
+      "category": "Electronics",
+      "stock": 80
+    },
+    {
+      "id": "P003",
+      "name": "USB-C Hub",
+      "price": 19.99,
+      "category": "Accessories",
+      "stock": 200
+    }
+  ]
+}
