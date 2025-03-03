@@ -1,0 +1,20 @@
+{
+  "reservations": [
+    {
+      "id": "R123",
+      "customerName": "John Doe",
+      "destination": "Paris",
+      "checkIn": "2023-10-01",
+      "checkOut": "2023-10-10",
+      "specialRequests": "Late check-in, Vegan meal"
+    },
+    {
+      "id": "R124",
+      "customerName": "Jane Smith",
+      "destination": "Tokyo",
+      "checkIn": "2023-11-05",
+      "checkOut": "2023-11-15",
+      "specialRequests": "Window seat"
+    }
+  ]
+}
