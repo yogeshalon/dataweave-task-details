@@ -1,0 +1,32 @@
+{
+  "summary": [
+    {
+      "patientId": "P001",
+      "totalVisits": 2,
+      "totalCost": 350,
+      "averageCostPerVisit": 175,
+      "conditions": [
+        {
+          "diagnosis": "Hypertension",
+          "treatmentCount": 1
+        },
+        {
+          "diagnosis": "Diabetes",
+          "treatmentCount": 1
+        }
+      ]
+    },
+    {
+      "patientId": "P002",
+      "totalVisits": 1,
+      "totalCost": 180,
+      "averageCostPerVisit": 180,
+      "conditions": [
+        {
+          "diagnosis": "Hypertension",
+          "treatmentCount": 1
+        }
+      ]
+    }
+  ]
+}
