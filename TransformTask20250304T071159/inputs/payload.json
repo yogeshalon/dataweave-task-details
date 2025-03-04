@@ -1,0 +1,25 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Wireless Mouse",
+      "description": "Ergonomic wireless mouse with long battery life.",
+      "price": 29.99,
+      "category": "Electronics"
+    },
+    {
+      "id": 2,
+      "name": "Bluetooth Headphones",
+      "description": "Noise-cancelling over-ear headphones.",
+      "price": 89.99,
+      "category": "Electronics"
+    },
+    {
+      "id": 3,
+      "name": "USB-C Charging Cable",
+      "description": "Fast charging USB-C cable, 6 feet long.",
+      "price": 15.99,
+      "category": "Accessories"
+    }
+  ]
+}
