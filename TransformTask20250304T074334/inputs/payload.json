@@ -1,0 +1,36 @@
+{
+  "suppliers": [
+    {
+      "id": "S001",
+      "name": "Supplier A",
+      "location": "New York",
+      "products": [
+        {
+          "productId": "P001",
+          "productName": "Widget",
+          "quantity": 100,
+          "price": 2.5
+        },
+        {
+          "productId": "P002",
+          "productName": "Gadget",
+          "quantity": 200,
+          "price": 3
+        }
+      ]
+    },
+    {
+      "id": "S002",
+      "name": "Supplier B",
+      "location": "California",
+      "products": [
+        {
+          "productId": "P003",
+          "productName": "Thingamajig",
+          "quantity": 150,
+          "price": 4
+        }
+      ]
+    }
+  ]
+}
