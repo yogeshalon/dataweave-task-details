@@ -1,0 +1,22 @@
+{
+  "weatherData": [
+    {
+      "city": "New York",
+      "temperature": 75,
+      "humidity": 60,
+      "conditions": "Clear"
+    },
+    {
+      "city": "Los Angeles",
+      "temperature": 85,
+      "humidity": 30,
+      "conditions": "Sunny"
+    },
+    {
+      "city": "Chicago",
+      "temperature": 70,
+      "humidity": 50,
+      "conditions": "Cloudy"
+    }
+  ]
+}
