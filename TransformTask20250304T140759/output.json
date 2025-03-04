@@ -1,0 +1,14 @@
+{
+  "subscriptions": [
+    {
+      "customerId": "C001",
+      "durationMonths": 12,
+      "planType": "Premium"
+    },
+    {
+      "customerId": "C002",
+      "durationMonths": 12,
+      "planType": "Basic"
+    }
+  ]
+}
