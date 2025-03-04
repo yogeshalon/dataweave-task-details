@@ -1,0 +1,16 @@
+{
+  "subscriptions": [
+    {
+      "customerId": "C001",
+      "startDate": "2023-01-15",
+      "endDate": "2024-01-14",
+      "planType": "Premium"
+    },
+    {
+      "customerId": "C002",
+      "startDate": "2023-03-01",
+      "endDate": "2024-02-28",
+      "planType": "Basic"
+    }
+  ]
+}
