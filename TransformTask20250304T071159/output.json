@@ -1,0 +1,25 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Wireless Mouse",
+      "short_description": "Ergonomic wireless mouse.",
+      "formatted_price": "$29.99",
+      "category": "Electronics"
+    },
+    {
+      "id": 2,
+      "name": "Bluetooth Headphones",
+      "short_description": "Noise-cancelling headphones.",
+      "formatted_price": "$89.99",
+      "category": "Electronics"
+    },
+    {
+      "id": 3,
+      "name": "USB-C Charging Cable",
+      "short_description": "Fast charging cable.",
+      "formatted_price": "$15.99",
+      "category": "Accessories"
+    }
+  ]
+}
