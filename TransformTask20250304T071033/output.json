@@ -1,0 +1,22 @@
+{
+  "campaigns": [
+    {
+      "id": "C001",
+      "name": "SUMMER SALE",
+      "description": "Get ready for summer with our exclusive deals!",
+      "target_audience": "Young Adults",
+      "duration": "30 days",
+      "budget": "$5,000",
+      "status": "Active"
+    },
+    {
+      "id": "C002",
+      "name": "BACK TO SCHOOL",
+      "description": "Prepare for the new school year with our special offers.",
+      "target_audience": "Students and Parents",
+      "duration": "31 days",
+      "budget": "$7,000",
+      "status": "Active"
+    }
+  ]
+}
