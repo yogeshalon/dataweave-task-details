@@ -1,0 +1,19 @@
+{
+  "weatherSummary": [
+    {
+      "city": "New York",
+      "status": "Warm",
+      "comfortLevel": "Moderate"
+    },
+    {
+      "city": "Los Angeles",
+      "status": "Hot",
+      "comfortLevel": "Low"
+    },
+    {
+      "city": "Chicago",
+      "status": "Mild",
+      "comfortLevel": "High"
+    }
+  ]
+}
