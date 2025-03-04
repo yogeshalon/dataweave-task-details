@@ -1,0 +1,10 @@
+{
+  "monthlySales": [
+    {
+      "month": "October",
+      "year": 2023,
+      "totalSales": 130,
+      "totalOrders": 2
+    }
+  ]
+}
