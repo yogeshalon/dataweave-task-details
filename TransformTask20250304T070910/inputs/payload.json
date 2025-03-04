@@ -1,0 +1,28 @@
+{
+  "products": [
+    {
+      "id": "P001",
+      "name": "Widget A",
+      "description": "High-quality widget for various applications",
+      "category": "Widgets",
+      "price": 25.5,
+      "manufacturingDate": "2023-01-15"
+    },
+    {
+      "id": "P002",
+      "name": "Widget B",
+      "description": "Durable widget suitable for industrial use",
+      "category": "Widgets",
+      "price": 30,
+      "manufacturingDate": "2023-02-20"
+    },
+    {
+      "id": "P003",
+      "name": "Gadget C",
+      "description": "Innovative gadget with advanced features",
+      "category": "Gadgets",
+      "price": 45.75,
+      "manufacturingDate": "2023-03-10"
+    }
+  ]
+}
