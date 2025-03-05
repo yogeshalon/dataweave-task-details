@@ -1,0 +1,31 @@
+{
+  "reservations": [
+    {
+      "id": 1,
+      "customer": "John Doe",
+      "destination": "Paris",
+      "checkIn": "2023-10-01",
+      "checkOut": "2023-10-10",
+      "price": 1200,
+      "status": "confirmed"
+    },
+    {
+      "id": 2,
+      "customer": "Jane Smith",
+      "destination": "New York",
+      "checkIn": "2023-11-05",
+      "checkOut": "2023-11-12",
+      "price": 800,
+      "status": "pending"
+    },
+    {
+      "id": 3,
+      "customer": "Alice Johnson",
+      "destination": "Tokyo",
+      "checkIn": "2023-12-15",
+      "checkOut": "2023-12-22",
+      "price": 1500,
+      "status": "confirmed"
+    }
+  ]
+}
