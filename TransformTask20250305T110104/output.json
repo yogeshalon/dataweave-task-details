@@ -1,0 +1,12 @@
+{
+  "transactions": [
+    {
+      "propertyId": "P001",
+      "commissionAmount": 17500
+    },
+    {
+      "propertyId": "P002",
+      "commissionAmount": 27000
+    }
+  ]
+}
