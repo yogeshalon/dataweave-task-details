@@ -1,0 +1,19 @@
+{
+  "totalCost": 1450,
+  "reservationsSummary": [
+    {
+      "reservationId": "R123",
+      "customerName": "John Doe",
+      "flightPrice": 300,
+      "hotelTotalPrice": 750,
+      "totalReservationCost": 1050
+    },
+    {
+      "reservationId": "R124",
+      "customerName": "Jane Smith",
+      "flightPrice": 250,
+      "hotelTotalPrice": 600,
+      "totalReservationCost": 850
+    }
+  ]
+}
