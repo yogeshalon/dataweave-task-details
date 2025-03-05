@@ -1,0 +1,17 @@
+{
+  "summary": {
+    "totalTransactions": 3,
+    "totalAmount": 4001.25,
+    "completedTransactions": [
+      {
+        "transactionId": "T1001",
+        "amount": 1500.75
+      },
+      {
+        "transactionId": "T1003",
+        "amount": 500.5
+      }
+    ],
+    "pendingTransactionsCount": 1
+  }
+}
