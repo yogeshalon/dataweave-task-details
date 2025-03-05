@@ -1,0 +1,29 @@
+{
+  "transactions": [
+    {
+      "id": 1,
+      "amount": 150,
+      "category": "Groceries"
+    },
+    {
+      "id": 2,
+      "amount": 200,
+      "category": "Utilities"
+    },
+    {
+      "id": 3,
+      "amount": 50,
+      "category": "Groceries"
+    },
+    {
+      "id": 4,
+      "amount": 300,
+      "category": "Entertainment"
+    },
+    {
+      "id": 5,
+      "amount": 100,
+      "category": "Utilities"
+    }
+  ]
+}
