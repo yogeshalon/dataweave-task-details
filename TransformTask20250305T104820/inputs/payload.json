@@ -1,0 +1,25 @@
+{
+  "manufacturingOrders": [
+    {
+      "orderId": "MO123",
+      "product": "Widget A",
+      "quantity": 100,
+      "startDate": "2023-01-01",
+      "endDate": "2023-01-10"
+    },
+    {
+      "orderId": "MO124",
+      "product": "Widget B",
+      "quantity": 200,
+      "startDate": "2023-01-05",
+      "endDate": "2023-01-15"
+    },
+    {
+      "orderId": "MO125",
+      "product": "Widget C",
+      "quantity": 150,
+      "startDate": "2023-01-10",
+      "endDate": "2023-01-20"
+    }
+  ]
+}
