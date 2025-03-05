@@ -1,0 +1,28 @@
+{
+  "averageSalariesByDepartment": [
+    {
+      "department": "Sales",
+      "averageSalary": 52500,
+      "topPerformer": {
+        "name": "Emily Johnson",
+        "score": 5
+      }
+    },
+    {
+      "department": "Marketing",
+      "averageSalary": 60000,
+      "topPerformer": {
+        "name": "Jane Smith",
+        "score": 5
+      }
+    },
+    {
+      "department": "HR",
+      "averageSalary": 45000,
+      "topPerformer": {
+        "name": "Michael Brown",
+        "score": 4
+      }
+    }
+  ]
+}
