@@ -1,0 +1,16 @@
+{
+  "activeCustomers": [
+    {
+      "customerId": 1,
+      "name": "Alice Johnson",
+      "membershipDuration": 1.75,
+      "daysSinceLastPurchase": 0
+    },
+    {
+      "customerId": 2,
+      "name": "Bob Smith",
+      "membershipDuration": 2.33,
+      "daysSinceLastPurchase": 20
+    }
+  ]
+}
