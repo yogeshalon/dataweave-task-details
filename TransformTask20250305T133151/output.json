@@ -1,0 +1,17 @@
+{
+  "summary": [
+    {
+      "customerName": "John Doe",
+      "totalSpent": 180,
+      "orderCount": 1,
+      "averageOrderValue": 180
+    },
+    {
+      "customerName": "Jane Smith",
+      "totalSpent": 60,
+      "orderCount": 1,
+      "averageOrderValue": 60
+    }
+  ],
+  "totalRevenue": 240
+}
