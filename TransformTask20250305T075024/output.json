@@ -1,0 +1,16 @@
+{
+  "totalByCategory": [
+    {
+      "category": "Groceries",
+      "totalAmount": 200
+    },
+    {
+      "category": "Utilities",
+      "totalAmount": 300
+    },
+    {
+      "category": "Entertainment",
+      "totalAmount": 300
+    }
+  ]
+}
