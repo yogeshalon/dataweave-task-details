@@ -1,0 +1,14 @@
+{
+  "averageWeather": [
+    {
+      "city": "New York",
+      "averageTemperature": 30,
+      "averageHumidity": 70
+    },
+    {
+      "city": "Los Angeles",
+      "averageTemperature": 75,
+      "averageHumidity": 51
+    }
+  ]
+}
