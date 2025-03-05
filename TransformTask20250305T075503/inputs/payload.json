@@ -1,0 +1,25 @@
+{
+  "transactions": [
+    {
+      "transactionId": "T1001",
+      "customerId": "C2001",
+      "amount": 1500.75,
+      "date": "2023-10-01",
+      "status": "completed"
+    },
+    {
+      "transactionId": "T1002",
+      "customerId": "C2002",
+      "amount": 2500,
+      "date": "2023-10-02",
+      "status": "pending"
+    },
+    {
+      "transactionId": "T1003",
+      "customerId": "C2001",
+      "amount": 500.5,
+      "date": "2023-10-03",
+      "status": "completed"
+    }
+  ]
+}
