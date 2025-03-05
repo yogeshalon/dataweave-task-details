@@ -1,0 +1,16 @@
+{
+  "customerAnalytics": [
+    {
+      "name": "Alice",
+      "totalSpent": 450
+    },
+    {
+      "name": "Bob",
+      "totalSpent": 700
+    },
+    {
+      "name": "Charlie",
+      "totalSpent": 150
+    }
+  ]
+}
