@@ -1,0 +1,48 @@
+{
+  "employees": [
+    {
+      "id": 1,
+      "name": "John Doe",
+      "department": "Sales",
+      "salary": 50000,
+      "performanceScores": [
+        3,
+        4,
+        5
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Jane Smith",
+      "department": "Marketing",
+      "salary": 60000,
+      "performanceScores": [
+        4,
+        5,
+        4
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Emily Johnson",
+      "department": "Sales",
+      "salary": 55000,
+      "performanceScores": [
+        5,
+        5,
+        5
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Michael Brown",
+      "department": "HR",
+      "salary": 45000,
+      "performanceScores": [
+        3,
+        2,
+        4
+      ]
+    }
+  ]
+}
