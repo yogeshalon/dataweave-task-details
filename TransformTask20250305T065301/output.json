@@ -1,0 +1,18 @@
+{
+  "totalReservations": 3,
+  "confirmedReservations": [
+    {
+      "customer": "John Doe",
+      "destination": "Paris",
+      "stayDuration": 9,
+      "totalPrice": 1200
+    },
+    {
+      "customer": "Alice Johnson",
+      "destination": "Tokyo",
+      "stayDuration": 7,
+      "totalPrice": 1500
+    }
+  ],
+  "pendingReservationsCount": 1
+}
