@@ -1,0 +1,50 @@
+{
+  "orders": [
+    {
+      "orderId": "ORD001",
+      "customer": {
+        "name": "John Doe",
+        "location": {
+          "city": "New York",
+          "state": "NY"
+        }
+      },
+      "items": [
+        {
+          "productId": "P001",
+          "quantity": 10,
+          "price": 15
+        },
+        {
+          "productId": "P002",
+          "quantity": 5,
+          "price": 20
+        }
+      ],
+      "orderDate": "2023-09-15"
+    },
+    {
+      "orderId": "ORD002",
+      "customer": {
+        "name": "Jane Smith",
+        "location": {
+          "city": "Los Angeles",
+          "state": "CA"
+        }
+      },
+      "items": [
+        {
+          "productId": "P001",
+          "quantity": 2,
+          "price": 15
+        },
+        {
+          "productId": "P003",
+          "quantity": 1,
+          "price": 30
+        }
+      ],
+      "orderDate": "2023-09-16"
+    }
+  ]
+}
