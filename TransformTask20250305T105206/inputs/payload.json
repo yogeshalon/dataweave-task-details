@@ -1,0 +1,22 @@
+{
+  "customers": [
+    {
+      "customerId": 1,
+      "name": "Alice Johnson",
+      "signupDate": "2022-01-15",
+      "lastPurchaseDate": "2023-10-05"
+    },
+    {
+      "customerId": 2,
+      "name": "Bob Smith",
+      "signupDate": "2021-06-20",
+      "lastPurchaseDate": "2023-09-15"
+    },
+    {
+      "customerId": 3,
+      "name": "Charlie Brown",
+      "signupDate": "2023-03-10",
+      "lastPurchaseDate": null
+    }
+  ]
+}
