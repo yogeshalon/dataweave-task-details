@@ -1,0 +1,24 @@
+{
+  "customers": [
+    {
+      "customerId": "C001",
+      "fullName": "John Doe",
+      "contactNumber": "+1234567890",
+      "subscriptionDetails": {
+        "planType": "Premium",
+        "dataAllowanceGB": 50,
+        "costPerMonthUSD": 70
+      }
+    },
+    {
+      "customerId": "C002",
+      "fullName": "Jane Smith",
+      "contactNumber": "+0987654321",
+      "subscriptionDetails": {
+        "planType": "Basic",
+        "dataAllowanceGB": 10,
+        "costPerMonthUSD": 30
+      }
+    }
+  ]
+}
