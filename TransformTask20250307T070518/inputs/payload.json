@@ -1,0 +1,42 @@
+{
+  "reservations": [
+    {
+      "id": "R001",
+      "customer": {
+        "name": "John Doe",
+        "email": "john.doe@example.com"
+      },
+      "tripDetails": {
+        "destination": "Paris",
+        "departureDate": "2023-12-01",
+        "returnDate": "2023-12-10",
+        "adults": 2,
+        "children": 1
+      },
+      "payment": {
+        "amount": 1500,
+        "currency": "USD",
+        "status": "completed"
+      }
+    },
+    {
+      "id": "R002",
+      "customer": {
+        "name": "Jane Smith",
+        "email": "jane.smith@example.com"
+      },
+      "tripDetails": {
+        "destination": "Tokyo",
+        "departureDate": "2023-11-15",
+        "returnDate": "2023-11-25",
+        "adults": 1,
+        "children": 0
+      },
+      "payment": {
+        "amount": 1200,
+        "currency": "USD",
+        "status": "pending"
+      }
+    }
+  ]
+}
