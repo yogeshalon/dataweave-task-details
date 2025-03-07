@@ -1,0 +1,25 @@
+{
+  "subscriptions": [
+    {
+      "customerId": "C001",
+      "plan": "Basic",
+      "startDate": "2023-01-15",
+      "monthlyFee": 9.99,
+      "status": "active"
+    },
+    {
+      "customerId": "C002",
+      "plan": "Premium",
+      "startDate": "2022-12-01",
+      "monthlyFee": 19.99,
+      "status": "active"
+    },
+    {
+      "customerId": "C003",
+      "plan": "Basic",
+      "startDate": "2023-03-10",
+      "monthlyFee": 9.99,
+      "status": "inactive"
+    }
+  ]
+}
