@@ -1,0 +1,52 @@
+{
+  "campaigns": [
+    {
+      "id": "C001",
+      "name": "Summer Sale",
+      "budget": 15000,
+      "startDate": "2023-06-01",
+      "endDate": "2023-06-30",
+      "channels": [
+        {
+          "type": "Email",
+          "cost": 3000,
+          "responses": 150
+        },
+        {
+          "type": "Social Media",
+          "cost": 5000,
+          "responses": 300
+        },
+        {
+          "type": "PPC",
+          "cost": 7000,
+          "responses": 200
+        }
+      ]
+    },
+    {
+      "id": "C002",
+      "name": "Winter Clearance",
+      "budget": 20000,
+      "startDate": "2023-12-01",
+      "endDate": "2023-12-31",
+      "channels": [
+        {
+          "type": "Email",
+          "cost": 4000,
+          "responses": 250
+        },
+        {
+          "type": "Social Media",
+          "cost": 6000,
+          "responses": 400
+        },
+        {
+          "type": "PPC",
+          "cost": 10000,
+          "responses": 350
+        }
+      ]
+    }
+  ]
+}
