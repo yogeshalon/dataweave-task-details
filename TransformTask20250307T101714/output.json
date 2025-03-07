@@ -1,0 +1,12 @@
+{
+  "activeSubscriptions": [
+    {
+      "customerId": "C001",
+      "totalPaid": 59.97
+    },
+    {
+      "customerId": "C002",
+      "totalPaid": 39.98
+    }
+  ]
+}
