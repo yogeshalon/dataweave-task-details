@@ -1,0 +1,28 @@
+{
+  "inventory": [
+    {
+      "itemId": "A001",
+      "itemName": "Wireless Mouse",
+      "category": "Electronics",
+      "quantity": 150,
+      "price": 25.99,
+      "supplier": "Tech Supplies Co."
+    },
+    {
+      "itemId": "A002",
+      "itemName": "Mechanical Keyboard",
+      "category": "Electronics",
+      "quantity": 80,
+      "price": 49.99,
+      "supplier": "Tech Supplies Co."
+    },
+    {
+      "itemId": "B001",
+      "itemName": "Office Chair",
+      "category": "Furniture",
+      "quantity": 50,
+      "price": 199.99,
+      "supplier": "Office Goods Inc."
+    }
+  ]
+}
