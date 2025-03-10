@@ -1,0 +1,18 @@
+{
+  "summary": {
+    "totalInvestment": 3500,
+    "totalExpense": 500,
+    "netProfitLoss": 3000,
+    "currency": "USD",
+    "breakdown": [
+      {
+        "category": "investment",
+        "totalAmount": 3500
+      },
+      {
+        "category": "expense",
+        "totalAmount": 500
+      }
+    ]
+  }
+}
