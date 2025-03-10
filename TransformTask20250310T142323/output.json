@@ -1,0 +1,22 @@
+{
+  "inventorySummary": [
+    {
+      "itemId": "A001",
+      "itemName": "Wireless Mouse",
+      "totalValue": 3898.5,
+      "supplier": "Tech Supplies Co."
+    },
+    {
+      "itemId": "A002",
+      "itemName": "Mechanical Keyboard",
+      "totalValue": 3999.2,
+      "supplier": "Tech Supplies Co."
+    },
+    {
+      "itemId": "B001",
+      "itemName": "Office Chair",
+      "totalValue": 9999.5,
+      "supplier": "Office Goods Inc."
+    }
+  ]
+}
