@@ -1,0 +1,20 @@
+{
+  "products": [
+    {
+      "id": "P001",
+      "name": "Wireless Mouse",
+      "shortDescription": "Ergonomic wireless mouse.",
+      "category": "Electronics",
+      "formattedPrice": "$29.99",
+      "tagString": "wireless, mouse, ergonomic"
+    },
+    {
+      "id": "P002",
+      "name": "Mechanical Keyboard",
+      "shortDescription": "RGB backlit mechanical keyboard.",
+      "category": "Electronics",
+      "formattedPrice": "$89.99",
+      "tagString": "keyboard, mechanical, gaming"
+    }
+  ]
+}
