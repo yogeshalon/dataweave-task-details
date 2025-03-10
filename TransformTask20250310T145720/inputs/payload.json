@@ -1,0 +1,28 @@
+{
+  "products": [
+    {
+      "id": "P001",
+      "name": "Wireless Mouse",
+      "description": "Ergonomic wireless mouse with long battery life.",
+      "category": "Electronics",
+      "price": 29.99,
+      "tags": [
+        "wireless",
+        "mouse",
+        "ergonomic"
+      ]
+    },
+    {
+      "id": "P002",
+      "name": "Mechanical Keyboard",
+      "description": "RGB backlit mechanical keyboard for gaming.",
+      "category": "Electronics",
+      "price": 89.99,
+      "tags": [
+        "keyboard",
+        "mechanical",
+        "gaming"
+      ]
+    }
+  ]
+}
