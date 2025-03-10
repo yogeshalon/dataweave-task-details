@@ -1,0 +1,29 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "content": "Excited about our new product launch!",
+      "likes": 150,
+      "shares": 30,
+      "comments": [
+        {
+          "user": "Alice",
+          "text": "Can't wait to try it!"
+        },
+        {
+          "user": "Bob",
+          "text": "Looks amazing!"
+        }
+      ],
+      "timestamp": "2023-10-01T10:00:00Z"
+    },
+    {
+      "id": "2",
+      "content": "Join us for a live Q&A session!",
+      "likes": 200,
+      "shares": 50,
+      "comments": [],
+      "timestamp": "2023-10-02T12:00:00Z"
+    }
+  ]
+}
