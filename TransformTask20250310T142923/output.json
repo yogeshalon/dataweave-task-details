@@ -1,0 +1,16 @@
+{
+  "devices": [
+    {
+      "id": "device_001",
+      "average_metric": 56
+    },
+    {
+      "id": "device_002",
+      "average_metric": 45
+    },
+    {
+      "id": "device_003",
+      "average_metric": 54.75
+    }
+  ]
+}
