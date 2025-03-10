@@ -1,0 +1,16 @@
+{
+  "totalConsumption": [
+    {
+      "customerId": "C001",
+      "averageUsage": 400,
+      "peakMonth": "2023-03",
+      "peakUsage": 450
+    },
+    {
+      "customerId": "C002",
+      "averageUsage": 550,
+      "peakMonth": "2023-02",
+      "peakUsage": 600
+    }
+  ]
+}
