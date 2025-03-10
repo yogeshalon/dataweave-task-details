@@ -1,0 +1,25 @@
+{
+  "monthly_summary": [
+    {
+      "category": "Groceries",
+      "total_amount": 200,
+      "transaction_count": 2
+    },
+    {
+      "category": "Utilities",
+      "total_amount": 200,
+      "transaction_count": 1
+    },
+    {
+      "category": "Rent",
+      "total_amount": 300,
+      "transaction_count": 1
+    },
+    {
+      "category": "Entertainment",
+      "total_amount": 120,
+      "transaction_count": 1
+    }
+  ],
+  "overall_total": 820.75
+}
