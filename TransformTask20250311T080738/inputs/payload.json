@@ -1,0 +1,20 @@
+{
+  "reservations": [
+    {
+      "id": 1,
+      "customerName": "John Doe",
+      "checkInDate": "2023-10-01",
+      "checkOutDate": "2023-10-05",
+      "roomType": "Deluxe",
+      "pricePerNight": 150
+    },
+    {
+      "id": 2,
+      "customerName": "Jane Smith",
+      "checkInDate": "2023-10-03",
+      "checkOutDate": "2023-10-07",
+      "roomType": "Standard",
+      "pricePerNight": 100
+    }
+  ]
+}
