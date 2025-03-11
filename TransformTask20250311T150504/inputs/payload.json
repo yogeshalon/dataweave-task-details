@@ -1,0 +1,41 @@
+{
+  "patients": [
+    {
+      "id": "P001",
+      "name": "John Doe",
+      "age": 30,
+      "diagnosis": [
+        {
+          "code": "D01",
+          "description": "Hypertension"
+        },
+        {
+          "code": "D02",
+          "description": "Diabetes"
+        }
+      ],
+      "treatment": {
+        "medications": [
+          {
+            "name": "Lisinopril",
+            "dosage": "10mg"
+          },
+          {
+            "name": "Metformin",
+            "dosage": "500mg"
+          }
+        ],
+        "appointments": [
+          {
+            "date": "2023-10-01",
+            "type": "Follow-up"
+          },
+          {
+            "date": "2023-11-01",
+            "type": "Routine Check"
+          }
+        ]
+      }
+    }
+  ]
+}
