@@ -1,0 +1,18 @@
+{
+  "reservations": [
+    {
+      "id": 1,
+      "customerName": "John Doe",
+      "totalNights": 4,
+      "totalPrice": 600,
+      "stayDuration": "4 nights"
+    },
+    {
+      "id": 2,
+      "customerName": "Jane Smith",
+      "totalNights": 4,
+      "totalPrice": 400,
+      "stayDuration": "4 nights"
+    }
+  ]
+}
