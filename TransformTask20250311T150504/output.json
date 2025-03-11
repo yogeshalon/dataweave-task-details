@@ -1,0 +1,30 @@
+{
+  "patients": [
+    {
+      "id": "P001",
+      "fullName": "John Doe",
+      "ageGroup": "30-39",
+      "conditions": [
+        {
+          "diagnosisCode": "D01",
+          "diagnosisName": "Hypertension"
+        },
+        {
+          "diagnosisCode": "D02",
+          "diagnosisName": "Diabetes"
+        }
+      ],
+      "medicationsList": [
+        {
+          "medicationName": "Lisinopril",
+          "medicationDosage": "10mg"
+        },
+        {
+          "medicationName": "Metformin",
+          "medicationDosage": "500mg"
+        }
+      ],
+      "nextAppointmentDate": "2023-10-01"
+    }
+  ]
+}
