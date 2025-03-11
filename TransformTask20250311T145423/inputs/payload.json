@@ -1,0 +1,25 @@
+{
+  "transactions": [
+    {
+      "transactionId": "T001",
+      "amount": 1500.75,
+      "currency": "USD",
+      "description": "Payment for services",
+      "date": "2023-10-01"
+    },
+    {
+      "transactionId": "T002",
+      "amount": 2500.5,
+      "currency": "USD",
+      "description": "Consultation fee",
+      "date": "2023-10-02"
+    },
+    {
+      "transactionId": "T003",
+      "amount": 1200,
+      "currency": "USD",
+      "description": "Monthly subscription",
+      "date": "2023-10-03"
+    }
+  ]
+}
