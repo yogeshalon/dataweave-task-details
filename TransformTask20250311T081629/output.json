@@ -1,0 +1,14 @@
+{
+  "subscriptions": [
+    {
+      "userId": 101,
+      "activeDurationMonths": 12,
+      "renewalDate": "2024-01-15"
+    },
+    {
+      "userId": 102,
+      "activeDurationMonths": 12,
+      "renewalDate": "2024-05-20"
+    }
+  ]
+}
