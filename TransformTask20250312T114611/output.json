@@ -1,0 +1,23 @@
+{
+  "summary": {
+    "totalCustomers": 2,
+    "totalMonthlyRevenue": 170,
+    "averageAge": 27.5,
+    "plansSummary": [
+      {
+        "planId": "P001",
+        "totalSubscribers": 2,
+        "totalRevenue": 100,
+        "averageDataUsage": 12.5,
+        "averageCallMinutes": 175
+      },
+      {
+        "planId": "P002",
+        "totalSubscribers": 1,
+        "totalRevenue": 70,
+        "averageDataUsage": 20,
+        "averageCallMinutes": 300
+      }
+    ]
+  }
+}
