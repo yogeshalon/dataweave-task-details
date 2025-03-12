@@ -1,0 +1,22 @@
+{
+  "inventory": [
+    {
+      "itemId": "A001",
+      "itemName": "Wireless Mouse",
+      "description": "Ergonomic wireless mouse with USB receiver",
+      "category": "Electronics",
+      "price": "$29.99",
+      "quantity": 150,
+      "fullDescription": "Wireless Mouse: Ergonomic wireless mouse with USB receiver"
+    },
+    {
+      "itemId": "A002",
+      "itemName": "Mechanical Keyboard",
+      "description": "RGB mechanical keyboard with customizable keys",
+      "category": "Electronics",
+      "price": "$89.99",
+      "quantity": 75,
+      "fullDescription": "Mechanical Keyboard: RGB mechanical keyboard with customizable keys"
+    }
+  ]
+}
