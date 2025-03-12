@@ -1,0 +1,32 @@
+{
+  "patients": [
+    {
+      "id": 1,
+      "name": "John Doe",
+      "age": 30,
+      "diagnosis": "Hypertension",
+      "medications": [
+        {
+          "name": "Lisinopril",
+          "dosage": "10mg"
+        },
+        {
+          "name": "Amlodipine",
+          "dosage": "5mg"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Jane Smith",
+      "age": 25,
+      "diagnosis": "Asthma",
+      "medications": [
+        {
+          "name": "Albuterol",
+          "dosage": "90mcg"
+        }
+      ]
+    }
+  ]
+}
