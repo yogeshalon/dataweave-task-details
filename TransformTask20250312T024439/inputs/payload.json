@@ -1,0 +1,28 @@
+{
+  "transactions": [
+    {
+      "id": "T001",
+      "amount": 1500,
+      "category": "Investment",
+      "date": "2023-01-15"
+    },
+    {
+      "id": "T002",
+      "amount": 200,
+      "category": "Expense",
+      "date": "2023-01-20"
+    },
+    {
+      "id": "T003",
+      "amount": 3000,
+      "category": "Income",
+      "date": "2023-02-10"
+    },
+    {
+      "id": "T004",
+      "amount": 500,
+      "category": "Expense",
+      "date": "2023-02-15"
+    }
+  ]
+}
