@@ -1,0 +1,28 @@
+{
+  "reservations": [
+    {
+      "reservationId": "R001",
+      "customerName": "John Doe",
+      "destination": "Paris",
+      "travelDate": "2023-12-15",
+      "price": 1200,
+      "status": "confirmed"
+    },
+    {
+      "reservationId": "R002",
+      "customerName": "Jane Smith",
+      "destination": "New York",
+      "travelDate": "2023-11-20",
+      "price": 800,
+      "status": "pending"
+    },
+    {
+      "reservationId": "R003",
+      "customerName": "Alice Johnson",
+      "destination": "Tokyo",
+      "travelDate": "2023-10-10",
+      "price": 1500,
+      "status": "confirmed"
+    }
+  ]
+}
