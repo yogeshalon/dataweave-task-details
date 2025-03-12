@@ -1,0 +1,9 @@
+{
+  "deviceId": "IoT-12345",
+  "metrics": {
+    "temperature": "72.5F",
+    "humidity": "45%",
+    "status": "active"
+  },
+  "timestamp": "2023-10-01T12:00:00Z"
+}
