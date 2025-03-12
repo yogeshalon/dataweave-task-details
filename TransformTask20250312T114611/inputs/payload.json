@@ -1,0 +1,36 @@
+{
+  "customers": [
+    {
+      "customerId": "C001",
+      "name": "John Doe",
+      "age": 30,
+      "plans": [
+        {
+          "planId": "P001",
+          "monthlyFee": 50,
+          "dataUsage": 10,
+          "callMinutes": 200
+        },
+        {
+          "planId": "P002",
+          "monthlyFee": 70,
+          "dataUsage": 20,
+          "callMinutes": 300
+        }
+      ]
+    },
+    {
+      "customerId": "C002",
+      "name": "Jane Smith",
+      "age": 25,
+      "plans": [
+        {
+          "planId": "P001",
+          "monthlyFee": 50,
+          "dataUsage": 15,
+          "callMinutes": 150
+        }
+      ]
+    }
+  ]
+}
