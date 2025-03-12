@@ -1,0 +1,36 @@
+{
+  "patients": [
+    {
+      "patientId": 1,
+      "fullName": "John Doe",
+      "ageGroup": "Adult",
+      "conditions": [
+        "Hypertension"
+      ],
+      "medicationList": [
+        {
+          "medicationName": "Lisinopril",
+          "medicationDosage": "10mg"
+        },
+        {
+          "medicationName": "Amlodipine",
+          "medicationDosage": "5mg"
+        }
+      ]
+    },
+    {
+      "patientId": 2,
+      "fullName": "Jane Smith",
+      "ageGroup": "Young Adult",
+      "conditions": [
+        "Asthma"
+      ],
+      "medicationList": [
+        {
+          "medicationName": "Albuterol",
+          "medicationDosage": "90mcg"
+        }
+      ]
+    }
+  ]
+}
