@@ -1,0 +1,42 @@
+{
+  "reservations": [
+    {
+      "reservationId": "R123",
+      "customer": {
+        "name": "John Doe",
+        "email": "john.doe@example.com"
+      },
+      "travelDetails": {
+        "origin": "New York",
+        "destination": "Los Angeles",
+        "departureDate": "2023-10-15",
+        "returnDate": "2023-10-22",
+        "flightClass": "Economy"
+      },
+      "payment": {
+        "amount": 350,
+        "currency": "USD",
+        "status": "Paid"
+      }
+    },
+    {
+      "reservationId": "R124",
+      "customer": {
+        "name": "Jane Smith",
+        "email": "jane.smith@example.com"
+      },
+      "travelDetails": {
+        "origin": "Chicago",
+        "destination": "Miami",
+        "departureDate": "2023-11-01",
+        "returnDate": "2023-11-08",
+        "flightClass": "Business"
+      },
+      "payment": {
+        "amount": 750,
+        "currency": "USD",
+        "status": "Pending"
+      }
+    }
+  ]
+}
