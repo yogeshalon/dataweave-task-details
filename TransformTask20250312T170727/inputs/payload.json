@@ -1,0 +1,38 @@
+{
+  "vehicles": [
+    {
+      "id": 1,
+      "type": "Truck",
+      "fuelConsumption": 15,
+      "trips": [
+        {
+          "date": "2023-10-01",
+          "distance": 120,
+          "duration": 180
+        },
+        {
+          "date": "2023-10-02",
+          "distance": 200,
+          "duration": 240
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "type": "Van",
+      "fuelConsumption": 10,
+      "trips": [
+        {
+          "date": "2023-10-01",
+          "distance": 80,
+          "duration": 120
+        },
+        {
+          "date": "2023-10-02",
+          "distance": 150,
+          "duration": 150
+        }
+      ]
+    }
+  ]
+}
