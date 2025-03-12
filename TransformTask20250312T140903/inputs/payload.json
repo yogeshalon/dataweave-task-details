@@ -1,0 +1,43 @@
+{
+  "campaigns": [
+    {
+      "id": 1,
+      "name": "Summer Sale",
+      "target_audience": [
+        "young adults",
+        "families"
+      ],
+      "budget": 5000,
+      "metrics": {
+        "clicks": 1500,
+        "impressions": 20000
+      }
+    },
+    {
+      "id": 2,
+      "name": "Winter Clearance",
+      "target_audience": [
+        "seniors",
+        "families"
+      ],
+      "budget": 3000,
+      "metrics": {
+        "clicks": 800,
+        "impressions": 10000
+      }
+    },
+    {
+      "id": 3,
+      "name": "Back to School",
+      "target_audience": [
+        "students",
+        "parents"
+      ],
+      "budget": 7000,
+      "metrics": {
+        "clicks": 2000,
+        "impressions": 25000
+      }
+    }
+  ]
+}
