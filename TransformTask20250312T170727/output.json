@@ -1,0 +1,18 @@
+{
+  "summary": [
+    {
+      "vehicleId": 1,
+      "totalDistance": 320,
+      "totalDuration": 420,
+      "averageSpeed": 45.71,
+      "totalFuelUsed": 32
+    },
+    {
+      "vehicleId": 2,
+      "totalDistance": 230,
+      "totalDuration": 270,
+      "averageSpeed": 51.11,
+      "totalFuelUsed": 23
+    }
+  ]
+}
