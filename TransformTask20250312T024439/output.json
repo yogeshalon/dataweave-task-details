@@ -1,0 +1,19 @@
+{
+  "summary": {
+    "totalIncome": 3000,
+    "totalExpense": 700,
+    "netSavings": 2300,
+    "monthlyBreakdown": [
+      {
+        "month": "January",
+        "totalIncome": 0,
+        "totalExpense": 200
+      },
+      {
+        "month": "February",
+        "totalIncome": 3000,
+        "totalExpense": 500
+      }
+    ]
+  }
+}
