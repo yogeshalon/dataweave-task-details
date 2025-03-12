@@ -1,0 +1,35 @@
+{
+  "products": [
+    {
+      "id": "P001",
+      "name": "Wireless Mouse",
+      "description": "Ergonomic wireless mouse with USB receiver",
+      "category": "Electronics",
+      "price": 29.99,
+      "tags": [
+        "wireless",
+        "mouse",
+        "ergonomic"
+      ]
+    },
+    {
+      "id": "P002",
+      "name": "Mechanical Keyboard",
+      "description": "RGB mechanical keyboard with customizable keys",
+      "category": "Electronics",
+      "price": 89.99,
+      "tags": [
+        "keyboard",
+        "mechanical",
+        "RGB"
+      ]
+    }
+  ],
+  "supplier": {
+    "name": "Tech Supplies Co.",
+    "contact": {
+      "email": "contact@techsupplies.com",
+      "phone": "+1234567890"
+    }
+  }
+}
