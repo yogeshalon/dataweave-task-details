@@ -1,0 +1,28 @@
+{
+  "summary": {
+    "totalReservations": 2,
+    "totalRevenue": 1100,
+    "currency": "USD",
+    "reservations": [
+      {
+        "reservationId": "R123",
+        "customerName": "John Doe",
+        "flightClass": "Economy",
+        "status": "Confirmed"
+      },
+      {
+        "reservationId": "R124",
+        "customerName": "Jane Smith",
+        "flightClass": "Business",
+        "status": "Pending"
+      }
+    ],
+    "highValueReservations": [
+      {
+        "reservationId": "R124",
+        "customerName": "Jane Smith",
+        "amount": 750
+      }
+    ]
+  }
+}
