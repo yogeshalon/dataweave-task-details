@@ -1,0 +1,14 @@
+{
+  "averageMetrics": {
+    "averageTemperature": 23.25,
+    "averageHumidity": 47.5,
+    "averageBatteryLevel": 67.5
+  },
+  "alerts": [
+    {
+      "deviceId": "D002",
+      "alertType": "Battery Low",
+      "timestamp": "2023-10-01T10:05:00Z"
+    }
+  ]
+}
