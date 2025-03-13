@@ -1,0 +1,5 @@
+fleetManagementData=vehicleId,vehicleType,status,mileage
+V001,Truck,active,15000
+V002,Van,inactive,30000
+V003,Truck,active,25000
+V004,SUV,active,12000
