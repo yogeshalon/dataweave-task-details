@@ -1,0 +1,22 @@
+{
+  "energyConsumption": [
+    {
+      "id": 1,
+      "customerName": "Alice Johnson",
+      "monthlyUsage": "350.5",
+      "billingDate": "2023-10-01"
+    },
+    {
+      "id": 2,
+      "customerName": "Bob Smith",
+      "monthlyUsage": "420.0",
+      "billingDate": "2023-10-01"
+    },
+    {
+      "id": 3,
+      "customerName": "Charlie Brown",
+      "monthlyUsage": "280.75",
+      "billingDate": "2023-10-01"
+    }
+  ]
+}
