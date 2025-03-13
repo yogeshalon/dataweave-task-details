@@ -1,0 +1,20 @@
+{
+  "manufacturingOrders": [
+    {
+      "orderId": "MO123",
+      "product": "Widget A",
+      "quantity": 100,
+      "unitPrice": 5,
+      "status": "completed",
+      "productionDate": "2023-10-01"
+    },
+    {
+      "orderId": "MO124",
+      "product": "Widget B",
+      "quantity": 200,
+      "unitPrice": 7.5,
+      "status": "pending",
+      "productionDate": "2023-10-02"
+    }
+  ]
+}
