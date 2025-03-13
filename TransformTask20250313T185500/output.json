@@ -1,0 +1,18 @@
+{
+  "totalRevenue": 2000,
+  "completedOrders": [
+    {
+      "orderId": "MO123",
+      "product": "Widget A",
+      "totalPrice": 500
+    }
+  ],
+  "pendingOrders": [
+    {
+      "orderId": "MO124",
+      "product": "Widget B",
+      "quantity": 200,
+      "unitPrice": 7.5
+    }
+  ]
+}
