@@ -1,0 +1,20 @@
+{
+  "summary": [
+    {
+      "customerId": "C001",
+      "name": "John Doe",
+      "totalDataUsed": 35.5,
+      "totalCallsMade": 220,
+      "averageMonthlyFee": 49.99,
+      "subscriptionStatus": "Expired"
+    },
+    {
+      "customerId": "C002",
+      "name": "Jane Smith",
+      "totalDataUsed": 22.5,
+      "totalCallsMade": 170,
+      "averageMonthlyFee": 29.99,
+      "subscriptionStatus": "Active"
+    }
+  ]
+}
