@@ -1,0 +1,50 @@
+{
+  "customers": [
+    {
+      "customerId": "C001",
+      "name": "John Doe",
+      "age": 34,
+      "subscription": {
+        "type": "Premium",
+        "startDate": "2020-01-15",
+        "endDate": "2023-01-15",
+        "monthlyFee": 49.99
+      },
+      "usage": [
+        {
+          "month": "2022-12",
+          "dataUsed": 15.5,
+          "callsMade": 120
+        },
+        {
+          "month": "2023-01",
+          "dataUsed": 20,
+          "callsMade": 100
+        }
+      ]
+    },
+    {
+      "customerId": "C002",
+      "name": "Jane Smith",
+      "age": 28,
+      "subscription": {
+        "type": "Basic",
+        "startDate": "2021-05-20",
+        "endDate": "2023-05-20",
+        "monthlyFee": 29.99
+      },
+      "usage": [
+        {
+          "month": "2022-12",
+          "dataUsed": 10,
+          "callsMade": 80
+        },
+        {
+          "month": "2023-01",
+          "dataUsed": 12.5,
+          "callsMade": 90
+        }
+      ]
+    }
+  ]
+}
