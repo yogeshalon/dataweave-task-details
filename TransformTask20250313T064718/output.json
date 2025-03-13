@@ -1,0 +1,18 @@
+{
+  "totalUsage": 1051.25,
+  "averageUsage": 350.42,
+  "customers": [
+    {
+      "name": "Alice Johnson",
+      "usage": 350.5
+    },
+    {
+      "name": "Bob Smith",
+      "usage": 420
+    },
+    {
+      "name": "Charlie Brown",
+      "usage": 280.75
+    }
+  ]
+}
