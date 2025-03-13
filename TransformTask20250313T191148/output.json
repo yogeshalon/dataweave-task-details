@@ -1,0 +1,8 @@
+--boundary
+Content-Disposition: form-data; name="activeVehicles"
+
+vehicleId,vehicleType,mileage
+V001,Truck,15000
+V003,Truck,25000
+V004,SUV,12000
+--boundary--
