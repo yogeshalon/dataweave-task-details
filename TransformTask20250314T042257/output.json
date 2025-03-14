@@ -1,0 +1,20 @@
+{
+  "totalConsumption": "12.00 kWh",
+  "details": [
+    {
+      "device": "Air Conditioner",
+      "consumption": "10.00 kWh"
+    },
+    {
+      "device": "Refrigerator",
+      "consumption": "3.60 kWh"
+    },
+    {
+      "device": "Washing Machine",
+      "consumption": "1.00 kWh"
+    }
+  ],
+  "summary": {
+    "averageConsumptionPerDevice": "4.53 kWh"
+  }
+}
