@@ -1,0 +1,18 @@
+{
+  "reservations": [
+    {
+      "reservationId": "R123",
+      "customerName": "John Doe",
+      "checkInDate": "2023-10-15T14:00:00Z",
+      "checkOutDate": "2023-10-20T11:00:00Z",
+      "roomType": "Deluxe"
+    },
+    {
+      "reservationId": "R124",
+      "customerName": "Jane Smith",
+      "checkInDate": "2023-10-18T15:00:00Z",
+      "checkOutDate": "2023-10-22T12:00:00Z",
+      "roomType": "Standard"
+    }
+  ]
+}
