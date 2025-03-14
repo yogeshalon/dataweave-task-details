@@ -1,0 +1,18 @@
+{
+  "reservations": [
+    {
+      "reservationId": "R123",
+      "customerName": "John Doe",
+      "stayDuration": 5,
+      "checkInDateFormatted": "October 15, 2023",
+      "checkOutDateFormatted": "October 20, 2023"
+    },
+    {
+      "reservationId": "R124",
+      "customerName": "Jane Smith",
+      "stayDuration": 4,
+      "checkInDateFormatted": "October 18, 2023",
+      "checkOutDateFormatted": "October 22, 2023"
+    }
+  ]
+}
