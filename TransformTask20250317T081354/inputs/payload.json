@@ -1,0 +1,22 @@
+{
+  "customers": [
+    {
+      "id": 1,
+      "name": "John Doe",
+      "phone": "+1234567890",
+      "subscription": {
+        "type": "premium",
+        "startDate": "2022-01-15"
+      }
+    },
+    {
+      "id": 2,
+      "name": "Jane Smith",
+      "phone": "+0987654321",
+      "subscription": {
+        "type": "basic",
+        "startDate": "2021-06-20"
+      }
+    }
+  ]
+}
