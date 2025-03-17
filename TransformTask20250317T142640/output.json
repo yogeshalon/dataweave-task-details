@@ -1,0 +1,18 @@
+{
+  "approvedClaims": [
+    {
+      "claimId": "C12345",
+      "policyHolderName": "John Doe",
+      "claimAmount": 1500,
+      "incidentDate": "2023-08-15"
+    },
+    {
+      "claimId": "C12347",
+      "policyHolderName": "Alice Johnson",
+      "claimAmount": 3000,
+      "incidentDate": "2023-09-15"
+    }
+  ],
+  "totalApprovedAmount": 4500,
+  "pendingClaimsCount": 1
+}
