@@ -1,0 +1,1 @@
+{"TotalSales": 427.5, "ProductsSummary": [{"ProductID": 101, "TotalRevenue": 255.0, "TotalQuantitySold": 10}, {"ProductID": 102, "TotalRevenue": 150.0, "TotalQuantitySold": 5}], "InventoryStatus": [{"ProductID": 101, "RemainingStock": 90}, {"ProductID": 102, "RemainingStock": 145}, {"ProductID": 103, "RemainingStock": 200}]}
