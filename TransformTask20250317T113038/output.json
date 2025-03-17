@@ -1,0 +1,22 @@
+{
+  "customerAnalytics": [
+    {
+      "customerId": 1,
+      "name": "John Doe",
+      "totalSpent": 350,
+      "averageSpent": 175
+    },
+    {
+      "customerId": 2,
+      "name": "Jane Smith",
+      "totalSpent": 300,
+      "averageSpent": 300
+    },
+    {
+      "customerId": 3,
+      "name": "Emily Johnson",
+      "totalSpent": 125,
+      "averageSpent": 62.5
+    }
+  ]
+}
