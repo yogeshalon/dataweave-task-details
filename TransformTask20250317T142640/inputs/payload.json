@@ -1,0 +1,37 @@
+{
+  "claims": [
+    {
+      "claimId": "C12345",
+      "policyHolder": {
+        "name": "John Doe",
+        "age": 35,
+        "policyNumber": "P98765"
+      },
+      "claimAmount": 1500,
+      "incidentDate": "2023-08-15",
+      "status": "approved"
+    },
+    {
+      "claimId": "C12346",
+      "policyHolder": {
+        "name": "Jane Smith",
+        "age": 42,
+        "policyNumber": "P98766"
+      },
+      "claimAmount": 2500,
+      "incidentDate": "2023-09-10",
+      "status": "pending"
+    },
+    {
+      "claimId": "C12347",
+      "policyHolder": {
+        "name": "Alice Johnson",
+        "age": 29,
+        "policyNumber": "P98767"
+      },
+      "claimAmount": 3000,
+      "incidentDate": "2023-09-15",
+      "status": "approved"
+    }
+  ]
+}
