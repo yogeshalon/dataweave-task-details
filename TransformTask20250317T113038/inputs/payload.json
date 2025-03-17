@@ -1,0 +1,50 @@
+{
+  "customers": [
+    {
+      "customerId": 1,
+      "name": "John Doe",
+      "age": 28,
+      "purchaseHistory": [
+        {
+          "orderId": 101,
+          "amount": 150,
+          "date": "2023-01-15"
+        },
+        {
+          "orderId": 102,
+          "amount": 200,
+          "date": "2023-02-20"
+        }
+      ]
+    },
+    {
+      "customerId": 2,
+      "name": "Jane Smith",
+      "age": 34,
+      "purchaseHistory": [
+        {
+          "orderId": 103,
+          "amount": 300,
+          "date": "2023-01-25"
+        }
+      ]
+    },
+    {
+      "customerId": 3,
+      "name": "Emily Johnson",
+      "age": 22,
+      "purchaseHistory": [
+        {
+          "orderId": 104,
+          "amount": 50,
+          "date": "2023-03-05"
+        },
+        {
+          "orderId": 105,
+          "amount": 75,
+          "date": "2023-03-10"
+        }
+      ]
+    }
+  ]
+}
