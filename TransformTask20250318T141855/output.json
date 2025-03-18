@@ -1,0 +1,2 @@
+application/json
+{"customerAnalytics":{"totalCustomers":3,"totalRevenue":651.25,"averageSpent":217.08,"lastPurchaseDate":"2023-10-03"}}
