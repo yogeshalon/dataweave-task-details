@@ -1,0 +1,19 @@
+{
+  "weatherSummary": [
+    {
+      "city": "New York",
+      "feelsLike": 90,
+      "status": "Hot and Humid"
+    },
+    {
+      "city": "Los Angeles",
+      "feelsLike": 75,
+      "status": "Pleasant"
+    },
+    {
+      "city": "Chicago",
+      "feelsLike": 80,
+      "status": "Mild"
+    }
+  ]
+}
