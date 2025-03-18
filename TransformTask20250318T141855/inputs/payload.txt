@@ -1,0 +1,6 @@
+multipart/form-data; boundary=---123456789
+---123456789
+Content-Disposition: form-data; name="customerData"
+
+{"customers":[{"id":1,"name":"John Doe","purchaseDate":"2023-10-01","amountSpent":150.75},{"id":2,"name":"Jane Smith","purchaseDate":"2023-10-02","amountSpent":200.50},{"id":3,"name":"Emily Johnson","purchaseDate":"2023-10-03","amountSpent":300.00}]}
+---123456789--
