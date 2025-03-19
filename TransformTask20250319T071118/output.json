@@ -1,0 +1,19 @@
+{
+  "transactions": [
+    {
+      "transactionId": "TX1001",
+      "totalCommission": 17500,
+      "agentName": "John Doe"
+    },
+    {
+      "transactionId": "TX1002",
+      "totalCommission": 27000,
+      "agentName": "Jane Smith"
+    },
+    {
+      "transactionId": "TX1003",
+      "totalCommission": 10000,
+      "agentName": "Emily Johnson"
+    }
+  ]
+}
