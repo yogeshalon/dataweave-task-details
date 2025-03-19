@@ -1,0 +1,19 @@
+{
+  "students_summary": [
+    {
+      "name": "Alice Johnson",
+      "average_grade": "B",
+      "email_domain": "example.com"
+    },
+    {
+      "name": "Bob Smith",
+      "average_grade": "B",
+      "email_domain": "example.com"
+    },
+    {
+      "name": "Charlie Brown",
+      "average_grade": "C",
+      "email_domain": "example.com"
+    }
+  ]
+}
