@@ -1,0 +1,16 @@
+{
+  "totalAmount": 350.75,
+  "currency": "USD",
+  "transactions": [
+    {
+      "id": "T001",
+      "description": "Payment for invoice #12345",
+      "invoiceUrl": "http://example.com/invoice/12345"
+    },
+    {
+      "id": "T002",
+      "description": "Payment for invoice #12346",
+      "invoiceUrl": "http://example.com/invoice/12346"
+    }
+  ]
+}
