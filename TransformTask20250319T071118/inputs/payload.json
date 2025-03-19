@@ -1,0 +1,22 @@
+{
+  "transactions": [
+    {
+      "transactionId": "TX1001",
+      "propertyValue": 350000,
+      "commissionRate": 0.05,
+      "agentName": "John Doe"
+    },
+    {
+      "transactionId": "TX1002",
+      "propertyValue": 450000,
+      "commissionRate": 0.06,
+      "agentName": "Jane Smith"
+    },
+    {
+      "transactionId": "TX1003",
+      "propertyValue": 250000,
+      "commissionRate": 0.04,
+      "agentName": "Emily Johnson"
+    }
+  ]
+}
