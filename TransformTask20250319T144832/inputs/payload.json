@@ -1,0 +1,40 @@
+{
+  "campaigns": [
+    {
+      "id": 1,
+      "name": "Summer Sale",
+      "responses": [
+        {
+          "customerId": 101,
+          "purchaseAmount": 150
+        },
+        {
+          "customerId": 102,
+          "purchaseAmount": 200
+        },
+        {
+          "customerId": 103,
+          "purchaseAmount": 50
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Winter Clearance",
+      "responses": [
+        {
+          "customerId": 104,
+          "purchaseAmount": 300
+        },
+        {
+          "customerId": 105,
+          "purchaseAmount": 400
+        },
+        {
+          "customerId": 106,
+          "purchaseAmount": 100
+        }
+      ]
+    }
+  ]
+}
