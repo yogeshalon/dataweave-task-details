@@ -1,0 +1,3 @@
+Content-Disposition: form-data; name="product"
+
+{"id":"P001","name":"Widget A","quantity":100,"supplier":{"id":"S001","name":"Supplier X","contact":"contact@supplierx.com"}}
