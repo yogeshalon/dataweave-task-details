@@ -1,0 +1,14 @@
+{
+  "campaignsSummary": [
+    {
+      "campaignId": 1,
+      "totalResponses": 3,
+      "averagePurchaseAmount": 100
+    },
+    {
+      "campaignId": 2,
+      "totalResponses": 3,
+      "averagePurchaseAmount": 266.67
+    }
+  ]
+}
