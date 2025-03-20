@@ -1,0 +1,17 @@
+{
+  "totalRevenue": 2700,
+  "confirmedReservations": [
+    {
+      "customer": "John Doe",
+      "destination": "Paris",
+      "duration": 9,
+      "pricePerNight": 166.67
+    },
+    {
+      "customer": "Alice Johnson",
+      "destination": "Tokyo",
+      "duration": 7,
+      "pricePerNight": 285.71
+    }
+  ]
+}
