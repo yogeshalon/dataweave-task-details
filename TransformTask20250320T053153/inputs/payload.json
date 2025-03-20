@@ -1,0 +1,12 @@
+{
+  "energyConsumption": [
+    {
+      "date": "2023-10-01",
+      "usage": "1500 kWh"
+    },
+    {
+      "date": "2023-10-02",
+      "usage": "1800 kWh"
+    }
+  ]
+}
