@@ -1,0 +1,18 @@
+{
+  "campaigns": [
+    {
+      "id": 1,
+      "name": "Spring Sale",
+      "durationInDays": 30,
+      "totalBudget": 5000,
+      "status": "Active"
+    },
+    {
+      "id": 2,
+      "name": "Summer Promotion",
+      "durationInDays": 30,
+      "totalBudget": 7000,
+      "status": "Active"
+    }
+  ]
+}
