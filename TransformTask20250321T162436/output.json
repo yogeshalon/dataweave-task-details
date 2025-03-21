@@ -1,0 +1,16 @@
+{
+  "totalConsumption": [
+    {
+      "buildingId": "B001",
+      "averageConsumption": 1200,
+      "peakMonth": "2023-03",
+      "peakConsumption": 1300
+    },
+    {
+      "buildingId": "B002",
+      "averageConsumption": 1500,
+      "peakMonth": "2023-02",
+      "peakConsumption": 1600
+    }
+  ]
+}
