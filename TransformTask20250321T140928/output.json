@@ -1,0 +1,15 @@
+{
+  "summary": {
+    "totalIncome": 3000,
+    "totalExpense": 2500,
+    "netSavings": 500,
+    "monthlyBreakdown": [
+      {
+        "month": "October",
+        "income": 3000,
+        "expenses": 2500,
+        "savings": 500
+      }
+    ]
+  }
+}
