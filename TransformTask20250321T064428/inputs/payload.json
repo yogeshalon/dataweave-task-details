@@ -1,0 +1,19 @@
+{
+  "energyConsumption": [
+    {
+      "device": "Air Conditioner",
+      "usageHours": 5,
+      "unit": "kWh"
+    },
+    {
+      "device": "Refrigerator",
+      "usageHours": 24,
+      "unit": "kWh"
+    },
+    {
+      "device": "Washing Machine",
+      "usageHours": 2,
+      "unit": "kWh"
+    }
+  ]
+}
