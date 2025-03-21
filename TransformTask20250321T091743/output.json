@@ -1,0 +1,17 @@
+[
+  {
+    "customerId": 101,
+    "fullName": "John Doe",
+    "totalSpent": 150.75
+  },
+  {
+    "customerId": 102,
+    "fullName": "Jane Smith",
+    "totalSpent": 200.5
+  },
+  {
+    "customerId": 103,
+    "fullName": "Emily Jones",
+    "totalSpent": 75
+  }
+]
