@@ -1,0 +1,20 @@
+[
+  {
+    "customerId": 101,
+    "firstName": "John",
+    "lastName": "Doe",
+    "purchaseAmount": 150.75
+  },
+  {
+    "customerId": 102,
+    "firstName": "Jane",
+    "lastName": "Smith",
+    "purchaseAmount": 200.5
+  },
+  {
+    "customerId": 103,
+    "firstName": "Emily",
+    "lastName": "Jones",
+    "purchaseAmount": 75
+  }
+]
