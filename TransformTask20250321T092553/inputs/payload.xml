@@ -1,0 +1,28 @@
+<financialData>
+  <transactions>
+    <transaction>
+      <id>101</id>
+      <amount>250.75</amount>
+      <date>2023-01-15</date>
+      <category>Groceries</category>
+    </transaction>
+    <transaction>
+      <id>102</id>
+      <amount>1500.00</amount>
+      <date>2023-01-20</date>
+      <category>Rent</category>
+    </transaction>
+    <transaction>
+      <id>103</id>
+      <amount>75.50</amount>
+      <date>2023-01-25</date>
+      <category>Utilities</category>
+    </transaction>
+    <transaction>
+      <id>104</id>
+      <amount>300.00</amount>
+      <date>2023-02-05</date>
+      <category>Entertainment</category>
+    </transaction>
+  </transactions>
+</financialData>
