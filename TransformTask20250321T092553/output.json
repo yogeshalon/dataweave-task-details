@@ -1,0 +1,20 @@
+<monthlySummary>
+  <month name="January">
+    <totalIncome>0.00</totalIncome>
+    <totalExpenses>1826.25</totalExpenses>
+    <netSavings>-1826.25</netSavings>
+    <categories>
+      <category name="Groceries" total="250.75"/>
+      <category name="Rent" total="1500.00"/>
+      <category name="Utilities" total="75.50"/>
+    </categories>
+  </month>
+  <month name="February">
+    <totalIncome>0.00</totalIncome>
+    <totalExpenses>300.00</totalExpenses>
+    <netSavings>-300.00</netSavings>
+    <categories>
+      <category name="Entertainment" total="300.00"/>
+    </categories>
+  </month>
+</monthlySummary>
