@@ -1,0 +1,20 @@
+<fleet>
+  <vehicle>
+    <id>V001</id>
+    <type>Truck</type>
+    <mileage>15000</mileage>
+    <lastServiceDate>2023-01-15</lastServiceDate>
+  </vehicle>
+  <vehicle>
+    <id>V002</id>
+    <type>Van</type>
+    <mileage>25000</mileage>
+    <lastServiceDate>2023-03-10</lastServiceDate>
+  </vehicle>
+  <vehicle>
+    <id>V003</id>
+    <type>Truck</type>
+    <mileage>30000</mileage>
+    <lastServiceDate>2023-02-20</lastServiceDate>
+  </vehicle>
+</fleet>
