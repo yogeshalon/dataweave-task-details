@@ -1,0 +1,17 @@
+{
+  "activeVehicles": [
+    {
+      "id": "V001",
+      "type": "Truck",
+      "mileage": 15000,
+      "nextServiceDue": "2023-07-15"
+    },
+    {
+      "id": "V002",
+      "type": "Van",
+      "mileage": 25000,
+      "nextServiceDue": "2023-09-10"
+    }
+  ],
+  "inactiveVehiclesCount": 1
+}
