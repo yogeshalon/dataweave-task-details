@@ -1,0 +1,16 @@
+{
+  "products": [
+    {
+      "id": "P001",
+      "name": "Wireless Mouse",
+      "price": 29.99,
+      "quantity": 100
+    },
+    {
+      "id": "P002",
+      "name": "Mechanical Keyboard",
+      "price": 89.99,
+      "quantity": 50
+    }
+  ]
+}
