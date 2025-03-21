@@ -1,0 +1,16 @@
+{
+  "summary": [
+    {
+      "customerId": "C001",
+      "totalSpent": 130,
+      "totalItems": 3,
+      "lastOrderDate": "2023-10-01"
+    },
+    {
+      "customerId": "C002",
+      "totalSpent": 110,
+      "totalItems": 4,
+      "lastOrderDate": "2023-10-02"
+    }
+  ]
+}
