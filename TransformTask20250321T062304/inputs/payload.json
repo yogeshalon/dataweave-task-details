@@ -1,0 +1,18 @@
+{
+  "campaigns": [
+    {
+      "id": "C001",
+      "name": "Summer Sale",
+      "description": "Huge discounts on summer products!",
+      "startDate": "2023-06-01",
+      "endDate": "2023-08-31"
+    },
+    {
+      "id": "C002",
+      "name": "Winter Clearance",
+      "description": "Clearance sale for winter items.",
+      "startDate": "2023-12-01",
+      "endDate": "2024-01-15"
+    }
+  ]
+}
