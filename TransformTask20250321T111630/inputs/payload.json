@@ -1,0 +1,16 @@
+{
+  "claims": [
+    {
+      "claimId": "CLM12345",
+      "policyHolder": "John Doe",
+      "description": "Accident involving a vehicle",
+      "status": "Pending"
+    },
+    {
+      "claimId": "CLM12346",
+      "policyHolder": "Jane Smith",
+      "description": "Theft of personal belongings",
+      "status": "Approved"
+    }
+  ]
+}
