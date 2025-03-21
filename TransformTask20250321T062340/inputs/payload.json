@@ -1,0 +1,18 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "content": "Loving the new features!",
+      "likes": 150,
+      "comments": 10,
+      "created_at": "2023-10-01T12:00:00Z"
+    },
+    {
+      "id": "2",
+      "content": "Not a fan of the latest update.",
+      "likes": 30,
+      "comments": 5,
+      "created_at": "2023-10-02T14:00:00Z"
+    }
+  ]
+}
