@@ -1,0 +1,14 @@
+{
+  "products": [
+    {
+      "id": "P001",
+      "name": "Wireless Mouse",
+      "totalValue": 2999
+    },
+    {
+      "id": "P002",
+      "name": "Mechanical Keyboard",
+      "totalValue": 4499.5
+    }
+  ]
+}
