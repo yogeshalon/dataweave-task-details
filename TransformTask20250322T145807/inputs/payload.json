@@ -1,0 +1,16 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Widget A",
+      "manufactureDate": "2023-01-15T00:00:00Z",
+      "expiryDate": "2024-01-15T00:00:00Z"
+    },
+    {
+      "id": 2,
+      "name": "Widget B",
+      "manufactureDate": "2022-05-20T00:00:00Z",
+      "expiryDate": "2023-05-20T00:00:00Z"
+    }
+  ]
+}
