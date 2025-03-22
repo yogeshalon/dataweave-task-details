@@ -1,0 +1,19 @@
+{
+  "energyConsumption": [
+    {
+      "deviceId": "A123",
+      "usage": "1500",
+      "timestamp": "2023-10-01T10:00:00Z"
+    },
+    {
+      "deviceId": "B456",
+      "usage": "2000",
+      "timestamp": "2023-10-01T10:05:00Z"
+    },
+    {
+      "deviceId": "C789",
+      "usage": "1800",
+      "timestamp": "2023-10-01T10:10:00Z"
+    }
+  ]
+}
