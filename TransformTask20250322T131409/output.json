@@ -1,0 +1,21 @@
+{
+  "summary": {
+    "totalOrders": 2,
+    "totalRevenue": 250,
+    "averageOrderValue": 125,
+    "ordersByCustomer": [
+      {
+        "customerId": "CUST001",
+        "totalSpent": 200
+      },
+      {
+        "customerId": "CUST002",
+        "totalSpent": 50
+      }
+    ],
+    "orderCountByDate": {
+      "2023-10-01": 1,
+      "2023-10-02": 1
+    }
+  }
+}
