@@ -1,0 +1,32 @@
+{
+  "patients": [
+    {
+      "id": 1,
+      "name": "John Doe",
+      "age": 30,
+      "diagnosis": "Flu",
+      "treatmentCost": 200
+    },
+    {
+      "id": 2,
+      "name": "Jane Smith",
+      "age": 45,
+      "diagnosis": "Cold",
+      "treatmentCost": 150
+    },
+    {
+      "id": 3,
+      "name": "Alice Johnson",
+      "age": 60,
+      "diagnosis": "Flu",
+      "treatmentCost": 250
+    },
+    {
+      "id": 4,
+      "name": "Bob Brown",
+      "age": 50,
+      "diagnosis": "Headache",
+      "treatmentCost": 100
+    }
+  ]
+}
