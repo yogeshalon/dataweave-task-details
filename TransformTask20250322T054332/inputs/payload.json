@@ -1,0 +1,25 @@
+{
+  "customers": [
+    {
+      "id": 1,
+      "name": "Alice Johnson",
+      "age": "30",
+      "email": "alice.johnson@example.com",
+      "loyaltyPoints": "150"
+    },
+    {
+      "id": 2,
+      "name": "Bob Smith",
+      "age": "25",
+      "email": "bob.smith@example.com",
+      "loyaltyPoints": "200"
+    },
+    {
+      "id": 3,
+      "name": "Charlie Brown",
+      "age": "35",
+      "email": "charlie.brown@example.com",
+      "loyaltyPoints": "50"
+    }
+  ]
+}
