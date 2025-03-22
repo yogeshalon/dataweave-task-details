@@ -1,0 +1,16 @@
+{
+  "campaigns": [
+    {
+      "id": 1,
+      "name": "Summer Sale",
+      "budget": 10000,
+      "duration": 30
+    },
+    {
+      "id": 2,
+      "name": "Winter Clearance",
+      "budget": 15000,
+      "duration": 15
+    }
+  ]
+}
