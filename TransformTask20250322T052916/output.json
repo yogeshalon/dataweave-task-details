@@ -1,0 +1,20 @@
+[
+  {
+    "reservationId": "R123",
+    "customerName": "John Doe",
+    "travelDate": "2023-12-15",
+    "destination": "Paris",
+    "price": 1200,
+    "status": "confirmed",
+    "daysUntilTravel": 60
+  },
+  {
+    "reservationId": "R125",
+    "customerName": "Alice Johnson",
+    "travelDate": "2023-10-30",
+    "destination": "New York",
+    "price": 1500,
+    "status": "confirmed",
+    "daysUntilTravel": 27
+  }
+]
