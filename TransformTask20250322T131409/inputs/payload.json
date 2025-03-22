@@ -1,0 +1,33 @@
+{
+  "orders": [
+    {
+      "orderId": "ORD001",
+      "customerId": "CUST001",
+      "orderDate": "2023-10-01T10:00:00Z",
+      "items": [
+        {
+          "productId": "PROD001",
+          "quantity": 2,
+          "price": 50
+        },
+        {
+          "productId": "PROD002",
+          "quantity": 1,
+          "price": 100
+        }
+      ]
+    },
+    {
+      "orderId": "ORD002",
+      "customerId": "CUST002",
+      "orderDate": "2023-10-02T12:30:00Z",
+      "items": [
+        {
+          "productId": "PROD001",
+          "quantity": 1,
+          "price": 50
+        }
+      ]
+    }
+  ]
+}
