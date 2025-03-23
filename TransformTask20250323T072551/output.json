@@ -1,0 +1,14 @@
+[
+  {
+    "customerId": 101,
+    "totalDuration": 180
+  },
+  {
+    "customerId": 102,
+    "totalDuration": 300
+  },
+  {
+    "customerId": 103,
+    "totalDuration": 240
+  }
+]
