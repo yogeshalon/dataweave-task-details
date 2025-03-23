@@ -1,0 +1,12 @@
+- productId: 1
+  name: Laptop
+  price: 1200
+  quantity: 5
+- productId: 2
+  name: Smartphone
+  price: 800
+  quantity: 10
+- productId: 3
+  name: Tablet
+  price: 600
+  quantity: 0
