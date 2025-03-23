@@ -1,0 +1,18 @@
+{
+  "patients": [
+    {
+      "id": 1,
+      "name": "John Doe",
+      "lengthOfStay": 9,
+      "admissionTime": "14:30",
+      "dischargeTime": "10:00"
+    },
+    {
+      "id": 2,
+      "name": "Jane Smith",
+      "lengthOfStay": 7,
+      "admissionTime": "09:00",
+      "dischargeTime": "15:30"
+    }
+  ]
+}
