@@ -1,0 +1,16 @@
+{
+  "customers": [
+    {
+      "customerId": "C001",
+      "fullName": "ALICE JOHNSON",
+      "emailDomain": "@example.com",
+      "location": "New York"
+    },
+    {
+      "customerId": "C002",
+      "fullName": "BOB BROWN",
+      "emailDomain": "@example.com",
+      "location": "Los Angeles"
+    }
+  ]
+}
