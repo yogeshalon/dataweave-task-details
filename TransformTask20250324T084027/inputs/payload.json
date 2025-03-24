@@ -1,0 +1,26 @@
+{
+  "transactions": [
+    {
+      "id": "T001",
+      "property": {
+        "address": "123 Elm St",
+        "city": "Springfield",
+        "state": "IL",
+        "zip": "62701"
+      },
+      "price": 250000,
+      "date": "2023-10-01"
+    },
+    {
+      "id": "T002",
+      "property": {
+        "address": "456 Oak St",
+        "city": "Springfield",
+        "state": "IL",
+        "zip": "62702"
+      },
+      "price": 300000,
+      "date": "2023-10-05"
+    }
+  ]
+}
