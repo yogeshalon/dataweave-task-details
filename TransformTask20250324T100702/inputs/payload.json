@@ -1,0 +1,36 @@
+{
+  "suppliers": [
+    {
+      "id": 1,
+      "name": "Supplier A",
+      "products": [
+        {
+          "productId": 101,
+          "quantity": 50,
+          "price": 10
+        },
+        {
+          "productId": 102,
+          "quantity": 30,
+          "price": 15
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Supplier B",
+      "products": [
+        {
+          "productId": 101,
+          "quantity": 20,
+          "price": 10
+        },
+        {
+          "productId": 103,
+          "quantity": 40,
+          "price": 20
+        }
+      ]
+    }
+  ]
+}
