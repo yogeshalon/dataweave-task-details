@@ -1,0 +1,20 @@
+{
+  "totalSuppliers": 2,
+  "productSummary": [
+    {
+      "productId": 101,
+      "totalQuantity": 70,
+      "averagePrice": 10
+    },
+    {
+      "productId": 102,
+      "totalQuantity": 30,
+      "averagePrice": 15
+    },
+    {
+      "productId": 103,
+      "totalQuantity": 40,
+      "averagePrice": 20
+    }
+  ]
+}
