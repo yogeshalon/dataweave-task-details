@@ -1,0 +1,19 @@
+{
+  "vehicles": [
+    {
+      "vehicleId": "V001",
+      "vehicleType": "Truck",
+      "serviceDue": false
+    },
+    {
+      "vehicleId": "V002",
+      "vehicleType": "Van",
+      "serviceDue": true
+    },
+    {
+      "vehicleId": "V003",
+      "vehicleType": "Car",
+      "serviceDue": true
+    }
+  ]
+}
