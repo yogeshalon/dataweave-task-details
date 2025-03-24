@@ -1,0 +1,28 @@
+{
+  "campaigns": [
+    {
+      "id": 1,
+      "name": "Summer Sale",
+      "budget": "10000",
+      "startDate": "2023-06-01",
+      "endDate": "2023-06-30",
+      "status": "active"
+    },
+    {
+      "id": 2,
+      "name": "Winter Clearance",
+      "budget": "15000",
+      "startDate": "2023-12-01",
+      "endDate": "2023-12-31",
+      "status": "inactive"
+    },
+    {
+      "id": 3,
+      "name": "Spring Launch",
+      "budget": "20000",
+      "startDate": "2023-03-01",
+      "endDate": "2023-03-31",
+      "status": "active"
+    }
+  ]
+}
