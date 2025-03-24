@@ -1,0 +1,18 @@
+{
+  "claims": [
+    {
+      "claimId": "C12345",
+      "policyHolder": "John Doe",
+      "incidentDate": "2023-01-15",
+      "description": "Car accident on highway",
+      "status": "Pending"
+    },
+    {
+      "claimId": "C12346",
+      "policyHolder": "Jane Smith",
+      "incidentDate": "2023-02-20",
+      "description": "Theft of vehicle",
+      "status": "Approved"
+    }
+  ]
+}
