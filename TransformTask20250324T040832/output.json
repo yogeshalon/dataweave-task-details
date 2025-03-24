@@ -1,0 +1,19 @@
+{
+  "students": [
+    {
+      "name": "Alice",
+      "averageScore": 85,
+      "grade": "B"
+    },
+    {
+      "name": "Bob",
+      "averageScore": 84.67,
+      "grade": "B"
+    },
+    {
+      "name": "Charlie",
+      "averageScore": 92,
+      "grade": "A"
+    }
+  ]
+}
