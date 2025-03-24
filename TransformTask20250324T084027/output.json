@@ -1,0 +1,16 @@
+{
+  "transactions": [
+    {
+      "transactionId": "T001",
+      "fullAddress": "123 Elm St, Springfield, IL, 62701",
+      "priceInDollars": "$250,000",
+      "transactionDate": "October 1, 2023"
+    },
+    {
+      "transactionId": "T002",
+      "fullAddress": "456 Oak St, Springfield, IL, 62702",
+      "priceInDollars": "$300,000",
+      "transactionDate": "October 5, 2023"
+    }
+  ]
+}
