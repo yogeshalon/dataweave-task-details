@@ -1,0 +1,34 @@
+--boundary
+Content-Disposition: form-data; name="reservation"
+
+<reservations>
+  <reservation>
+    <id>R12345</id>
+    <customer>
+      <name>John Doe</name>
+      <email>john.doe@example.com</email>
+    </customer>
+    <flight>
+      <departure>2023-10-15T10:00:00Z</departure>
+      <arrival>2023-10-15T14:00:00Z</arrival>
+      <origin>JFK</origin>
+      <destination>LAX</destination>
+      <price currency="USD">300.00</price>
+    </flight>
+  </reservation>
+  <reservation>
+    <id>R12346</id>
+    <customer>
+      <name>Jane Smith</name>
+      <email>jane.smith@example.com</email>
+    </customer>
+    <flight>
+      <departure>2023-10-16T11:00:00Z</departure>
+      <arrival>2023-10-16T15:00:00Z</arrival>
+      <origin>ORD</origin>
+      <destination>SFO</destination>
+      <price currency="USD">350.00</price>
+    </flight>
+  </reservation>
+</reservations>
+--boundary--
