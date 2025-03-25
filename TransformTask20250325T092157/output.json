@@ -1,0 +1,22 @@
+{
+  "summary": {
+    "averageScores": {
+      "Math": 82.33,
+      "Science": 84.33,
+      "English": 84.33
+    },
+    "topStudents": [
+      {
+        "name": "Bob Smith",
+        "averageScore": 91.67
+      }
+    ],
+    "enrollmentStats": {
+      "totalStudents": 3,
+      "studentsByYear": {
+        "2020": 2,
+        "2021": 1
+      }
+    }
+  }
+}
