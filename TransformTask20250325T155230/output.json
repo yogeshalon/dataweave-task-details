@@ -1,0 +1,20 @@
+{
+  "campaignsSummary": [
+    {
+      "id": "C001",
+      "name": "Summer Sale",
+      "totalCost": 3000,
+      "totalResponses": 2,
+      "responseRate": 100,
+      "engagementScore": 180
+    },
+    {
+      "id": "C002",
+      "name": "Winter Clearance",
+      "totalCost": 2300,
+      "totalResponses": 2,
+      "responseRate": 100,
+      "engagementScore": 110
+    }
+  ]
+}
