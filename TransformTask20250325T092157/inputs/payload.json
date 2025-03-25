@@ -1,0 +1,61 @@
+{
+  "students": [
+    {
+      "id": 1,
+      "name": "Alice Johnson",
+      "grades": [
+        {
+          "subject": "Math",
+          "score": 85
+        },
+        {
+          "subject": "Science",
+          "score": 90
+        },
+        {
+          "subject": "English",
+          "score": 78
+        }
+      ],
+      "enrollmentYear": 2020
+    },
+    {
+      "id": 2,
+      "name": "Bob Smith",
+      "grades": [
+        {
+          "subject": "Math",
+          "score": 92
+        },
+        {
+          "subject": "Science",
+          "score": 88
+        },
+        {
+          "subject": "English",
+          "score": 95
+        }
+      ],
+      "enrollmentYear": 2021
+    },
+    {
+      "id": 3,
+      "name": "Charlie Brown",
+      "grades": [
+        {
+          "subject": "Math",
+          "score": 70
+        },
+        {
+          "subject": "Science",
+          "score": 75
+        },
+        {
+          "subject": "English",
+          "score": 80
+        }
+      ],
+      "enrollmentYear": 2020
+    }
+  ]
+}
