@@ -1,0 +1,34 @@
+{
+  "students": [
+    {
+      "id": "S001",
+      "name": "Alice Johnson",
+      "grades": {
+        "math": "85",
+        "science": "90",
+        "english": "88"
+      },
+      "enrollmentDate": "2022-09-01"
+    },
+    {
+      "id": "S002",
+      "name": "Bob Smith",
+      "grades": {
+        "math": "78",
+        "science": "82",
+        "english": "80"
+      },
+      "enrollmentDate": "2022-09-01"
+    },
+    {
+      "id": "S003",
+      "name": "Charlie Brown",
+      "grades": {
+        "math": "92",
+        "science": "95",
+        "english": "94"
+      },
+      "enrollmentDate": "2022-09-01"
+    }
+  ]
+}
