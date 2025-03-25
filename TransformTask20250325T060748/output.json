@@ -1,0 +1,24 @@
+{
+  "fleetSummary": {
+    "totalVehicles": 2,
+    "averageMileage": 10000,
+    "drivers": [
+      {
+        "name": "John Doe",
+        "license": "A123456",
+        "experienceLevel": "Experienced"
+      },
+      {
+        "name": "Jane Smith",
+        "license": "B654321",
+        "experienceLevel": "Intermediate"
+      }
+    ],
+    "serviceDueVehicles": [
+      {
+        "id": "V001",
+        "nextServiceDate": "2023-07-15"
+      }
+    ]
+  }
+}
