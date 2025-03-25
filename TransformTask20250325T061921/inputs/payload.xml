@@ -1,0 +1,1 @@
+<patients><patient id="P001"><name>Emily Johnson</name><age>30</age><diagnosis>Flu</diagnosis><treatment><medication>Oseltamivir</medication><dosage>75mg</dosage></treatment></patient><patient id="P002"><name>Michael Brown</name><age>45</age><diagnosis>Diabetes</diagnosis><treatment><medication>Metformin</medication><dosage>500mg</dosage></treatment></patient></patients>
