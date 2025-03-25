@@ -1,0 +1,12 @@
+{
+  "passedStudents": [
+    {
+      "studentId": 1,
+      "fullName": "Alice Johnson"
+    },
+    {
+      "studentId": 2,
+      "fullName": "Bob Smith"
+    }
+  ]
+}
