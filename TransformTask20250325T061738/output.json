@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<reservations>
+  <reservation id="R12345">
+    <customer>
+      <name>John Doe</name>
+      <email>john.doe@example.com</email>
+    </customer>
+    <flightDetails>
+      <departureTime>2023-10-15T10:00:00Z</departureTime>
+      <arrivalTime>2023-10-15T14:00:00Z</arrivalTime>
+      <route>
+        <from>JFK</from>
+        <to>LAX</to>
+      </route>
+      <totalPrice currency="USD">300.00</totalPrice>
+    </flightDetails>
+  </reservation>
+  <reservation id="R12346">
+    <customer>
+      <name>Jane Smith</name>
+      <email>jane.smith@example.com</email>
+    </customer>
+    <flightDetails>
+      <departureTime>2023-10-16T11:00:00Z</departureTime>
+      <arrivalTime>2023-10-16T15:00:00Z</arrivalTime>
+      <route>
+        <from>ORD</from>
+        <to>SFO</to>
+      </route>
+      <totalPrice currency="USD">350.00</totalPrice>
+    </flightDetails>
+  </reservation>
+</reservations>
