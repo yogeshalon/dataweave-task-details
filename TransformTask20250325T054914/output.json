@@ -1,0 +1,24 @@
+{
+  "activeSubscriptions": [
+    {
+      "userId": "U001",
+      "durationMonths": 12,
+      "planType": "Premium",
+      "renewalDate": "2024-01-15"
+    },
+    {
+      "userId": "U003",
+      "durationMonths": 12,
+      "planType": "Standard",
+      "renewalDate": "2024-05-20"
+    }
+  ],
+  "inactiveSubscriptions": [
+    {
+      "userId": "U002",
+      "durationMonths": 6,
+      "planType": "Basic",
+      "renewalDate": null
+    }
+  ]
+}
