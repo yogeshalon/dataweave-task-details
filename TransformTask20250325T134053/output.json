@@ -1,0 +1,26 @@
+{
+  "summary": {
+    "totalTransactions": 4,
+    "totalAmount": 701.5,
+    "completedTransactions": 3,
+    "pendingTransactions": 1,
+    "averageAmount": 175.375
+  },
+  "details": [
+    {
+      "customerId": "C001",
+      "totalSpent": 201,
+      "transactionCount": 2
+    },
+    {
+      "customerId": "C002",
+      "totalSpent": 200,
+      "transactionCount": 1
+    },
+    {
+      "customerId": "C003",
+      "totalSpent": 300.5,
+      "transactionCount": 1
+    }
+  ]
+}
