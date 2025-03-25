@@ -1,0 +1,25 @@
+{
+  "subscriptions": [
+    {
+      "userId": "U001",
+      "startDate": "2023-01-15",
+      "endDate": "2024-01-15",
+      "plan": "Premium",
+      "status": "active"
+    },
+    {
+      "userId": "U002",
+      "startDate": "2023-03-10",
+      "endDate": "2023-09-10",
+      "plan": "Basic",
+      "status": "inactive"
+    },
+    {
+      "userId": "U003",
+      "startDate": "2023-05-20",
+      "endDate": "2024-05-20",
+      "plan": "Standard",
+      "status": "active"
+    }
+  ]
+}
