@@ -1,0 +1,26 @@
+{
+  "vehicles": [
+    {
+      "id": "V001",
+      "type": "Truck",
+      "driver": {
+        "name": "John Doe",
+        "license": "A123456",
+        "experience": 5
+      },
+      "mileage": 12000,
+      "lastServiceDate": "2023-01-15"
+    },
+    {
+      "id": "V002",
+      "type": "Van",
+      "driver": {
+        "name": "Jane Smith",
+        "license": "B654321",
+        "experience": 3
+      },
+      "mileage": 8000,
+      "lastServiceDate": "2023-03-10"
+    }
+  ]
+}
