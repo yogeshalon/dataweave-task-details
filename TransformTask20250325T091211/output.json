@@ -1,0 +1,17 @@
+{
+  "summary": {
+    "totalReservations": 2,
+    "totalRevenue": 2700,
+    "averageCost": 1350,
+    "duration": [
+      {
+        "customerName": "John Doe",
+        "durationDays": 9
+      },
+      {
+        "customerName": "Jane Smith",
+        "durationDays": 7
+      }
+    ]
+  }
+}
