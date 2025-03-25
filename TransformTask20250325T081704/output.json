@@ -1,0 +1,14 @@
+{
+  "activeDevices": [
+    {
+      "deviceId": "device_001",
+      "temperature": 22.5,
+      "humidity": 45
+    },
+    {
+      "deviceId": "device_003",
+      "temperature": 20,
+      "humidity": 55
+    }
+  ]
+}
