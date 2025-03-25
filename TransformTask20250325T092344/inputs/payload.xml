@@ -1,0 +1,1 @@
+<manufacturing><products><product><id>P001</id><name>Widget A</name><productionDate>2023-10-01</productionDate><quantity>100</quantity></product><product><id>P002</id><name>Widget B</name><productionDate>2023-10-05</productionDate><quantity>200</quantity></product></products></manufacturing>
