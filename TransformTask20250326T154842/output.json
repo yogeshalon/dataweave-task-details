@@ -1,0 +1,9 @@
+{
+  "activeDevices": [
+    {
+      "deviceId": "A1B2C3",
+      "temperature": 72.5,
+      "humidity": 45
+    }
+  ]
+}
