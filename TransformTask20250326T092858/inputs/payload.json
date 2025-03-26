@@ -1,0 +1,82 @@
+{
+  "campaigns": [
+    {
+      "id": "C001",
+      "name": "Summer Sale",
+      "startDate": "2023-06-01",
+      "endDate": "2023-08-31",
+      "budget": 50000,
+      "channels": [
+        {
+          "type": "Email",
+          "cost": 1000,
+          "responses": [
+            {
+              "email": "customer1@example.com",
+              "response": true
+            },
+            {
+              "email": "customer2@example.com",
+              "response": false
+            }
+          ]
+        },
+        {
+          "type": "Social Media",
+          "cost": 2000,
+          "responses": [
+            {
+              "platform": "Facebook",
+              "likes": 150,
+              "shares": 30
+            },
+            {
+              "platform": "Instagram",
+              "likes": 200,
+              "shares": 50
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "C002",
+      "name": "Winter Clearance",
+      "startDate": "2023-12-01",
+      "endDate": "2023-12-31",
+      "budget": 30000,
+      "channels": [
+        {
+          "type": "Email",
+          "cost": 800,
+          "responses": [
+            {
+              "email": "customer3@example.com",
+              "response": true
+            },
+            {
+              "email": "customer4@example.com",
+              "response": false
+            }
+          ]
+        },
+        {
+          "type": "Social Media",
+          "cost": 1500,
+          "responses": [
+            {
+              "platform": "Facebook",
+              "likes": 100,
+              "shares": 20
+            },
+            {
+              "platform": "Twitter",
+              "likes": 80,
+              "shares": 10
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
