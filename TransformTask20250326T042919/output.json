@@ -1,0 +1,16 @@
+{
+  "filteredTransactions": [
+    {
+      "id": 1,
+      "amount": 1500,
+      "category": "Investment"
+    },
+    {
+      "id": 3,
+      "amount": 3000,
+      "category": "Income"
+    }
+  ],
+  "totalInvestment": 1500,
+  "totalIncome": 3000
+}
