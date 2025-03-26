@@ -1,0 +1,24 @@
+<reservations>
+  <reservation>
+    <id>R001</id>
+    <customerName>John Doe</customerName>
+    <checkIn>2023-07-10</checkIn>
+    <checkOut>2023-07-15</checkOut>
+    <roomType>Deluxe</roomType>
+    <pricePerNight>150</pricePerNight>
+    <numberOfGuests>2</numberOfGuests>
+    <specialRequests>
+      <request>Late Check-in</request>
+    </specialRequests>
+  </reservation>
+  <reservation>
+    <id>R002</id>
+    <customerName>Jane Smith</customerName>
+    <checkIn>2023-08-05</checkIn>
+    <checkOut>2023-08-12</checkOut>
+    <roomType>Standard</roomType>
+    <pricePerNight>100</pricePerNight>
+    <numberOfGuests>1</numberOfGuests>
+    <specialRequests/>
+  </reservation>
+</reservations>
