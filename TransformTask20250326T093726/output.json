@@ -1,0 +1,20 @@
+{
+  "reservationsSummary": [
+    {
+      "id": "R001",
+      "customerName": "John Doe",
+      "totalPrice": 750,
+      "duration": 5,
+      "roomType": "Deluxe",
+      "specialRequests": ["Late Check-in"]
+    },
+    {
+      "id": "R002",
+      "customerName": "Jane Smith",
+      "totalPrice": 700,
+      "duration": 7,
+      "roomType": "Standard",
+      "specialRequests": []
+    }
+  ]
+}
