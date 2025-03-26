@@ -1,0 +1,16 @@
+{
+  "devices": [
+    {
+      "deviceId": "A1B2C3",
+      "temperature": "72.5",
+      "humidity": "45",
+      "status": "active"
+    },
+    {
+      "deviceId": "D4E5F6",
+      "temperature": "68.0",
+      "humidity": "50",
+      "status": "inactive"
+    }
+  ]
+}
