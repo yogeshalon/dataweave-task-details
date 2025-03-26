@@ -1,0 +1,22 @@
+{
+  "vehicles": [
+    {
+      "id": "V001",
+      "type": "Truck",
+      "status": "active",
+      "location": {
+        "latitude": 34.0522,
+        "longitude": -118.2437
+      }
+    },
+    {
+      "id": "V002",
+      "type": "Van",
+      "status": "inactive",
+      "location": {
+        "latitude": 36.1699,
+        "longitude": -115.1398
+      }
+    }
+  ]
+}
