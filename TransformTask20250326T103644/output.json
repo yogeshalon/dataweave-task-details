@@ -1,0 +1,19 @@
+{
+  "customers": [
+    {
+      "customerId": 1,
+      "fullName": "Alice Johnson",
+      "totalSpent": 1225
+    },
+    {
+      "customerId": 2,
+      "fullName": "Bob Smith",
+      "totalSpent": 450
+    },
+    {
+      "customerId": 3,
+      "fullName": "Charlie Brown",
+      "totalSpent": 475
+    }
+  ]
+}
