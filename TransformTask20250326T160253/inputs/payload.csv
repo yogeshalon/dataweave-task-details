@@ -1,0 +1,5 @@
+customerId,transactionAmount,transactionDate
+C001,150.75,2023-10-01
+C002,200.00,2023-10-02
+C003,50.25,2023-10-03
+C001,300.00,2023-10-04
