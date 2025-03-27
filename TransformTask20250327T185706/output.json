@@ -1,0 +1,28 @@
+{
+  "activeCustomers": [
+    {
+      "id": 1,
+      "name": "John Doe",
+      "activeSubscriptions": [
+        {
+          "type": "Mobile",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Jane Smith",
+      "activeSubscriptions": [
+        {
+          "type": "Mobile",
+          "status": "active"
+        },
+        {
+          "type": "TV",
+          "status": "active"
+        }
+      ]
+    }
+  ]
+}
