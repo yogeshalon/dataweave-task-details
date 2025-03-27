@@ -1,0 +1,34 @@
+{
+  "products": [
+    {
+      "id": "P001",
+      "name": "Wireless Mouse",
+      "price": 25.99,
+      "category": "Electronics",
+      "tags": [
+        "accessory",
+        "computer"
+      ]
+    },
+    {
+      "id": "P002",
+      "name": "Mechanical Keyboard",
+      "price": 75.5,
+      "category": "Electronics",
+      "tags": [
+        "accessory",
+        "computer"
+      ]
+    },
+    {
+      "id": "P003",
+      "name": "Gaming Chair",
+      "price": 150,
+      "category": "Furniture",
+      "tags": [
+        "office",
+        "gaming"
+      ]
+    }
+  ]
+}
