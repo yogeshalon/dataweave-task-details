@@ -1,0 +1,36 @@
+{
+  "campaigns": [
+    {
+      "id": 1,
+      "name": "Summer Sale",
+      "totalBudget": 15000,
+      "duration": 30,
+      "channelsUsed": [
+        {
+          "channel": "social media",
+          "type": "digital"
+        },
+        {
+          "channel": "email",
+          "type": "digital"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Back to School",
+      "totalBudget": 20000,
+      "duration": 31,
+      "channelsUsed": [
+        {
+          "channel": "TV",
+          "type": "broadcast"
+        },
+        {
+          "channel": "online ads",
+          "type": "digital"
+        }
+      ]
+    }
+  ]
+}
