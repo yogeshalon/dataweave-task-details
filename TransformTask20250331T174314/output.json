@@ -1,0 +1,22 @@
+{
+  "fleetSummary": {
+    "totalVehicles": 2,
+    "averageMileage": 20000,
+    "serviceDueVehicles": [
+      {
+        "id": "V001",
+        "nextServiceDate": "2023-07-15"
+      },
+      {
+        "id": "V002",
+        "nextServiceDate": "2023-09-10"
+      }
+    ],
+    "driversWithExperienceAbove4Years": [
+      {
+        "name": "John Doe",
+        "experience": 5
+      }
+    ]
+  }
+}
