@@ -1,0 +1,26 @@
+{
+  "vehicles": [
+    {
+      "id": "V001",
+      "type": "Truck",
+      "mileage": 15000,
+      "lastServiceDate": "2023-01-15",
+      "fuelType": "Diesel",
+      "driver": {
+        "name": "John Doe",
+        "experience": 5
+      }
+    },
+    {
+      "id": "V002",
+      "type": "Van",
+      "mileage": 25000,
+      "lastServiceDate": "2023-03-10",
+      "fuelType": "Petrol",
+      "driver": {
+        "name": "Jane Smith",
+        "experience": 3
+      }
+    }
+  ]
+}
