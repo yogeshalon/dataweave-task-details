@@ -1,0 +1,16 @@
+{
+  "orderSummary": [
+    {
+      "orderId": "O001",
+      "totalAmount": 40,
+      "customerId": "C001",
+      "orderDate": "2023-04-01"
+    },
+    {
+      "orderId": "O002",
+      "totalAmount": 35,
+      "customerId": "C002",
+      "orderDate": "2023-04-02"
+    }
+  ]
+}
