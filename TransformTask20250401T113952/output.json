@@ -1,0 +1,30 @@
+<products>
+  <product>
+    <productId>PROD001</productId>
+    <productName>Widget A</productName>
+    <category>Widgets</category>
+    <price>50</price>
+    <stock>100</stock>
+  </product>
+  <product>
+    <productId>PROD002</productId>
+    <productName>Widget B</productName>
+    <category>Widgets</category>
+    <price>30</price>
+    <stock>200</stock>
+  </product>
+  <product>
+    <productId>PROD003</productId>
+    <productName>Gadget A</productName>
+    <category>Gadgets</category>
+    <price>20</price>
+    <stock>150</stock>
+  </product>
+  <product>
+    <productId>PROD004</productId>
+    <productName>Gadget B</productName>
+    <category>Gadgets</category>
+    <price>40</price>
+    <stock>80</stock>
+  </product>
+</products>
