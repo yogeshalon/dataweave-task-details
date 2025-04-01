@@ -1,0 +1,15 @@
+{
+  "total_value": 950,
+  "products_summary": [
+    {
+      "category": "Widgets",
+      "total_quantity": 250,
+      "average_price": 2.75
+    },
+    {
+      "category": "Gadgets",
+      "total_quantity": 200,
+      "average_price": 4
+    }
+  ]
+}
