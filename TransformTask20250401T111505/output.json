@@ -1,0 +1,23 @@
+{
+  "studentsSummary": [
+    {
+      "id": 101,
+      "name": "Alice Johnson",
+      "averageGrade": 85,
+      "status": "Pass"
+    },
+    {
+      "id": 102,
+      "name": "Bob Smith",
+      "averageGrade": 91,
+      "status": "Pass"
+    },
+    {
+      "id": 103,
+      "name": "Charlie Brown",
+      "averageGrade": 75,
+      "status": "Pass"
+    }
+  ],
+  "classAverage": 83.67
+}
