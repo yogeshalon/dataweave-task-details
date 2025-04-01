@@ -1,0 +1,14 @@
+{
+  "monthlyConsumption": [
+    {
+      "buildingId": "B001",
+      "totalConsumptionKWh": 3100,
+      "averageConsumptionKWh": 1550
+    },
+    {
+      "buildingId": "B002",
+      "totalConsumptionKWh": 4100,
+      "averageConsumptionKWh": 2050
+    }
+  ]
+}
