@@ -1,0 +1,49 @@
+{
+  "customers": [
+    {
+      "id": 1,
+      "name": "John Doe",
+      "age": 28,
+      "purchases": [
+        {
+          "item": "Laptop",
+          "amount": 1200
+        },
+        {
+          "item": "Mouse",
+          "amount": 25
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Jane Smith",
+      "age": 34,
+      "purchases": [
+        {
+          "item": "Smartphone",
+          "amount": 800
+        },
+        {
+          "item": "Headphones",
+          "amount": 150
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Emily Johnson",
+      "age": 22,
+      "purchases": [
+        {
+          "item": "Tablet",
+          "amount": 300
+        },
+        {
+          "item": "Charger",
+          "amount": 20
+        }
+      ]
+    }
+  ]
+}
