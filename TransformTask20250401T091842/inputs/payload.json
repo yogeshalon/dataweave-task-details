@@ -1,0 +1,19 @@
+{
+  "customers": [
+    {
+      "id": 1,
+      "name": "John Doe",
+      "phoneNumbers": [
+        "+1234567890",
+        "+0987654321"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Jane Smith",
+      "phoneNumbers": [
+        "+1122334455"
+      ]
+    }
+  ]
+}
