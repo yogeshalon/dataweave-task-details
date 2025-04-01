@@ -1,0 +1,5 @@
+transaction_id|transaction_date|amount|transaction_month
+1|2023-01-15|150.00|January
+2|2023-02-20|200.50|February
+3|2023-03-10|300.75|March
+4|2023-04-05|400.00|April
