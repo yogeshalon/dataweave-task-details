@@ -1,0 +1,12 @@
+{
+  "active_trucks": [
+    {
+      "id": "V001",
+      "mileage": 15000
+    },
+    {
+      "id": "V003",
+      "mileage": 25000
+    }
+  ]
+}
