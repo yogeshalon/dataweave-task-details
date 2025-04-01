@@ -1,0 +1,25 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Widget A",
+      "category": "Gadgets",
+      "price": 25,
+      "quantity": 100
+    },
+    {
+      "id": 2,
+      "name": "Widget B",
+      "category": "Gadgets",
+      "price": 30,
+      "quantity": 150
+    },
+    {
+      "id": 3,
+      "name": "Gadget C",
+      "category": "Gadgets",
+      "price": 15,
+      "quantity": 200
+    }
+  ]
+}
