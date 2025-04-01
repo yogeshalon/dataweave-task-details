@@ -1,0 +1,22 @@
+{
+  "vehicles": [
+    {
+      "id": "V001",
+      "type": "Truck",
+      "status": "active",
+      "mileage": 15000
+    },
+    {
+      "id": "V002",
+      "type": "Van",
+      "status": "inactive",
+      "mileage": 30000
+    },
+    {
+      "id": "V003",
+      "type": "Truck",
+      "status": "active",
+      "mileage": 25000
+    }
+  ]
+}
