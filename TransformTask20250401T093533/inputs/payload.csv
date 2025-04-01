@@ -1,0 +1,4 @@
+reservation_id,customer_name,flight_details
+1,John Doe,Flight AA123
+2,Jane Smith,Flight BB456
+3,Bob Johnson,Flight CC789
