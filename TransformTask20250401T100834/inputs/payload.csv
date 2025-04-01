@@ -1,0 +1,5 @@
+reservation_id,customer_name,hotel_name,check_in_date,check_out_date
+R001,John Doe,Grand Hotel,2023-10-01,2023-10-05
+R002,Jane Smith,Lakeview Inn,2023-10-10,2023-10-15
+R003,Bob Johnson,Seaside Resort,2023-09-20,2023-09-25
+R004,Alice Brown,Countryside Lodge,2023-10-01,2023-10-03
