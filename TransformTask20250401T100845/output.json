@@ -1,0 +1,3 @@
+reservation_id;customer_name;hotel_name;stay_duration
+R001;John Doe;Grand Hotel;4
+R004;Alice Brown;Countryside Lodge;2
