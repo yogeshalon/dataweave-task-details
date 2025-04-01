@@ -1,0 +1,4 @@
+customerId,customerName,planType,startDate,status
+C001,Alice Johnson,Unlimited,2023-01-15,Active
+C002,Bob Smith,Limited,2023-03-20,Inactive
+C003,Charlie Brown,Unlimited,2023-02-10,Active
