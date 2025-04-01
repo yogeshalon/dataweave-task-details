@@ -1,0 +1,48 @@
+{
+  "orders": [
+    {
+      "orderId": "O001",
+      "customerId": "C001",
+      "items": [
+        {
+          "productId": "P001",
+          "quantity": 2
+        },
+        {
+          "productId": "P002",
+          "quantity": 1
+        }
+      ],
+      "orderDate": "2023-04-01"
+    },
+    {
+      "orderId": "O002",
+      "customerId": "C002",
+      "items": [
+        {
+          "productId": "P001",
+          "quantity": 1
+        },
+        {
+          "productId": "P003",
+          "quantity": 5
+        }
+      ],
+      "orderDate": "2023-04-02"
+    }
+  ],
+  "products": [
+    {
+      "productId": "P001",
+      "price": 10
+    },
+    {
+      "productId": "P002",
+      "price": 20
+    },
+    {
+      "productId": "P003",
+      "price": 5
+    }
+  ]
+}
