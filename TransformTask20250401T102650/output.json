@@ -1,0 +1,19 @@
+{
+  "customer_summary": [
+    {
+      "customer_id": 1,
+      "total_spent": 1225,
+      "average_age": 28
+    },
+    {
+      "customer_id": 2,
+      "total_spent": 950,
+      "average_age": 34
+    },
+    {
+      "customer_id": 3,
+      "total_spent": 320,
+      "average_age": 22
+    }
+  ]
+}
