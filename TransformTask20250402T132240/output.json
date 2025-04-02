@@ -1,0 +1,10 @@
+{
+  "availableProperties": [
+    {
+      "id": 2,
+      "propertyType": "House",
+      "price": 500000,
+      "location": "Los Angeles"
+    }
+  ]
+}
