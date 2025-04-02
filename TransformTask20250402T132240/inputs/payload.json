@@ -1,0 +1,25 @@
+{
+  "transactions": [
+    {
+      "id": 1,
+      "propertyType": "Apartment",
+      "price": 250000,
+      "location": "New York",
+      "status": "sold"
+    },
+    {
+      "id": 2,
+      "propertyType": "House",
+      "price": 500000,
+      "location": "Los Angeles",
+      "status": "available"
+    },
+    {
+      "id": 3,
+      "propertyType": "Condo",
+      "price": 300000,
+      "location": "Miami",
+      "status": "sold"
+    }
+  ]
+}
