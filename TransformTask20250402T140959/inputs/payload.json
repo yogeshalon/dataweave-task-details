@@ -1,0 +1,14 @@
+{
+  "fleet": [
+    {
+      "vehicleId": "V001",
+      "lastServiceDate": "2023-01-15",
+      "serviceIntervalDays": 90
+    },
+    {
+      "vehicleId": "V002",
+      "lastServiceDate": "2023-02-20",
+      "serviceIntervalDays": 60
+    }
+  ]
+}
