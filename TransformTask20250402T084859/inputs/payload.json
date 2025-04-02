@@ -1,0 +1,19 @@
+{
+  "claims": [
+    {
+      "claimId": "C001",
+      "amount": 1500,
+      "status": "approved"
+    },
+    {
+      "claimId": "C002",
+      "amount": 3000,
+      "status": "pending"
+    },
+    {
+      "claimId": "C003",
+      "amount": 2500,
+      "status": "approved"
+    }
+  ]
+}
