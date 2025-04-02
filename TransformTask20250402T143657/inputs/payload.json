@@ -1,0 +1,34 @@
+{
+  "patients": [
+    {
+      "id": 1,
+      "name": "John Doe",
+      "age": 30,
+      "bloodPressure": [
+        120,
+        80
+      ],
+      "cholesterol": 190
+    },
+    {
+      "id": 2,
+      "name": "Jane Smith",
+      "age": 45,
+      "bloodPressure": [
+        130,
+        85
+      ],
+      "cholesterol": 210
+    },
+    {
+      "id": 3,
+      "name": "Emily Johnson",
+      "age": 50,
+      "bloodPressure": [
+        140,
+        90
+      ],
+      "cholesterol": 230
+    }
+  ]
+}
