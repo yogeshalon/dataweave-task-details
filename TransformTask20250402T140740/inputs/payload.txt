@@ -1,0 +1,1 @@
+reservationId=TRV456&checkInDate=2023-11-15T15:00:00Z&stayDuration=2
