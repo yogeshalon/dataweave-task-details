@@ -1,0 +1,12 @@
+{
+  "vehiclesDueForService": [
+    {
+      "vehicleId": "V001",
+      "nextServiceDate": "2023-04-15"
+    },
+    {
+      "vehicleId": "V002",
+      "nextServiceDate": "2023-04-21"
+    }
+  ]
+}
