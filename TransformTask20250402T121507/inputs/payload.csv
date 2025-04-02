@@ -1,0 +1,4 @@
+property_id,property_type,sale_date,sale_price
+P001,Apartment,2023-03-01,250000
+P002,House,2023-04-15,450000
+P003,Townhouse,2023-05-10,300000
