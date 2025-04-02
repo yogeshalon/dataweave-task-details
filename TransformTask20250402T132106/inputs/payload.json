@@ -1,0 +1,14 @@
+{
+  "manufacturingOrders": [
+    {
+      "orderId": "MFG123",
+      "startDate": "2023-10-01T08:00:00Z",
+      "durationHours": 5
+    },
+    {
+      "orderId": "MFG124",
+      "startDate": "2023-10-01T09:30:00Z",
+      "durationHours": 3
+    }
+  ]
+}
