@@ -1,0 +1,22 @@
+{
+  "patients": [
+    {
+      "id": 1,
+      "name": "John Doe",
+      "age": 30,
+      "healthRisk": "Normal"
+    },
+    {
+      "id": 2,
+      "name": "Jane Smith",
+      "age": 45,
+      "healthRisk": "Moderate"
+    },
+    {
+      "id": 3,
+      "name": "Emily Johnson",
+      "age": 50,
+      "healthRisk": "High"
+    }
+  ]
+}
