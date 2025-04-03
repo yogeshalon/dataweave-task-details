@@ -1,0 +1,12 @@
+- id: 101
+  address: "123 Main St"
+  price: 350000
+  bedrooms: 3
+- id: 102
+  address: "456 Elm St"
+  price: 450000
+  bedrooms: 4
+- id: 103
+  address: "789 Oak St"
+  price: 275000
+  bedrooms: 2
