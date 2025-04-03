@@ -1,0 +1,22 @@
+{
+  "employees": [
+    {
+      "id": 1,
+      "name": "John Doe",
+      "annualBonus": 5000,
+      "yearsAtCompany": 5
+    },
+    {
+      "id": 2,
+      "name": "Jane Smith",
+      "annualBonus": 6000,
+      "yearsAtCompany": 4
+    },
+    {
+      "id": 3,
+      "name": "Alice Johnson",
+      "annualBonus": 7000,
+      "yearsAtCompany": 3
+    }
+  ]
+}
