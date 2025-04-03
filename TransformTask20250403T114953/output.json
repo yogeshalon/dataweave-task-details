@@ -1,0 +1,16 @@
+{
+  "summary": [
+    {
+      "customerId": "C001",
+      "totalDeposits": 150,
+      "totalWithdrawals": 50,
+      "balance": 100
+    },
+    {
+      "customerId": "C002",
+      "totalDeposits": 0,
+      "totalWithdrawals": 200,
+      "balance": -200
+    }
+  ]
+}
