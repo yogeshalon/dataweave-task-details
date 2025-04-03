@@ -1,0 +1,9 @@
+order_id,customer_id,product_id,quantity,status
+ORD001,CUST001,A001,2,Shipped
+ORD002,CUST002,A002,1,Pending
+ORD003,CUST001,B001,5,Delivered
+ORD004,CUST003,A001,1,Cancelled
+ORD005,CUST002,B001,2,Shipped
+ORD006,CUST004,A002,3,Pending
+ORD007,CUST001,A001,1,Shipped
+ORD008,CUST005,B001,4,Delivered
