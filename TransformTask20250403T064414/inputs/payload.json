@@ -1,0 +1,22 @@
+{
+  "employees": [
+    {
+      "id": 1,
+      "name": "John Doe",
+      "salary": 50000,
+      "startDate": "2018-05-15"
+    },
+    {
+      "id": 2,
+      "name": "Jane Smith",
+      "salary": 60000,
+      "startDate": "2019-03-22"
+    },
+    {
+      "id": 3,
+      "name": "Alice Johnson",
+      "salary": 70000,
+      "startDate": "2020-01-10"
+    }
+  ]
+}
