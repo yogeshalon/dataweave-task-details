@@ -1,0 +1,22 @@
+{
+  "total_inventory_value": 103000,
+  "category_summary": {
+    "Electronics": {
+      "total_items": 2,
+      "total_quantity": 150,
+      "average_price_per_unit": 1000
+    },
+    "Furniture": {
+      "total_items": 1,
+      "total_quantity": 30,
+      "average_price_per_unit": 150
+    }
+  },
+  "low_stock_items": [
+    {
+      "item_id": "B001",
+      "item_name": "Office Chair",
+      "quantity": 30
+    }
+  ]
+}
