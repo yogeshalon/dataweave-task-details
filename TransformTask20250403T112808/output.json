@@ -1,0 +1,31 @@
+<orders>
+  <summary>
+    <total_orders>8</total_orders>
+    <total_revenue>5300</total_revenue>
+    <shipped_orders>4</shipped_orders>
+    <pending_orders>2</pending_orders>
+    <cancelled_orders>1</cancelled_orders>
+  </summary>
+  <customer_summary>
+    <customer id="CUST001">
+      <total_orders>3</total_orders>
+      <total_spent>3600</total_spent>
+    </customer>
+    <customer id="CUST002">
+      <total_orders>2</total_orders>
+      <total_spent>1950</total_spent>
+    </customer>
+    <customer id="CUST003">
+      <total_orders>1</total_orders>
+      <total_spent>1200</total_spent>
+    </customer>
+    <customer id="CUST004">
+      <total_orders>1</total_orders>
+      <total_spent>2400</total_spent>
+    </customer>
+    <customer id="CUST005">
+      <total_orders>1</total_orders>
+      <total_spent>600</total_spent>
+    </customer>
+  </customer_summary>
+</orders>
