@@ -1,0 +1,28 @@
+{
+  "inventory": [
+    {
+      "item_id": "A001",
+      "item_name": "Laptop",
+      "quantity": 50,
+      "price_per_unit": 1200,
+      "category": "Electronics",
+      "supplier": "TechSupplier Inc."
+    },
+    {
+      "item_id": "A002",
+      "item_name": "Smartphone",
+      "quantity": 100,
+      "price_per_unit": 800,
+      "category": "Electronics",
+      "supplier": "GadgetWorld Ltd."
+    },
+    {
+      "item_id": "B001",
+      "item_name": "Office Chair",
+      "quantity": 30,
+      "price_per_unit": 150,
+      "category": "Furniture",
+      "supplier": "OfficeGoods Co."
+    }
+  ]
+}
