@@ -1,0 +1,25 @@
+{
+  "transactions": [
+    {
+      "transactionId": "T001",
+      "customerId": "C001",
+      "amount": 150,
+      "date": "2023-10-01",
+      "category": "Deposit"
+    },
+    {
+      "transactionId": "T002",
+      "customerId": "C002",
+      "amount": 200,
+      "date": "2023-10-02",
+      "category": "Withdrawal"
+    },
+    {
+      "transactionId": "T003",
+      "customerId": "C001",
+      "amount": 50,
+      "date": "2023-10-03",
+      "category": "Withdrawal"
+    }
+  ]
+}
