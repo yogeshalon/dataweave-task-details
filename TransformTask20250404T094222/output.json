@@ -1,0 +1,18 @@
+{
+  "totalConsumption": 5300,
+  "averageConsumption": 1766.67,
+  "buildings": [
+    {
+      "buildingId": "B001",
+      "consumption": 1500
+    },
+    {
+      "buildingId": "B002",
+      "consumption": 2000
+    },
+    {
+      "buildingId": "B003",
+      "consumption": 1800
+    }
+  ]
+}
