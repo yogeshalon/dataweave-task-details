@@ -1,0 +1,22 @@
+{
+  "energyConsumption": [
+    {
+      "buildingId": "B001",
+      "consumption": "1500",
+      "unit": "kWh",
+      "timestamp": "2023-10-01T08:00:00Z"
+    },
+    {
+      "buildingId": "B002",
+      "consumption": "2000",
+      "unit": "kWh",
+      "timestamp": "2023-10-01T08:00:00Z"
+    },
+    {
+      "buildingId": "B003",
+      "consumption": "1800",
+      "unit": "kWh",
+      "timestamp": "2023-10-01T08:00:00Z"
+    }
+  ]
+}
