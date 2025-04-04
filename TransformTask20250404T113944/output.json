@@ -1,0 +1,14 @@
+{
+  "campaignsSummary": [
+    {
+      "name": "Summer Sale",
+      "totalSpent": 5000,
+      "conversionRate": 20
+    },
+    {
+      "name": "Winter Clearance",
+      "totalSpent": 7000,
+      "conversionRate": 22.5
+    }
+  ]
+}
