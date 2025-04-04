@@ -1,0 +1,25 @@
+{
+  "reservations": [
+    {
+      "id": 1,
+      "customerName": "John Doe",
+      "destination": "Paris",
+      "price": 1200.5,
+      "status": "confirmed"
+    },
+    {
+      "id": 2,
+      "customerName": "Jane Smith",
+      "destination": "London",
+      "price": 800,
+      "status": "pending"
+    },
+    {
+      "id": 3,
+      "customerName": "Emily Johnson",
+      "destination": "Berlin",
+      "price": 950.75,
+      "status": "confirmed"
+    }
+  ]
+}
