@@ -1,0 +1,16 @@
+{
+  "confirmedReservations": [
+    {
+      "id": 1,
+      "customerName": "John Doe",
+      "destination": "Paris",
+      "price": 1200.5
+    },
+    {
+      "id": 3,
+      "customerName": "Emily Johnson",
+      "destination": "Berlin",
+      "price": 950.75
+    }
+  ]
+}
