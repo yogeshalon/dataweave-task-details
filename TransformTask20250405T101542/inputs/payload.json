@@ -1,0 +1,25 @@
+{
+  "vehicles": [
+    {
+      "id": "V001",
+      "type": "Truck",
+      "mileage": 12000,
+      "fuelConsumption": 8,
+      "lastServiceDate": "2023-01-15"
+    },
+    {
+      "id": "V002",
+      "type": "Van",
+      "mileage": 8000,
+      "fuelConsumption": 10,
+      "lastServiceDate": "2023-03-10"
+    },
+    {
+      "id": "V003",
+      "type": "Truck",
+      "mileage": 15000,
+      "fuelConsumption": 9,
+      "lastServiceDate": "2023-02-20"
+    }
+  ]
+}
