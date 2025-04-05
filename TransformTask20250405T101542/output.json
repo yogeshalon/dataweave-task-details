@@ -1,0 +1,21 @@
+{
+  "fleetSummary": {
+    "totalVehicles": 3,
+    "averageMileage": 11000,
+    "totalFuelConsumption": 27,
+    "nextServiceDue": [
+      {
+        "vehicleId": "V001",
+        "dueDate": "2023-07-15"
+      },
+      {
+        "vehicleId": "V002",
+        "dueDate": "2023-09-10"
+      },
+      {
+        "vehicleId": "V003",
+        "dueDate": "2023-08-20"
+      }
+    ]
+  }
+}
