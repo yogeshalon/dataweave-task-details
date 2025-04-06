@@ -1,0 +1,43 @@
+{
+  "patients": [
+    {
+      "id": 1,
+      "name": "John Doe",
+      "age": 45,
+      "medicalHistory": [
+        {
+          "condition": "Hypertension",
+          "treatment": "Medication A",
+          "visits": [
+            2021,
+            2022,
+            2023
+          ]
+        },
+        {
+          "condition": "Diabetes",
+          "treatment": "Insulin",
+          "visits": [
+            2020,
+            2021
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Jane Smith",
+      "age": 38,
+      "medicalHistory": [
+        {
+          "condition": "Asthma",
+          "treatment": "Inhaler",
+          "visits": [
+            2022,
+            2023
+          ]
+        }
+      ]
+    }
+  ]
+}
