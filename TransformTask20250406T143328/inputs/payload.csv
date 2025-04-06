@@ -1,0 +1,11 @@
+customer_id,call_duration,call_type
+1,300,international
+2,150,national
+3,200,international
+4,400,national
+5,100,international
+6,250,national
+7,350,international
+8,450,national
+9,500,international
+10,600,national
