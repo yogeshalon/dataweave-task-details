@@ -1,0 +1,44 @@
+{
+  "claims": [
+    {
+      "claimId": "C12345",
+      "policyNumber": "P98765",
+      "claimAmount": 15000,
+      "status": "Pending",
+      "dateOfClaim": "2023-09-15",
+      "incidentDetails": {
+        "type": "Accident",
+        "description": "Car accident on highway",
+        "location": "I-95 North"
+      },
+      "claimant": {
+        "name": "John Doe",
+        "age": 35,
+        "contact": {
+          "email": "john.doe@example.com",
+          "phone": "+1234567890"
+        }
+      }
+    },
+    {
+      "claimId": "C12346",
+      "policyNumber": "P98766",
+      "claimAmount": 25000,
+      "status": "Approved",
+      "dateOfClaim": "2023-09-20",
+      "incidentDetails": {
+        "type": "Theft",
+        "description": "Bicycle stolen from garage",
+        "location": "123 Main St"
+      },
+      "claimant": {
+        "name": "Jane Smith",
+        "age": 28,
+        "contact": {
+          "email": "jane.smith@example.com",
+          "phone": "+0987654321"
+        }
+      }
+    }
+  ]
+}
