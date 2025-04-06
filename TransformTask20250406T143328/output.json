@@ -1,0 +1,14 @@
+<calls>
+  <call>
+    <customerId>1</customerId>
+    <averageDuration>300</averageDuration>
+    <callType>international</callType>
+    <totalCalls>3</totalCalls>
+  </call>
+  <call>
+    <customerId>2</customerId>
+    <averageDuration>150</averageDuration>
+    <callType>national</callType>
+    <totalCalls>4</totalCalls>
+  </call>
+</calls>
