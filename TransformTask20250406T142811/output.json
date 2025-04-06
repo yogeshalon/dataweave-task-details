@@ -1,0 +1,30 @@
+{
+  "summary": [
+    {
+      "patientId": 1,
+      "name": "John Doe",
+      "totalVisits": 5,
+      "conditions": [
+        {
+          "condition": "Hypertension",
+          "lastVisitYear": 2023
+        },
+        {
+          "condition": "Diabetes",
+          "lastVisitYear": 2021
+        }
+      ]
+    },
+    {
+      "patientId": 2,
+      "name": "Jane Smith",
+      "totalVisits": 2,
+      "conditions": [
+        {
+          "condition": "Asthma",
+          "lastVisitYear": 2023
+        }
+      ]
+    }
+  ]
+}
