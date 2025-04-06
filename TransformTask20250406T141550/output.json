@@ -1,0 +1,18 @@
+{
+  "summary": {
+    "totalOrders": 2,
+    "totalRevenue": 130,
+    "shippedOrders": 1,
+    "pendingOrders": 1,
+    "orderDetails": [
+      {
+        "orderId": "ORD001",
+        "totalAmount": 105
+      },
+      {
+        "orderId": "ORD002",
+        "totalAmount": 100
+      }
+    ]
+  }
+}
