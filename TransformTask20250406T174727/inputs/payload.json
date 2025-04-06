@@ -1,0 +1,16 @@
+{
+  "products": [
+    {
+      "id": "P001",
+      "name": "Wireless Mouse",
+      "price": 29.99,
+      "createdDate": "2023-01-15T10:00:00Z"
+    },
+    {
+      "id": "P002",
+      "name": "Mechanical Keyboard",
+      "price": 89.99,
+      "createdDate": "2023-02-20T10:00:00Z"
+    }
+  ]
+}
