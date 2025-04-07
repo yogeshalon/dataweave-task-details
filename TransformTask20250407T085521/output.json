@@ -1,0 +1,17 @@
+{
+  "totalReservations": 2,
+  "reservations": [
+    {
+      "id": 1,
+      "customerName": "John Doe",
+      "destination": "Paris",
+      "finalPrice": 1020
+    },
+    {
+      "id": 2,
+      "customerName": "Jane Smith",
+      "destination": "New York",
+      "finalPrice": 680
+    }
+  ]
+}
