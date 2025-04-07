@@ -1,0 +1,34 @@
+{
+  "energyConsumption": [
+    {
+      "buildingId": "B001",
+      "monthlyUsage": [
+        1200,
+        1150,
+        1300,
+        1250,
+        1400
+      ]
+    },
+    {
+      "buildingId": "B002",
+      "monthlyUsage": [
+        800,
+        850,
+        900,
+        950,
+        1000
+      ]
+    },
+    {
+      "buildingId": "B003",
+      "monthlyUsage": [
+        1500,
+        1600,
+        1550,
+        1580,
+        1620
+      ]
+    }
+  ]
+}
