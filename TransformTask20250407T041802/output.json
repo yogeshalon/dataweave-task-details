@@ -1,0 +1,16 @@
+{
+  "averageMonthlyUsage": [
+    {
+      "buildingId": "B001",
+      "averageUsage": 1260
+    },
+    {
+      "buildingId": "B002",
+      "averageUsage": 920
+    },
+    {
+      "buildingId": "B003",
+      "averageUsage": 15610
+    }
+  ]
+}
