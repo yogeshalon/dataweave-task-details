@@ -1,0 +1,4 @@
+customerId,subscriptionType,monthlyFee,months
+101,Premium,29.99,12
+102,Basic,9.99,6
+103,Standard,19.99,24
