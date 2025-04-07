@@ -1,0 +1,20 @@
+{
+  "reservations": [
+    {
+      "id": 1,
+      "customerName": "John Doe",
+      "destination": "Paris",
+      "basePrice": 1200,
+      "discount": 0.1,
+      "taxRate": 0.2
+    },
+    {
+      "id": 2,
+      "customerName": "Jane Smith",
+      "destination": "New York",
+      "basePrice": 800,
+      "discount": 0.15,
+      "taxRate": 0.1
+    }
+  ]
+}
